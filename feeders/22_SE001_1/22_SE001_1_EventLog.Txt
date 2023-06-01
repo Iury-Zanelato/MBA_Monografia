@@ -1,0 +1,8 @@
+Hour=1, Sec=0, ControlIter=1, Element=Regulator.reg_20_9718c, Action= CHANGED 2 TAPS TO 1.0125.
+Hour=1, Sec=0, ControlIter=1, Element=Regulator.reg_20_9718b, Action= CHANGED 1 TAPS TO 1.00625.
+Hour=1, Sec=0, ControlIter=1, Element=Regulator.reg_20_9718a, Action= CHANGED 2 TAPS TO 1.0125.
+Hour=1, Sec=0, ControlIter=2, Element=Regulator.reg_20_9718a, Action= CHANGED 1 TAPS TO 1.01875.
+Hour=9, Sec=0, ControlIter=1, Element=Regulator.reg_20_9718c, Action= CHANGED 1 TAPS TO 1.01875.
+Hour=9, Sec=0, ControlIter=1, Element=Regulator.reg_20_9718b, Action= CHANGED 1 TAPS TO 1.0125.
+Hour=19, Sec=0, ControlIter=1, Element=Regulator.reg_20_9718c, Action= CHANGED 1 TAPS TO 1.025.
+Hour=19, Sec=0, ControlIter=1, Element=Regulator.reg_20_9718a, Action= CHANGED 1 TAPS TO 1.025.

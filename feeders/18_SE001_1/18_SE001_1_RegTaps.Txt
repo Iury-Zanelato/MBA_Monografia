@@ -1,0 +1,17 @@
+
+CONTROLLED TRANSFORMER TAP SETTINGS
+
+Name    RegControl        Tap      Min       Max     Step      Position      Winding      Direction       CogenMode
+
+reg_18_9715a reg_18_9715a  1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_18_9715b reg_18_9715b  1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_18_9715c reg_18_9715c  1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_23_1a    reg_23_1a     1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_23_1b    reg_23_1b     1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_23_1c    reg_23_1c     1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_23_9701a reg_23_9701a  1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_23_9701b reg_23_9701b  1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_23_9701c reg_23_9701c  1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_23_9708a reg_23_9708a  1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_23_9708b reg_23_9708b  1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+reg_23_9708c reg_23_9708c  1.10000  0.90000  1.10000  0.00625     16      2      Forward      False

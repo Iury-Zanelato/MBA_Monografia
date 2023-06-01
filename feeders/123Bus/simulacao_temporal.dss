@@ -1,0 +1,15 @@
+Compile (IEEE123Master.dss)
+
+New EnergyMeter.Feeder Line.L115 1
+
+batchedit load..* daily=default
+New monitor.Power element=Line.L115 terminal=1 ppolar=no mode=1
+
+set mode=daily
+
+solve
+Buscoords Buscoords.dat
+Export monitors power
+Plot monitor object= power channels=(1 3 5 )
+Plot monitor object= power channels=(2 4 6 )
+Show Meters

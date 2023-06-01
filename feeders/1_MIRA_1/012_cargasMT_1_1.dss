@@ -1,0 +1,6 @@
+New Load.MT_1234839_M1 bus1=697641.1.2.3.4 phases=3 conn=Delta model=2 kv=23.1 kw=1.6987105 pf=0.92 daily=MT2_DU status=variable vmaxpu=1.5 vminpu=0.93
+New Load.MT_1234839_M2 bus1=697641.1.2.3.4 phases=3 conn=Delta model=3 kv=23.1 kw=1.6987105 pf=0.92 daily=MT2_DU status=variable vmaxpu=1.5 vminpu=0.93
+New Load.MT_1237803_M1 bus1=802461.1.2.3.4 phases=3 conn=Delta model=2 kv=23.1 kw=12.851417 pf=0.92 daily=MT4_DU status=variable vmaxpu=1.5 vminpu=0.93
+New Load.MT_1237803_M2 bus1=802461.1.2.3.4 phases=3 conn=Delta model=3 kv=23.1 kw=12.851417 pf=0.92 daily=MT4_DU status=variable vmaxpu=1.5 vminpu=0.93
+New Load.MT_1238514_M1 bus1=813592.1.2.3.4 phases=3 conn=Delta model=2 kv=23.1 kw=0 pf=0.92 daily=MT5_DU status=variable vmaxpu=1.5 vminpu=0.93
+New Load.MT_1238514_M2 bus1=813592.1.2.3.4 phases=3 conn=Delta model=3 kv=23.1 kw=0 pf=0.92 daily=MT5_DU status=variable vmaxpu=1.5 vminpu=0.93

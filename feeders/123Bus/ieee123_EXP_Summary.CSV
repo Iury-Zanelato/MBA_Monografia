@@ -1,0 +1,8 @@
+DateTime, CaseName, Status, Mode, Number, LoadMult, NumDevices, NumBuses, NumNodes, Iterations, ControlMode, ControlIterations, MostIterationsDone, Year, Hour, MaxPuVoltage, MinPuVoltage, TotalMW, TotalMvar, MWLosses, pctLosses, MvarLosses, Frequency
+"4/2/2022 10:35:18 AM", ieee123, SOLVED, Snap, 1,    1.000, 237, 132, 278, 0, STATIC, 0, 0, 0, 0, 1, 1, 2.10176E-009, -0.000127, 9.81505E-011, 4.67, -0.000852928, 60
+"4/6/2022 6:08:20 PM", ieee123, SOLVED, Snap, 1,    1.000, 237, 132, 278, 0, STATIC, 0, 0, 0, 0, 1, 1, 2.10176E-009, -0.000127, 9.81505E-011, 4.67, -0.000852928, 60
+"5/24/2022 8:02:47 PM", ieee123, SOLVED, Snap, 1,    1.000, 237, 132, 278, 0, STATIC, 0, 0, 0, 0, 1, 1, 2.10176E-009, -0.000127, 9.81505E-011, 4.67, -0.000852928, 60
+"3/8/2023 6:15:42 PM", ieee123, SOLVED, Snap, 1,    1.000, 237, 132, 278, 0, STATIC, 0, 0, 0, 0, 1, 1, 2.10176E-009, -0.000127, 9.81505E-011, 4.67, -0.000852928, 60
+"3/8/2023 6:16:42 PM", ieee123, SOLVED, Snap, 1,    1.000, 237, 132, 278, 0, STATIC, 0, 0, 0, 0, 1, 1, 2.10176E-009, -0.000127, 9.81505E-011, 4.67, -0.000852928, 60
+"3/8/2023 6:19:10 PM", ieee123, SOLVED, Snap, 1,    1.000, 237, 132, 278, 0, STATIC, 0, 0, 0, 0, 1, 1, 2.10176E-009, -0.000127, 9.81505E-011, 4.67, -0.000852928, 60
+"3/15/2023 8:28:25 AM", ieee123, SOLVED, Snap, 100,    1.000, 238, 132, 278, 19, STATIC, 6, 4, 0, 0, 1.05, 0.97921, 3.61524, 1.311515, 0.0959769, 2.655, 0.192504, 60

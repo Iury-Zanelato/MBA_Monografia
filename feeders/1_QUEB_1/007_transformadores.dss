@@ -1,0 +1,310 @@
+New Transformer.TRF_2_1038A phases=1 windings=3 buses=[67561.1.2 ET2_1038.1.4 ET2_1038.4.2] conns=[Delta Wye Wye] kvs=[23.1 0.22 0.22] kvas=[15 15 15] %loadloss=1.933333 %noloadloss=0.5
+New Reactor.TRF_2_1038A_R phases=1 bus1=ET2_1038.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_1114A phases=1 windings=3 buses=[56121.3.1 ET2_1114.1.4 ET2_1114.4.2] conns=[Delta Wye Wye] kvs=[23.1 0.22 0.22] kvas=[10 10 10] %loadloss=1.15 %noloadloss=0.4
+New Reactor.TRF_2_1114A_R phases=1 bus1=ET2_1114.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_1149A phases=1 windings=3 buses=[MRT_68881TRF_2_1149A.1 ET2_1149.1.4 ET2_1149.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_2_1149A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1149A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1149A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1149A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_1149A phases=1 bus1=68881.1 bus2= MRT_68881TRF_2_1149A.1 linecode=LC_MRT_TRF_2_1149A_1 length=0.001 units=km
+New Reactor.TRF_2_1149A_R phases=1 bus1=ET2_1149.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_1153A phases=1 windings=3 buses=[MRT_69861TRF_2_1153A.1 ET2_1153.1.4 ET2_1153.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_2_1153A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1153A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1153A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1153A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_1153A phases=1 bus1=69861.1 bus2= MRT_69861TRF_2_1153A.1 linecode=LC_MRT_TRF_2_1153A_1 length=0.001 units=km
+New Reactor.TRF_2_1153A_R phases=1 bus1=ET2_1153.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_1218A phases=1 windings=3 buses=[MRT_65221TRF_2_1218A.3 ET2_1218.1.4 ET2_1218.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_1218A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1218A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1218A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1218A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_1218A phases=1 bus1=65221.3 bus2= MRT_65221TRF_2_1218A.3 linecode=LC_MRT_TRF_2_1218A_1 length=0.001 units=km
+New Reactor.TRF_2_1218A_R phases=1 bus1=ET2_1218.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_1280A phases=1 windings=3 buses=[MRT_33961TRF_2_1280A.3 ET2_1280.1.4 ET2_1280.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_2_1280A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1280A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1280A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1280A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_1280A phases=1 bus1=33961.3 bus2= MRT_33961TRF_2_1280A.3 linecode=LC_MRT_TRF_2_1280A_1 length=0.001 units=km
+New Reactor.TRF_2_1280A_R phases=1 bus1=ET2_1280.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_1281A phases=1 windings=3 buses=[MRT_34721TRF_2_1281A.3 ET2_1281.1.4 ET2_1281.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_2_1281A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1281A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1281A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1281A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_1281A phases=1 bus1=34721.3 bus2= MRT_34721TRF_2_1281A.3 linecode=LC_MRT_TRF_2_1281A_1 length=0.001 units=km
+New Reactor.TRF_2_1281A_R phases=1 bus1=ET2_1281.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_1737A phases=1 windings=3 buses=[MRT_69781TRF_2_1737A.1 ET2_1737.1.4 ET2_1737.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_1737A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1737A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1737A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1737A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_1737A phases=1 bus1=69781.1 bus2= MRT_69781TRF_2_1737A.1 linecode=LC_MRT_TRF_2_1737A_1 length=0.001 units=km
+New Reactor.TRF_2_1737A_R phases=1 bus1=ET2_1737.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_1831A phases=1 windings=3 buses=[MRT_57971TRF_2_1831A.2 ET2_1831.1.4 ET2_1831.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[5 5 5] %loadloss=2.1 %noloadloss=0.7
+New Linecode.LC_MRT_TRF_2_1831A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1831A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1831A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1831A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_1831A phases=1 bus1=57971.2 bus2= MRT_57971TRF_2_1831A.2 linecode=LC_MRT_TRF_2_1831A_1 length=0.001 units=km
+New Reactor.TRF_2_1831A_R phases=1 bus1=ET2_1831.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_1936A phases=1 windings=3 buses=[MRT_65881TRF_2_1936A.3 ET2_1936.1.4 ET2_1936.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_1936A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1936A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1936A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_1936A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_1936A phases=1 bus1=65881.3 bus2= MRT_65881TRF_2_1936A.3 linecode=LC_MRT_TRF_2_1936A_1 length=0.001 units=km
+New Reactor.TRF_2_1936A_R phases=1 bus1=ET2_1936.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_2172A phases=3 windings=2 buses=[55051.1.2.3 ET2_2172.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[75 75] %loadloss=3.84 %noloadloss=0.966666
+New Reactor.TRF_2_2172A_R phases=1 bus1=ET2_2172.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_2215A phases=1 windings=3 buses=[MRT_337631TRF_2_2215A.3 ET2_2215.1.4 ET2_2215.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_2_2215A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2215A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2215A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2215A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_2215A phases=1 bus1=337631.3 bus2= MRT_337631TRF_2_2215A.3 linecode=LC_MRT_TRF_2_2215A_1 length=0.001 units=km
+New Reactor.TRF_2_2215A_R phases=1 bus1=ET2_2215.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_2380A phases=1 windings=3 buses=[MRT_372751TRF_2_2380A.3 ET2_2380.1.4 ET2_2380.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_2380A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2380A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2380A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2380A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_2380A phases=1 bus1=372751.3 bus2= MRT_372751TRF_2_2380A.3 linecode=LC_MRT_TRF_2_2380A_1 length=0.001 units=km
+New Reactor.TRF_2_2380A_R phases=1 bus1=ET2_2380.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_2459A phases=1 windings=3 buses=[MRT_379091TRF_2_2459A.1 ET2_2459.1.4 ET2_2459.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[5 5 5] %loadloss=2.1 %noloadloss=0.7
+New Linecode.LC_MRT_TRF_2_2459A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2459A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2459A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2459A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_2459A phases=1 bus1=379091.1 bus2= MRT_379091TRF_2_2459A.1 linecode=LC_MRT_TRF_2_2459A_1 length=0.001 units=km
+New Reactor.TRF_2_2459A_R phases=1 bus1=ET2_2459.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_2558A phases=1 windings=3 buses=[MRT_39901TRF_2_2558A.3 ET2_2558.1.4 ET2_2558.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_2558A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2558A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2558A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2558A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_2558A phases=1 bus1=39901.3 bus2= MRT_39901TRF_2_2558A.3 linecode=LC_MRT_TRF_2_2558A_1 length=0.001 units=km
+New Reactor.TRF_2_2558A_R phases=1 bus1=ET2_2558.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_2705A phases=1 windings=3 buses=[MRT_67691TRF_2_2705A.2 ET2_2705.1.4 ET2_2705.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_2705A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2705A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2705A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2705A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_2705A phases=1 bus1=67691.2 bus2= MRT_67691TRF_2_2705A.2 linecode=LC_MRT_TRF_2_2705A_1 length=0.001 units=km
+New Reactor.TRF_2_2705A_R phases=1 bus1=ET2_2705.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_2880A phases=3 windings=2 buses=[307381.1.2.3 ET2_2880.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[30 30] %loadloss=2.1 %noloadloss=0.533333
+New Reactor.TRF_2_2880A_R phases=1 bus1=ET2_2880.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_2942A phases=1 windings=3 buses=[MRT_607861TRF_2_2942A.3 ET2_2942.1.4 ET2_2942.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_2_2942A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2942A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2942A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2942A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_2942A phases=1 bus1=607861.3 bus2= MRT_607861TRF_2_2942A.3 linecode=LC_MRT_TRF_2_2942A_1 length=0.001 units=km
+New Reactor.TRF_2_2942A_R phases=1 bus1=ET2_2942.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_2946A phases=1 windings=3 buses=[MRT_627821TRF_2_2946A.2 ET2_2946.1.4 ET2_2946.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[5 5 5] %loadloss=2.1 %noloadloss=0.7
+New Linecode.LC_MRT_TRF_2_2946A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2946A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2946A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_2946A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_2946A phases=1 bus1=627821.2 bus2= MRT_627821TRF_2_2946A.2 linecode=LC_MRT_TRF_2_2946A_1 length=0.001 units=km
+New Reactor.TRF_2_2946A_R phases=1 bus1=ET2_2946.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3083A phases=1 windings=3 buses=[MRT_627431TRF_2_3083A.2 ET2_3083.1.4 ET2_3083.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_3083A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3083A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3083A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3083A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_3083A phases=1 bus1=627431.2 bus2= MRT_627431TRF_2_3083A.2 linecode=LC_MRT_TRF_2_3083A_1 length=0.001 units=km
+New Reactor.TRF_2_3083A_R phases=1 bus1=ET2_3083.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3084A phases=1 windings=3 buses=[MRT_34621TRF_2_3084A.3 ET2_3084.1.4 ET2_3084.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_3084A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3084A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3084A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3084A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_3084A phases=1 bus1=34621.3 bus2= MRT_34621TRF_2_3084A.3 linecode=LC_MRT_TRF_2_3084A_1 length=0.001 units=km
+New Reactor.TRF_2_3084A_R phases=1 bus1=ET2_3084.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3183A phases=1 windings=3 buses=[MRT_478661TRF_2_3183A.2 ET2_3183.1.4 ET2_3183.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_3183A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3183A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3183A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3183A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_3183A phases=1 bus1=478661.2 bus2= MRT_478661TRF_2_3183A.2 linecode=LC_MRT_TRF_2_3183A_1 length=0.001 units=km
+New Reactor.TRF_2_3183A_R phases=1 bus1=ET2_3183.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3184A phases=1 windings=3 buses=[MRT_478731TRF_2_3184A.2 ET2_3184.1.4 ET2_3184.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_3184A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3184A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3184A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3184A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_3184A phases=1 bus1=478731.2 bus2= MRT_478731TRF_2_3184A.2 linecode=LC_MRT_TRF_2_3184A_1 length=0.001 units=km
+New Reactor.TRF_2_3184A_R phases=1 bus1=ET2_3184.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3255A phases=1 windings=3 buses=[MRT_620991TRF_2_3255A.1 ET2_3255.1.4 ET2_3255.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_3255A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3255A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3255A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3255A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_3255A phases=1 bus1=620991.1 bus2= MRT_620991TRF_2_3255A.1 linecode=LC_MRT_TRF_2_3255A_1 length=0.001 units=km
+New Reactor.TRF_2_3255A_R phases=1 bus1=ET2_3255.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3265A phases=3 windings=2 buses=[493111.1.2.3 ET2_3265.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[15 15] %loadloss=2.5 %noloadloss=0.633333
+New Reactor.TRF_2_3265A_R phases=1 bus1=ET2_3265.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3362A phases=1 windings=3 buses=[MRT_69731TRF_2_3362A.1 ET2_3362.1.4 ET2_3362.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_3362A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3362A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3362A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3362A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_3362A phases=1 bus1=69731.1 bus2= MRT_69731TRF_2_3362A.1 linecode=LC_MRT_TRF_2_3362A_1 length=0.001 units=km
+New Reactor.TRF_2_3362A_R phases=1 bus1=ET2_3362.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3401A phases=1 windings=3 buses=[MRT_40091TRF_2_3401A.1 ET2_3401.1.4 ET2_3401.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_3401A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3401A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3401A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3401A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_3401A phases=1 bus1=40091.1 bus2= MRT_40091TRF_2_3401A.1 linecode=LC_MRT_TRF_2_3401A_1 length=0.001 units=km
+New Reactor.TRF_2_3401A_R phases=1 bus1=ET2_3401.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3461A phases=3 windings=2 buses=[624781.1.2.3 ET2_3461.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[75 75] %loadloss=3.84 %noloadloss=0.966666
+New Reactor.TRF_2_3461A_R phases=1 bus1=ET2_3461.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3510A phases=1 windings=3 buses=[MRT_622821TRF_2_3510A.2 ET2_3510.1.4 ET2_3510.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[5 5 5] %loadloss=2.1 %noloadloss=0.7
+New Linecode.LC_MRT_TRF_2_3510A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3510A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3510A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3510A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_3510A phases=1 bus1=622821.2 bus2= MRT_622821TRF_2_3510A.2 linecode=LC_MRT_TRF_2_3510A_1 length=0.001 units=km
+New Reactor.TRF_2_3510A_R phases=1 bus1=ET2_3510.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3692A phases=1 windings=2 buses=[MRT_478631TRF_2_3692A.2 ET2_3692.1.4] conns=[Wye Wye] kvs=[13.3367912182804 0.22] kvas=[5 5] %loadloss=2.1 %noloadloss=0.7
+New Linecode.LC_MRT_TRF_2_3692A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3692A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3692A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3692A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_3692A phases=1 bus1=478631.2 bus2= MRT_478631TRF_2_3692A.2 linecode=LC_MRT_TRF_2_3692A_1 length=0.001 units=km
+New Reactor.TRF_2_3692A_R phases=1 bus1=ET2_3692.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3796A phases=3 windings=2 buses=[238071.1.2.3 ET2_3796.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[30 30] %loadloss=2.1 %noloadloss=0.533333
+New Reactor.TRF_2_3796A_R phases=1 bus1=ET2_3796.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_3969A phases=1 windings=3 buses=[MRT_65171TRF_2_3969A.3 ET2_3969.1.4 ET2_3969.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_2_3969A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3969A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3969A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_3969A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_3969A phases=1 bus1=65171.3 bus2= MRT_65171TRF_2_3969A.3 linecode=LC_MRT_TRF_2_3969A_1 length=0.001 units=km
+New Reactor.TRF_2_3969A_R phases=1 bus1=ET2_3969.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_4049A phases=3 windings=2 buses=[911.1.2.3 ET2_4049.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[15 15] %loadloss=2.5 %noloadloss=0.633333
+New Reactor.TRF_2_4049A_R phases=1 bus1=ET2_4049.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_4255A phases=3 windings=2 buses=[386211.1.2.3 ET2_4255.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[75 75] %loadloss=3.84 %noloadloss=0.966666
+New Reactor.TRF_2_4255A_R phases=1 bus1=ET2_4255.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_448A phases=3 windings=2 buses=[55111.1.2.3 ET2_448.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[45 45] %loadloss=1.866667 %noloadloss=0.477777
+New Reactor.TRF_2_448A_R phases=1 bus1=ET2_448.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_449A phases=3 windings=2 buses=[340051.1.2.3 ET2_449.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[45 45] %loadloss=1.866667 %noloadloss=0.477777
+New Reactor.TRF_2_449A_R phases=1 bus1=ET2_449.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_4550A phases=3 windings=2 buses=[65891.1.2.3 ET2_4550.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[15 15] %loadloss=2.5 %noloadloss=0.633333
+New Reactor.TRF_2_4550A_R phases=1 bus1=ET2_4550.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_4762A phases=3 windings=2 buses=[651571.1.2.3 ET2_4762.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[225 225] %loadloss=1.28 %noloadloss=0.322222
+New Reactor.TRF_2_4762A_R phases=1 bus1=ET2_4762.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_5133A phases=1 windings=3 buses=[MRT_732381TRF_2_5133A.1 ET2_5133.1.4 ET2_5133.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_2_5133A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_5133A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_5133A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_5133A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_5133A phases=1 bus1=732381.1 bus2= MRT_732381TRF_2_5133A.1 linecode=LC_MRT_TRF_2_5133A_1 length=0.001 units=km
+New Reactor.TRF_2_5133A_R phases=1 bus1=ET2_5133.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_5277A phases=3 windings=2 buses=[624771.1.2.3 ET2_5277.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[45 45] %loadloss=1.866667 %noloadloss=0.477777
+New Reactor.TRF_2_5277A_R phases=1 bus1=ET2_5277.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_5686A phases=1 windings=3 buses=[MRT_760611TRF_2_5686A.2 ET2_5686.1.4 ET2_5686.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[25 25 25] %loadloss=1.56 %noloadloss=0.36
+New Linecode.LC_MRT_TRF_2_5686A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_5686A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_5686A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_5686A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_5686A phases=1 bus1=760611.2 bus2= MRT_760611TRF_2_5686A.2 linecode=LC_MRT_TRF_2_5686A_1 length=0.001 units=km
+New Reactor.TRF_2_5686A_R phases=1 bus1=ET2_5686.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_5729A phases=3 windings=2 buses=[772241.1.2.3 ET2_5729.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[30 30] %loadloss=2.1 %noloadloss=0.533333
+New Reactor.TRF_2_5729A_R phases=1 bus1=ET2_5729.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_5971A phases=1 windings=3 buses=[MRT_786941TRF_2_5971A.1 ET2_5971.1.4 ET2_5971.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_5971A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_5971A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_5971A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_5971A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_5971A phases=1 bus1=786941.1 bus2= MRT_786941TRF_2_5971A.1 linecode=LC_MRT_TRF_2_5971A_1 length=0.001 units=km
+New Reactor.TRF_2_5971A_R phases=1 bus1=ET2_5971.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_6240A phases=3 windings=2 buses=[797821.1.2.3 ET2_6240.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[225 225] %loadloss=1.28 %noloadloss=0.322222
+New Reactor.TRF_2_6240A_R phases=1 bus1=ET2_6240.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_6425A phases=1 windings=3 buses=[MRT_55151TRF_2_6425A.1 ET2_6425.1.4 ET2_6425.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_6425A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_6425A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_6425A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_6425A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_6425A phases=1 bus1=55151.1 bus2= MRT_55151TRF_2_6425A.1 linecode=LC_MRT_TRF_2_6425A_1 length=0.001 units=km
+New Reactor.TRF_2_6425A_R phases=1 bus1=ET2_6425.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_703A phases=3 windings=2 buses=[19771.1.2.3 ET2_703.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[15 15] %loadloss=2.5 %noloadloss=0.633333
+New Reactor.TRF_2_703A_R phases=1 bus1=ET2_703.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_704A phases=1 windings=3 buses=[MRT_68721TRF_2_704A.2 ET2_704.1.4 ET2_704.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_2_704A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_704A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_704A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_704A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_704A phases=1 bus1=68721.2 bus2= MRT_68721TRF_2_704A.2 linecode=LC_MRT_TRF_2_704A_1 length=0.001 units=km
+New Reactor.TRF_2_704A_R phases=1 bus1=ET2_704.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_705A phases=1 windings=3 buses=[70791.3.1 ET2_705.1.4 ET2_705.4.2] conns=[Delta Wye Wye] kvs=[23.1 0.22 0.22] kvas=[10 10 10] %loadloss=1.15 %noloadloss=0.4
+New Reactor.TRF_2_705A_R phases=1 bus1=ET2_705.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_706A phases=1 windings=3 buses=[5041.1.2 ET2_706.1.4 ET2_706.4.2] conns=[Delta Wye Wye] kvs=[23.1 0.22 0.22] kvas=[15 15 15] %loadloss=1.933333 %noloadloss=0.5
+New Reactor.TRF_2_706A_R phases=1 bus1=ET2_706.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_707A phases=1 windings=3 buses=[MRT_65041TRF_2_707A.2 ET2_707.1.4 ET2_707.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_2_707A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_707A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_707A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_707A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_707A phases=1 bus1=65041.2 bus2= MRT_65041TRF_2_707A.2 linecode=LC_MRT_TRF_2_707A_1 length=0.001 units=km
+New Reactor.TRF_2_707A_R phases=1 bus1=ET2_707.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_708A phases=1 windings=3 buses=[66011.3.1 ET2_708.1.4 ET2_708.4.2] conns=[Delta Wye Wye] kvs=[23.1 0.22 0.22] kvas=[10 10 10] %loadloss=1.15 %noloadloss=0.4
+New Reactor.TRF_2_708A_R phases=1 bus1=ET2_708.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_712A phases=3 windings=2 buses=[39141.1.2.3 ET2_712.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[30 30] %loadloss=2.1 %noloadloss=0.533333
+New Reactor.TRF_2_712A_R phases=1 bus1=ET2_712.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_714A phases=1 windings=3 buses=[MRT_39921TRF_2_714A.3 ET2_714.1.4 ET2_714.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[5 5 5] %loadloss=2.1 %noloadloss=0.7
+New Linecode.LC_MRT_TRF_2_714A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_714A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_714A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_2_714A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_2_714A phases=1 bus1=39921.3 bus2= MRT_39921TRF_2_714A.3 linecode=LC_MRT_TRF_2_714A_1 length=0.001 units=km
+New Reactor.TRF_2_714A_R phases=1 bus1=ET2_714.4 R=15 X=0 basefreq=60
+New Transformer.TRF_2_715A phases=3 windings=2 buses=[40031.1.2.3 ET2_715.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[30 30] %loadloss=2.1 %noloadloss=0.533333
+New Reactor.TRF_2_715A_R phases=1 bus1=ET2_715.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_1210A phases=1 windings=3 buses=[MRT_40861TRF_28_1210A.2 ET28_1210.1.4 ET28_1210.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[10 10 10] %loadloss=1.95 %noloadloss=0.5
+New Linecode.LC_MRT_TRF_28_1210A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_1210A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_1210A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_1210A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_28_1210A phases=1 bus1=40861.2 bus2= MRT_40861TRF_28_1210A.2 linecode=LC_MRT_TRF_28_1210A_1 length=0.001 units=km
+New Reactor.TRF_28_1210A_R phases=1 bus1=ET28_1210.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_1944A phases=1 windings=3 buses=[MRT_73241TRF_28_1944A.1 ET28_1944.1.4 ET28_1944.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_28_1944A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_1944A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_1944A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_1944A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_28_1944A phases=1 bus1=73241.1 bus2= MRT_73241TRF_28_1944A.1 linecode=LC_MRT_TRF_28_1944A_1 length=0.001 units=km
+New Reactor.TRF_28_1944A_R phases=1 bus1=ET28_1944.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_2157A phases=1 windings=3 buses=[MRT_327841TRF_28_2157A.3 ET28_2157.1.4 ET28_2157.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[15 15 15] %loadloss=1.766667 %noloadloss=0.433333
+New Linecode.LC_MRT_TRF_28_2157A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_2157A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_2157A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_2157A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_28_2157A phases=1 bus1=327841.3 bus2= MRT_327841TRF_28_2157A.3 linecode=LC_MRT_TRF_28_2157A_1 length=0.001 units=km
+New Reactor.TRF_28_2157A_R phases=1 bus1=ET28_2157.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_4233A phases=3 windings=2 buses=[40001.1.2.3 ET28_4233.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[15 15] %loadloss=2.5 %noloadloss=0.633333
+New Reactor.TRF_28_4233A_R phases=1 bus1=ET28_4233.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_4602A phases=1 windings=3 buses=[MRT_709521TRF_28_4602A.2 ET28_4602.1.4 ET28_4602.4.2] conns=[Wye Wye Wye] kvs=[13.3367912182804 0.22 0.22] kvas=[25 25 25] %loadloss=1.56 %noloadloss=0.36
+New Linecode.LC_MRT_TRF_28_4602A_1 nphases=1 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_4602A_2 nphases=2 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_4602A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Linecode.LC_MRT_TRF_28_4602A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
+New Line.Resist_MTR_TRF_28_4602A phases=1 bus1=709521.2 bus2= MRT_709521TRF_28_4602A.2 linecode=LC_MRT_TRF_28_4602A_1 length=0.001 units=km
+New Reactor.TRF_28_4602A_R phases=1 bus1=ET28_4602.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_5514A phases=3 windings=2 buses=[751571.1.2.3 ET28_5514.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[30 30] %loadloss=2.1 %noloadloss=0.533333
+New Reactor.TRF_28_5514A_R phases=1 bus1=ET28_5514.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_5515A phases=3 windings=2 buses=[751501.1.2.3 ET28_5515.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[30 30] %loadloss=2.1 %noloadloss=0.533333
+New Reactor.TRF_28_5515A_R phases=1 bus1=ET28_5515.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_5516A phases=3 windings=2 buses=[751671.1.2.3 ET28_5516.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[75 75] %loadloss=3.84 %noloadloss=0.966666
+New Reactor.TRF_28_5516A_R phases=1 bus1=ET28_5516.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_710A phases=1 windings=3 buses=[58041.3.1 ET28_710.1.4 ET28_710.4.2] conns=[Delta Wye Wye] kvs=[23.1 0.22 0.22] kvas=[15 15 15] %loadloss=1.933333 %noloadloss=0.5
+New Reactor.TRF_28_710A_R phases=1 bus1=ET28_710.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_711A phases=1 windings=3 buses=[38271.1.2 ET28_711.1.4 ET28_711.4.2] conns=[Delta Wye Wye] kvs=[23.1 0.22 0.22] kvas=[15 15 15] %loadloss=1.933333 %noloadloss=0.5
+New Reactor.TRF_28_711A_R phases=1 bus1=ET28_711.4 R=15 X=0 basefreq=60
+New Transformer.TRF_28_713A phases=3 windings=2 buses=[649771.1.2.3 ET28_713.1.2.3.4] conns=[Delta Wye] kvs=[23.1 0.38] kvas=[45 45] %loadloss=1.866667 %noloadloss=0.477777
+New Reactor.TRF_28_713A_R phases=1 bus1=ET28_713.4 R=15 X=0 basefreq=60

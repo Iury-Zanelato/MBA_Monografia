@@ -1,0 +1,6 @@
+New Transformer.REG_9_9710A phases=1 windings=2 buses=[761891.1 RT761901.1] conns=[Wye Wye] kvs=[13.3367912182804 13.3367912182804] kvas=[1440 1440] xhl=0.14 %loadloss=1.00274666666667 %noloadloss=0.302
+New Regcontrol.REG_9_9710A transformer=REG_9_9710A winding=2 vreg=100 band=2 ptratio=133.367912182804
+New Transformer.REG_9_9710B phases=1 windings=2 buses=[761891.2 RT761901.2] conns=[Wye Wye] kvs=[13.3367912182804 13.3367912182804] kvas=[1440 1440] xhl=0.14 %loadloss=1.00274666666667 %noloadloss=0.302
+New Regcontrol.REG_9_9710B transformer=REG_9_9710B winding=2 vreg=100 band=2 ptratio=133.367912182804
+New Transformer.REG_9_9710C phases=1 windings=2 buses=[761891.3 RT761901.3] conns=[Wye Wye] kvs=[13.3367912182804 13.3367912182804] kvas=[1440 1440] xhl=0.14 %loadloss=1.00274666666667 %noloadloss=0.302
+New Regcontrol.REG_9_9710C transformer=REG_9_9710C winding=2 vreg=100 band=2 ptratio=133.367912182804
