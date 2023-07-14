@@ -14,6 +14,7 @@ import summary
 import py_dss_interface
 import os
 import pathlib
+import load_transformer
 
 script_path = os.path.dirname(os.path.abspath(__file__))
 
@@ -42,4 +43,7 @@ for index, row in feeders.iterrows():
 
     print("Isolated")
     isolated.check_isolated(dss)
+
+    print("load_transformer")
+    load_transformer.check_load_transformer(dss)
 

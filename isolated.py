@@ -50,4 +50,5 @@ if __name__ == '__main__':
     dss.text("edit Line.L67 bus2=open")
 
     dss.text("MakebusList")
+    dss.text("plot circuit")
     check_isolated(dss)

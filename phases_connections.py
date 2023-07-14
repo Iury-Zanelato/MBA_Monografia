@@ -107,5 +107,6 @@ if __name__ == '__main__':
     dss.text("New EnergyMeter.Feeder element=Line.L115 terminal=1")
     dss.text("Buscoords Buscoords.dat ")
 
+    dss.text("edit LINE.L74 Bus1=73.1")
     dss.text("solve")
     check_phases_connections(dss)

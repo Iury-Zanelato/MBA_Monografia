@@ -10,51 +10,81 @@ import pathlib
 import numpy as np
 
 
-def check_load_transformer(dss: py_dss_interface.DSSDLL):
+def check_load_transformer(dss: py_dss_interface.DSS):
     dss.text("solve")
 
-    dss.loads_first()
+    dss.text("batchedit energymeter..* enabled=no")
 
-    load_transformer_dict = dict()
+    energymeter_voltage = dict()
+    dss.transformers.first()
+    for _ in range(dss.transformers.count):
+        dss.text(f"new energymeter.{dss.transformers.name} "
+                 f"element=transformer.{dss.transformers.name} terminal=1")
 
-    for _ in range(dss.loads_count()):
+        dss.circuit.set_active_element(f"transformer.{dss.transformers.name}")
 
-        load_name = dss.loads_read_name()
-        print(load_name)
-        bus = dss.cktelement_read_bus_names()[0].split(".")[0]
+        tr_ph = dss.cktelement.num_phases
 
-        elements = dss.circuit_all_element_names()
-        for elem in elements:
+        if tr_ph == 3:
+            dss.transformers.wdg = 2
+            vll = dss.transformers.kv
+            vln = dss.transformers.kv / np.sqrt(3)
 
-            if elem.split(".")[0].lower() in ["line", "transformer"]:
-                dss.circuit_set_active_element(elem)
+        elif tr_ph == 1:
+            num_wdg = dss.transformers.num_windings
 
-                elem_name = dss.cktelement_name()
+            if num_wdg == 2:
+                dss.transformers.wdg = 2
+                vln = dss.transformers.kv
+                vll = vln
+            elif num_wdg == 3:
+                dss.transformers.wdg = 2
+                vln = dss.transformers.kv
+                vll = 2 * vln
 
-                elem_bus1 = dss.cktelement_read_bus_names()[0].split(".")[0]
-                elem_bus2 = dss.cktelement_read_bus_names()[1].split(".")[0]
+        energymeter_voltage[dss.transformers.name] = (round(vll, 1), round(vln, 1))
 
-                if (elem_bus1 == bus) or (elem_bus2 == bus):
-                    break
+        dss.transformers.next()
+    dss.text("solve")
 
-        while dss.circuit_parent_pd_element():
+    dss.meters.first()
+    for _ in range(dss.meters.count):
+        loads = dss.meters.all_pce_in_zone
 
-            elem_name = dss.cktelement_name()
-            if elem_name.split(".")[0].lower() == "transformer":
-                print(elem_name)
-                load_transformer_dict[load_name] = elem_name
-                
-                break
+        for load in loads:
+            if load.split(".")[0].lower() == "load":
+                dss.circuit.set_active_element(load)
+                load_ph = dss.cktelement.num_phases
 
-        dss.loads_next()
+                vll = energymeter_voltage[dss.meters.name][0]
+                vln = energymeter_voltage[dss.meters.name][1]
 
+                if load_ph == 3:
+                    if round(dss.loads.kv, 1) != vll:
+                        print(f"\nLoad: {dss.loads.name} with kV {dss.loads.kv} but should be {energymeter_voltage[dss.meters.name][0]}")
+                elif load_ph == 1:
+                    nodes = dss.cktelement.bus_names[0].split(".")[1:]
 
+                    if ("1" in nodes and "2" in nodes) or ("1" in nodes and "3" in nodes) or ("3" in nodes and "2" in nodes):
+                        if round(dss.loads.kv, 1) != vll:
+                            print(f"\nLoad: {dss.loads.name} with kV {dss.loads.kv} but should be {energymeter_voltage[dss.meters.name][0]}")
+                    elif "1" in nodes or "2" in nodes or "3" in nodes:
+                        if round(dss.loads.kv, 1) != vln:
+                            print(f"\nLoad: {dss.loads.name} with kV {dss.loads.kv} but should be {energymeter_voltage[dss.meters.name][1]}")
+
+        dss.meters.next()
 if __name__ == '__main__':
     script_path = os.path.dirname(os.path.abspath(__file__))
 
-    dss_file = pathlib.Path(script_path).joinpath("../feeders", "123Bus", "IEEE123Master.dss")
+    dss_file = pathlib.Path(script_path).joinpath("feeders", "123Bus", "IEEE123Master.dss")
 
-    dss = py_dss_interface.DSSDLL()
+    dss = py_dss_interface.DSS()
+
     dss.text(f"compile [{dss_file}]")
+    dss.text("New EnergyMeter.Feeder element=Line.L115 terminal=1")
+    dss.text("Buscoords Buscoords.dat ")
+
+    dss.loads.name = "S37a"
+    dss.loads.kv = 4.16
 
     check_load_transformer(dss)
