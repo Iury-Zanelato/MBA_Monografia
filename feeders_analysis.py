@@ -35,9 +35,6 @@ for index, row in feeders.iterrows():
     print("Summary")
     print(summary.create_summary(dss))
 
-    print("Phases Connections")
-    phases_connections.check_phases_connections(dss)
-
     print("Same Bus")
     same_buses.check_same_buses(dss)
 
@@ -46,4 +43,7 @@ for index, row in feeders.iterrows():
 
     print("load_transformer")
     load_transformer.check_load_transformer(dss)
+
+    print("Phases Connections")
+    phases_connections.check_phases_connections(dss)
 

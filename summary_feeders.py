@@ -21,7 +21,7 @@ feeders = pd.read_csv("feeder.csv")
 feeder_summary = dict()
 for index, row in feeders.iterrows():
     feeder = row["feeder name"]
-    model_path = dss_file = pathlib.Path(script_path).joinpath("feeders", str(feeder), "000_master.dss")
+    model_path = pathlib.Path(script_path).joinpath("feeders", str(feeder), "000_master.dss")
 
     dss = py_dss_interface.DSS()
 

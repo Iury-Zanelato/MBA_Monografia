@@ -18,6 +18,10 @@ def check_load_transformer(dss: py_dss_interface.DSS):
     energymeter_voltage = dict()
     dss.transformers.first()
     for _ in range(dss.transformers.count):
+        # 1 - Get buses
+        # 2 - for in transformers
+        # 3 - Bank? Vll 3ph
+
         dss.text(f"new energymeter.{dss.transformers.name} "
                  f"element=transformer.{dss.transformers.name} terminal=1")
 
@@ -42,7 +46,7 @@ def check_load_transformer(dss: py_dss_interface.DSS):
                 vln = dss.transformers.kv
                 vll = 2 * vln
 
-        energymeter_voltage[dss.transformers.name] = (round(vll, 1), round(vln, 1))
+        energymeter_voltage[dss.transformers.name] = (round(vll, 2), round(vln, 2))
 
         dss.transformers.next()
     dss.text("solve")
@@ -60,16 +64,16 @@ def check_load_transformer(dss: py_dss_interface.DSS):
                 vln = energymeter_voltage[dss.meters.name][1]
 
                 if load_ph == 3:
-                    if round(dss.loads.kv, 1) != vll:
+                    if round(dss.loads.kv, 2) != vll:
                         print(f"\nLoad: {dss.loads.name} with kV {dss.loads.kv} but should be {energymeter_voltage[dss.meters.name][0]}")
                 elif load_ph == 1:
                     nodes = dss.cktelement.bus_names[0].split(".")[1:]
 
                     if ("1" in nodes and "2" in nodes) or ("1" in nodes and "3" in nodes) or ("3" in nodes and "2" in nodes):
-                        if round(dss.loads.kv, 1) != vll:
+                        if round(dss.loads.kv, 2) != vll:
                             print(f"\nLoad: {dss.loads.name} with kV {dss.loads.kv} but should be {energymeter_voltage[dss.meters.name][0]}")
                     elif "1" in nodes or "2" in nodes or "3" in nodes:
-                        if round(dss.loads.kv, 1) != vln:
+                        if round(dss.loads.kv, 2) != vln:
                             print(f"\nLoad: {dss.loads.name} with kV {dss.loads.kv} but should be {energymeter_voltage[dss.meters.name][1]}")
 
         dss.meters.next()

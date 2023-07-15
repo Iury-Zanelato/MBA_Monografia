@@ -27,14 +27,20 @@ def create_summary(dss: py_dss_interface.DSS):
     v_min = round_x(v_array.min())
     summary_dict["Max pu. Voltage"] = v_max
     summary_dict["Min pu. Voltage"] = v_min
-    summary_dict["Good Voltage?"] = "Yes" if (v_min > 0.5 and v_max < 1.5) else "No"
+    summary_dict["Good Voltage?"] = "Yes" if (v_min > 0.7 and v_max < 1.2) else "No"
     total_p = round_x(-dss.circuit.total_power[0])
     total_q = round_x(-dss.circuit.total_power[1])
     total_p_losses = round_x(dss.circuit.losses[0] / 1000.0)
     summary_dict["Total P kW"] = round_x(total_p)
     summary_dict["Total Q kvar"] = round_x(total_q)
     summary_dict["P Losses %"] = round_x(100.0 * total_p_losses / total_p)
-    summary_dict["Num. Isolated Branches"] = len(dss.topology.all_isolated_branches)
+    x = dss.topology.all_isolated_branches
+    if "NONE" in x:
+        x.remove("NONE")
+    if x:
+        summary_dict["Num. Isolated Branches"] = len(x)
+    else:
+        summary_dict["Num. Isolated Branches"] = 0
     # summary_dict["Loop?"] = "Yes" if dss.topology_looped_branch() > 0 else "No"
 
     dss.circuit.set_active_element("vsource.source")
@@ -65,6 +71,35 @@ def create_summary(dss: py_dss_interface.DSS):
     summary_dict["Lines LV (km)"] = round_x(km_lv_lines)
 
     summary_dict["Num. Tran"] = dss.transformers.count
+
+    summary_dict["Num. Loads"] = dss.loads.count / 2
+
+    max_load_kw = 0
+    max_load_name = None
+    dss.loads.first()
+    for _ in range(dss.loads.count):
+        if dss.loads.kw > max_load_kw:
+            max_load_kw = dss.loads.kw
+            max_load_name = dss.loads.name
+
+        dss.loads.next()
+
+    summary_dict["Max name of One Load"] = max_load_name
+    summary_dict["Max kW of One Load"] = max_load_kw
+
+    tr_c = list()
+    dss.transformers.first()
+    for _ in range(dss.transformers.count):
+        dss.circuit.set_active_element(f"transformer.{dss.transformers.name}")
+
+        p = sum(dss.cktelement.powers[:int(len(dss.cktelement.powers) / 2): 2])
+        p_n = dss.transformers.kva
+
+        tr_c.append(p / p_n * 100)
+
+        dss.transformers.next()
+
+    summary_dict["Loading max % transformers"] = np.max(tr_c)
 
     return summary_dict
 
