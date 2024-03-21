@@ -57,6 +57,15 @@ class CreateStudy:
         return sc
 
 
+    @staticmethod
+    def varreduraopendss_study(
+        name: str,
+        dss_file: str,
+        frequency_base: [int, float] = 60,
+        dll: Optional[str] = None) -> StudyFault:
+        sc = StudyFault(_name=name, _dss_file=dss_file, _frequency_base=frequency_base, _dll=dll)
+        return sc
+
 # def update_circuit_df(sc: Scenario):
 #     if sc.circuit.created:
 #         names = sc.circuit.dss.cktelement_all_property_names()
