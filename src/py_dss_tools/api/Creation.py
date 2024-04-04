@@ -9,6 +9,7 @@ from py_dss_tools.studies.StudyGeneric import StudyGeneric
 from py_dss_tools.studies.StudyPowerFlow import StudyPowerFlow
 from py_dss_tools.studies.StudyTemporal import StudyTemporal
 from py_dss_tools.studies.StudyFault import StudyFault
+from py_dss_tools.studies.StudyVarredura import StudyVarredura
 
 from typing import Optional
 
@@ -62,8 +63,8 @@ class CreateStudy:
         name: str,
         dss_file: str,
         frequency_base: [int, float] = 60,
-        dll: Optional[str] = None) -> StudyFault:
-        sc = StudyFault(_name=name, _dss_file=dss_file, _frequency_base=frequency_base, _dll=dll)
+        dll: Optional[str] = None) -> StudyVarredura:
+        sc = StudyVarredura(_name=name, _dss_file=dss_file, _frequency_base=frequency_base, _dll=dll)
         return sc
 
 # def update_circuit_df(sc: Scenario):

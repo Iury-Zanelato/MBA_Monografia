@@ -8,7 +8,7 @@ from py_dss_tools.results.Results import Results
 from dataclasses import dataclass
 
 from py_dss_tools.studies.StudyBase import StudyBase
-from py_dss_tools.view.ViewResults import ViewResults
+#from py_dss_tools.view.ViewResults import ViewResults
 from py_dss_tools.dss_utils import DSSUtils
 
 
@@ -17,7 +17,7 @@ class StudyGeneric(StudyBase):
     def __post_init__(self):
         super().__post_init__()
         self._results = Results(self._dss)
-        self._view = ViewResults(self._dss, self._results)
+        #self._view = ViewResults(self._dss, self._results)
         self._utils = DSSUtils(self._dss)
 
     def to_dict(self) -> dict:
