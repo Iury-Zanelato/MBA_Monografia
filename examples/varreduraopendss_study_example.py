@@ -50,14 +50,19 @@ print(f"\nPhase issue between (Case 4):\nParent: {parent_elem_name} with bus {pa
 study.results.phases_connections
 study.results.phase_connection
 
-
-self._dss.meters.next()
-self._dss.loads.name = "S37a"
-self._dss.loads.kv = 4.16
+self._dss.meters.next() #load_transformer
+self._dss.loads.name = "S37a" #load_transformer
+self._dss.loads.kv = 4.16 #load_transformer
 print(f"\nLoad: {self._dss.loads.name} with kV {self._dss.loads.kv} but should be {energymeter_voltage[self._dss.meters.name][0]}")
 print(f"\nLoad: {self._dss.loads.name} with kV {self._dss.loads.kv} but should be {energymeter_voltage[self._dss.meters.name][0]}")
 print(f"\nLoad: {self._dss.loads.name} with kV {self._dss.loads.kv} but should be {energymeter_voltage[self._dss.meters.name][1]}")
 study.results.load_transformer
+
+
+study.dss.text("New line.loop phases=3 bus1=79.1.2.3 bus2=450.1.2.3") #Summary
+study.dss.text("Edit LINE.L114 enabled=no") #Summary
+study.results.create_summary_dict
+#Jogar Print(AnáliseAlimentador aqui) - Um results de la
 
 #Resultados e Execução
 summary_df = study.model.summary_df #Ajustar de acordo com o Summary.py
