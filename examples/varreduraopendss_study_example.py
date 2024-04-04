@@ -31,6 +31,35 @@ study.dss.text("New EnergyMeter.Feeder element=Line.L115 terminal=1")
 study.dss.text("Buscoords Buscoords.dat")
 
 study.dss.text("solve")
+
+study.dss.text("edit Line.L67 bus2=open") #Isolated
+print(f"{name} bus1: {bus1}")
+print(f"{name} bus1: {bus1}")
+study.results.isolated
+
+study.dss.text("edit Line.L67 bus2=67") #Same_Bus
+print(f"\nElement: {elem_name} with the same bus1 {bus1} and bus2 {bus2}")
+
+study.dss.text("edit LINE.L74 Bus1=73.1") #Phases_Connections
+print(f"\nPhase issue between (Case 1):\nParent: {parent_elem_name} with bus {parent_elem_bus2} and nodes {parent_elem_nodes2}"
+      f"\nElement: {elem_name} with bus {elem_bus1} and nodes {elem_nodes1}")
+print(f"\nPhase issue between (Case 3):\nParent: {parent_elem_name} with bus {parent_elem_bus2} and nodes {parent_elem_nodes2}"
+      f"\nElement: {elem_name} with bus {elem_bus2} and nodes {elem_nodes2}")
+print(f"\nPhase issue between (Case 4):\nParent: {parent_elem_name} with bus {parent_elem_bus1} and nodes {parent_elem_nodes1}"
+      f"\nElement: {elem_name} with bus {elem_bus2} and nodes {elem_nodes2}")
+
+
+#Resultados e Execução
+summary_df = study.model.summary_df #Ajustar de acordo com o Summary.py
+study.run() #Apenas executar por aqui??
+
+
+study.results.isolated
+study.results.same_bus
+study.results.phases_connections
+study.results.phase_connection
+
+
 print("here")
 
 '''''
