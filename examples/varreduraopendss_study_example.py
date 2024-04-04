@@ -61,6 +61,7 @@ study.results.load_transformer
 
 #Resultados e Execução
 summary_df = study.model.summary_df #Ajustar de acordo com o Summary.py
+feeders = pd.read_csv("feeder.csv") #Rodar pelo csv??
 study.run() #Apenas executar por aqui??
 
 print("here")
