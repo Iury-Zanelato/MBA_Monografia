@@ -8,6 +8,7 @@ import os
 import pathlib
 import py_dss_tools
 
+'''
 script_path = os.path.dirname(os.path.abspath(__file__))
 feeders = pd.read_csv("feeder.csv")
 
@@ -15,12 +16,12 @@ feeder_summary = dict()
 for index, row in feeders.iterrows():
     feeder = row["feeder name"]
     model_path = dss_file = pathlib.Path(script_path).joinpath("feeders", str(feeder), "000_master.dss")
-
     print(f"\n{feeder}")
     dss = py_dss_interface.DSS()
-
     dss.text(f"compile [{model_path}]")
 
+#Criar um .csv para executar??
+'''
 
 script_path = os.path.dirname(os.path.abspath(__file__))
 dss_file = pathlib.Path(script_path).joinpath("feeders", "123Bus", "IEEE123Master.dss")
@@ -31,25 +32,46 @@ study.dss.text("Buscoords Buscoords.dat")
 
 study.dss.text("solve")
 
-study.dss.text("edit Line.L67 bus2=open") #Isolated
-print(f"{name} bus1: {bus1}")
-print(f"{name} bus1: {bus1}")
-study.results.isolated
+#ISOLATED
+study.dss.text("edit Line.L67 bus2=open") #Isolated - Coloco no examples ou no Isolated????
+bus1 = self._dss.cktelement.bus_names[0].split(".")[0] #Ramais Isolados
+bus2 = self._dss.cktelement.bus_names[1].split(".")[0] #Ramais Isolados
+print(f"{name} bus1: {bus1} bus2: {bus2}") #Ramais Isolados - Condição 0
+print(f"{name} bus1: {bus1}") #Ramais Isolados - Condição 1
 
-study.dss.text("edit Line.L67 bus2=67") #Same_Bus
-print(f"\nElement: {elem_name} with the same bus1 {bus1} and bus2 {bus2}")
-study.results.same_bus
+bus1 = self._dss.cktelement.bus_names[0].split(".")[0] #Cargas Isoladas
+print(f"{name} bus1: {bus1}") #Cargas Isoladas
+study.results.isolated #Resultado dos ramais e cargas isoladas
 
-study.dss.text("edit LINE.L74 Bus1=73.1") #Phases_Connections
+#SAME_BUS
+study.dss.text("edit Line.L67 bus2=67") #Same_Bus - Coloco no examples ou no Same_Bus????
+print(f"\nElement: {elem_name} with the same bus1 {bus1} and bus2 {bus2}") #Elementos com a mesma barra
+study.results.same_bus #Resultado dos elementos com a mesma barra
+
+#PHASES_CONECTIONS
+study.dss.text("edit LINE.L74 Bus1=73.1") #Phases_Connections - Coloco no examples ou no Phases_Conections????
+parent_elem_bus1 = self._dss.cktelement.bus_names[0].split(".")[0] #Definição do elemento pai da barra1
+parent_elem_bus2 = self._dss.cktelement.bus_names[1].split(".")[0] #Definição do elemento pai da barra2
+parent_elem_nodes1 = self._dss.cktelement.bus_names[0].split(".")[1:] #Definição do elemento pai do nó1
+parent_elem_nodes2 = self._dss.cktelement.bus_names[1].split(".")[1:] #Definição do elemento pai da nó2
+
+elem_nodes1 = self.add_default_nodes[0].split(".")[0] #Definição do elemento padrão do nó1
+elem_nodes2 = self.add_default_nodes[1].split(".")[0] #Definição do elemento padrão do nó2
+parent_elem_nodes1 = self.add_default_nodes[0].split(".")[1:] #Definição do elemento pai padrão do nó1 
+parent_elem_nodes2 = self.add_default_nodes[1].split(".")[1:] #Definição do elemento pai padrão do nó1
+
 print(f"\nPhase issue between (Case 1):\nParent: {parent_elem_name} with bus {parent_elem_bus2} and nodes {parent_elem_nodes2}"
-      f"\nElement: {elem_name} with bus {elem_bus1} and nodes {elem_nodes1}")
+      f"\nElement: {elem_name} with bus {elem_bus1} and nodes {elem_nodes1}") #Barra2 e Nó2 com Barra1 e Nó1
 print(f"\nPhase issue between (Case 3):\nParent: {parent_elem_name} with bus {parent_elem_bus2} and nodes {parent_elem_nodes2}"
-      f"\nElement: {elem_name} with bus {elem_bus2} and nodes {elem_nodes2}")
+      f"\nElement: {elem_name} with bus {elem_bus2} and nodes {elem_nodes2}") #Barra1 e Nó1 com Barra1 e Nó1
+print(f"\nPhase issue between (Case 3):\nParent: {parent_elem_name} with bus {parent_elem_bus2} and nodes {parent_elem_nodes2}"
+      f"\nElement: {elem_name} with bus {elem_bus2} and nodes {elem_nodes2}") #Barra2 e Nó2 com Barra2 e Nó2
 print(f"\nPhase issue between (Case 4):\nParent: {parent_elem_name} with bus {parent_elem_bus1} and nodes {parent_elem_nodes1}"
-      f"\nElement: {elem_name} with bus {elem_bus2} and nodes {elem_nodes2}")
+      f"\nElement: {elem_name} with bus {elem_bus2} and nodes {elem_nodes2}") #Barra1 e Nó1 com Barra2 e Nó2
 study.results.phases_connections
 study.results.phase_connection
 
+#LOAD_TRANSFORMER
 self._dss.meters.next() #load_transformer
 self._dss.loads.name = "S37a" #load_transformer
 self._dss.loads.kv = 4.16 #load_transformer
