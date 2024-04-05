@@ -75,6 +75,8 @@ study.results.phase_connection
 self._dss.meters.next() #load_transformer
 self._dss.loads.name = "S37a" #load_transformer
 self._dss.loads.kv = 4.16 #load_transformer
+
+
 print(f"\nLoad: {self._dss.loads.name} with kV {self._dss.loads.kv} but should be {energymeter_voltage[self._dss.meters.name][0]}")
 print(f"\nLoad: {self._dss.loads.name} with kV {self._dss.loads.kv} but should be {energymeter_voltage[self._dss.meters.name][0]}")
 print(f"\nLoad: {self._dss.loads.name} with kV {self._dss.loads.kv} but should be {energymeter_voltage[self._dss.meters.name][1]}")
