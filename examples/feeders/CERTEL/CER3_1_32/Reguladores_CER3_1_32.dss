@@ -1,0 +1,4 @@
+New transformer.RT54_3098 phases=3 buses=[25959_1  143674_1 ] windings= 2 conns=[Delta Wey] kvs=[13.8 7.97] kvas=[501 501] xhl=0.66 %loadloss=0.5 %noloadloss=0.2 
+New regcontrol.REG54_3098 transformer=RT54_3098 winding=2 vreg=120 band=2  ptratio=115 delay=15 enable=y 
+New transformer.RT6_265 phases=3 buses=[7550_1  26355_1 ] windings= 2 conns=[Delta Wey] kvs=[13.8 7.97] kvas=[501 501] xhl=0.66 %loadloss=0.5 %noloadloss=0.2 
+New regcontrol.REG6_265 transformer=RT6_265 winding=2 vreg=120 band=2  ptratio=115 delay=15 enable=y 

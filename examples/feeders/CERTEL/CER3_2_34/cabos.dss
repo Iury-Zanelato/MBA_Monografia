@@ -1,0 +1,584 @@
+New LineCode.1 nphases=3 baseFreq=60  r1=0.19017 x1=0.38808 normamps=606,9 Units= km
+
+New LineCode.2 nphases=3 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.3 nphases=3 baseFreq=60  r1=0.641 x1=0.0959 normamps=128,1 Units= km
+
+New LineCode.4 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.5 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.6 nphases=3 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.7 nphases=3 baseFreq=60  r1=0.3364 x1=0.4012 normamps=371,7 Units= km
+
+New LineCode.8 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.10 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.11 nphases=3 baseFreq=60  r1=0.144 x1=0.364 normamps=659 Units= km
+
+New LineCode.12 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.13 nphases=3 baseFreq=60  r1=1.1068 x1=0.1515 normamps=124,95 Units= km
+
+New LineCode.14 nphases=1 baseFreq=60  r1=1.3526 x1=0.4638 normamps=162,75 Units= km
+
+New LineCode.15 nphases=3 baseFreq=60  r1=0.238 x1=0.7343 normamps=1508,85 Units= km
+
+New LineCode.16 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.17 nphases=1 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.18 nphases=3 baseFreq=60  r1=0.2667 x1=0.3925 normamps=428,4 Units= km
+
+New LineCode.20 nphases=1 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.21 nphases=3 baseFreq=60  r1=0.001 x1=0.001 normamps=630 Units= km
+
+New LineCode.22 nphases=3 baseFreq=60  r1=0.4243 x1=0.41 normamps=327,6 Units= km
+
+New LineCode.23 nphases=1 baseFreq=60  r1=0.641 x1=0.0959 normamps=128,1 Units= km
+
+New LineCode.24 nphases=3 baseFreq=60  r1=1.3526 x1=0.4638 normamps=162,75 Units= km
+
+New LineCode.25 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.26 nphases=3 baseFreq=60  r1=0.19017 x1=0.38808 normamps=606,9 Units= km
+
+New LineCode.27 nphases=3 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.28 nphases=1 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.29 nphases=3 baseFreq=60  r1=0.00023 x1=0.00011 normamps=305 Units= km
+
+New LineCode.30 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.32 nphases=3 baseFreq=60  r1=0.2112 x1=0.251 normamps=128,1 Units= km
+
+New LineCode.33 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=162,75 Units= km
+
+New LineCode.34 nphases=2 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.35 nphases=3 baseFreq=60  r1=0.2112 x1=0.251 normamps=456 Units= km
+
+New LineCode.36 nphases=3 baseFreq=60  r1=1.867 x1=0.471 normamps=31,5 Units= km
+
+New LineCode.37 nphases=3 baseFreq=60  r1=0.238 x1=0.7343 normamps=1508,85 Units= km
+
+New LineCode.38 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=124,95 Units= km
+
+New LineCode.39 nphases=3 baseFreq=60  r1=0.2667 x1=0.3925 normamps=428,4 Units= km
+
+New LineCode.40 nphases=3 baseFreq=60  r1=0.641 x1=0.0959 normamps=128,1 Units= km
+
+New LineCode.41 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.42 nphases=1 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.43 nphases=3 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.44 nphases=3 baseFreq=60  r1=0.00023 x1=0.00011 normamps=305 Units= km
+
+New LineCode.45 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.46 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.47 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.48 nphases=3 baseFreq=60  r1=0.144 x1=0.364 normamps=659 Units= km
+
+New LineCode.49 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.50 nphases=1 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.51 nphases=3 baseFreq=60  r1=0.238 x1=0.7343 normamps=1508,85 Units= km
+
+New LineCode.52 nphases=3 baseFreq=60  r1=0.19017 x1=0.38808 normamps=606,9 Units= km
+
+New LineCode.53 nphases=1 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.54 nphases=3 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.55 nphases=3 baseFreq=60  r1=0.3679 x1=0.4742 normamps=428,4 Units= km
+
+New LineCode.56 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.57 nphases=3 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.58 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.59 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.60 nphases=1 baseFreq=60  r1=1.3526 x1=0.4638 normamps=162,75 Units= km
+
+New LineCode.61 nphases=1 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.62 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.63 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.64 nphases=1 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.65 nphases=3 baseFreq=60  r1=0.144 x1=0.364 normamps=691,5 Units= km
+
+New LineCode.66 nphases=3 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.67 nphases=3 baseFreq=60  r1=0.19017 x1=0.38808 normamps=606,9 Units= km
+
+New LineCode.68 nphases=1 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.69 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.70 nphases=3 baseFreq=60  r1=0.426 x1=0.42 normamps=338,1 Units= km
+
+New LineCode.71 nphases=1 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.72 nphases=3 baseFreq=60  r1=0.19017 x1=0.38808 normamps=606,9 Units= km
+
+New LineCode.73 nphases=1 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.74 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.75 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.76 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.77 nphases=3 baseFreq=60  r1=0.3679 x1=0.4742 normamps=428,4 Units= km
+
+New LineCode.78 nphases=3 baseFreq=60  r1=0.4243 x1=0.41 normamps=327,6 Units= km
+
+New LineCode.79 nphases=3 baseFreq=60  r1=0.19017 x1=0.38808 normamps=583 Units= km
+
+New LineCode.80 nphases=3 baseFreq=60  r1=1.3526 x1=0.4638 normamps=162,75 Units= km
+
+New LineCode.81 nphases=3 baseFreq=60  r1=0.19017 x1=0.38808 normamps=578 Units= km
+
+New LineCode.83 nphases=3 baseFreq=60  r1=0.426 x1=0.42 normamps=338,1 Units= km
+
+New LineCode.84 nphases=3 baseFreq=60  r1=0.9477 x1=0.46801 normamps=218,4 Units= km
+
+New LineCode.85 nphases=2 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.86 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.87 nphases=1 baseFreq=60  r1=0.4243 x1=0.41 normamps=327,6 Units= km
+
+New LineCode.88 nphases=3 baseFreq=60  r1=0.4243 x1=0.41 normamps=327,6 Units= km
+
+New LineCode.89 nphases=3 baseFreq=60  r1=0.144 x1=0.364 normamps=691,5 Units= km
+
+New LineCode.90 nphases=3 baseFreq=60  r1=0.3679 x1=0.4742 normamps=428,4 Units= km
+
+New LineCode.91 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.92 nphases=3 baseFreq=60  r1=0.4243 x1=0.41 normamps=327,6 Units= km
+
+New LineCode.93 nphases=3 baseFreq=60  r1=1.867 x1=0.471 normamps=31,5 Units= km
+
+New LineCode.94 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.95 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.96 nphases=3 baseFreq=60  r1=0.3364 x1=0.4012 normamps=371,7 Units= km
+
+New LineCode.97 nphases=3 baseFreq=60  r1=0.4243 x1=0.41 normamps=327,6 Units= km
+
+New LineCode.98 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.99 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.100 nphases=3 baseFreq=60  r1=0.00023 x1=0.00011 normamps=305 Units= km
+
+New LineCode.101 nphases=1 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.102 nphases=3 baseFreq=60  r1=1.1068 x1=0.1515 normamps=124,95 Units= km
+
+New LineCode.103 nphases=3 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.104 nphases=3 baseFreq=60  r1=0.238 x1=0.7343 normamps=1508,85 Units= km
+
+New LineCode.105 nphases=2 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.106 nphases=3 baseFreq=60  r1=0.19017 x1=0.38808 normamps=0 Units= km
+
+New LineCode.108 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.109 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.110 nphases=1 baseFreq=60  r1=1.1068 x1=0.1515 normamps=124,95 Units= km
+
+New LineCode.111 nphases=3 baseFreq=60  r1=0.00044 x1=0.00011 normamps=198 Units= km
+
+New LineCode.112 nphases=3 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.113 nphases=1 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.114 nphases=3 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.115 nphases=3 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.116 nphases=1 baseFreq=60  r1=1.3526 x1=0.4638 normamps=162,75 Units= km
+
+New LineCode.117 nphases=3 baseFreq=60  r1=0.9477 x1=0.46801 normamps=218,4 Units= km
+
+New LineCode.118 nphases=3 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.119 nphases=2 baseFreq=60  r1=1.3526 x1=0.4638 normamps=162,75 Units= km
+
+New LineCode.120 nphases=2 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.121 nphases=2 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.122 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.123 nphases=2 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.124 nphases=3 baseFreq=60  r1=0.122 x1=0.121 normamps=105 Units= km
+
+New LineCode.125 nphases=2 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.126 nphases=3 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.127 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.128 nphases=2 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.129 nphases=3 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.130 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.131 nphases=3 baseFreq=60  r1=1.867 x1=0.471 normamps=31,5 Units= km
+
+New LineCode.132 nphases=2 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.133 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.134 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.135 nphases=2 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.136 nphases=3 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.137 nphases=1 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.138 nphases=3 baseFreq=60  r1=0.9477 x1=0.46801 normamps=218,4 Units= km
+
+New LineCode.139 nphases=2 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.140 nphases=2 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.141 nphases=3 baseFreq=60  r1=0.9477 x1=0.46801 normamps=218,4 Units= km
+
+New LineCode.143 nphases=2 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.144 nphases=3 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.145 nphases=3 baseFreq=60  r1=0.00044 x1=0.00011 normamps=198 Units= km
+
+New LineCode.146 nphases=3 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.147 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.148 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.149 nphases=1 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.150 nphases=3 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.151 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.152 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.153 nphases=3 baseFreq=60  r1=0.077 x1=0.094 normamps=368,55 Units= km
+
+New LineCode.154 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.155 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.156 nphases=1 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.157 nphases=1 baseFreq=60  r1=0.9477 x1=0.46801 normamps=218,4 Units= km
+
+New LineCode.158 nphases=3 baseFreq=60  r1=2.655 x1=0.1189 normamps=61,95 Units= km
+
+New LineCode.159 nphases=2 baseFreq=60  r1=1.91 x1=0.1022 normamps=76,65 Units= km
+
+New LineCode.160 nphases=3 baseFreq=60  r1=0.641 x1=0.0959 normamps=128,1 Units= km
+
+New LineCode.161 nphases=2 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.162 nphases=2 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.163 nphases=2 baseFreq=60  r1=1.3526 x1=0.4638 normamps=162,75 Units= km
+
+New LineCode.164 nphases=3 baseFreq=60  r1=1.3526 x1=0.4638 normamps=162,75 Units= km
+
+New LineCode.165 nphases=1 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.166 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.168 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.169 nphases=3 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.170 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.171 nphases=2 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.172 nphases=2 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.173 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.174 nphases=1 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.175 nphases=2 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.176 nphases=1 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.177 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.178 nphases=1 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.179 nphases=3 baseFreq=60  r1=0.641 x1=0.0959 normamps=128,1 Units= km
+
+New LineCode.180 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.181 nphases=1 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.182 nphases=3 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.185 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.186 nphases=3 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.187 nphases=2 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.188 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.189 nphases=3 baseFreq=60  r1=0.9477 x1=0.46801 normamps=218,4 Units= km
+
+New LineCode.190 nphases=3 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.191 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.192 nphases=1 baseFreq=60  r1=1.91 x1=0.1022 normamps=90,3 Units= km
+
+New LineCode.193 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.194 nphases=1 baseFreq=60  r1=1.867 x1=0.471 normamps=31,5 Units= km
+
+New LineCode.195 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.196 nphases=3 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.197 nphases=3 baseFreq=60  r1=0.9477 x1=0.46801 normamps=218,4 Units= km
+
+New LineCode.198 nphases=2 baseFreq=60  r1=1.867 x1=0.471 normamps=31,5 Units= km
+
+New LineCode.199 nphases=3 baseFreq=60  r1=0.253 x1=0.0916 normamps=346,5 Units= km
+
+New LineCode.200 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.201 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.202 nphases=3 baseFreq=60  r1=0.253 x1=0.0916 normamps=346,5 Units= km
+
+New LineCode.203 nphases=2 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.204 nphases=1 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.205 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.206 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.207 nphases=1 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.208 nphases=1 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.209 nphases=1 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.210 nphases=3 baseFreq=60  r1=0.001 x1=0.001 normamps=0 Units= km
+
+New LineCode.212 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.213 nphases=1 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.214 nphases=1 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.215 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.216 nphases=3 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.217 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.218 nphases=1 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.219 nphases=3 baseFreq=60  r1=1.3526 x1=0.4638 normamps=162,75 Units= km
+
+New LineCode.220 nphases=1 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.221 nphases=3 baseFreq=60  r1=2.4735 x1=0.52894 normamps=123,9 Units= km
+
+New LineCode.222 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.223 nphases=2 baseFreq=60  r1=0.9477 x1=0.46801 normamps=218,4 Units= km
+
+New LineCode.224 nphases=3 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.226 nphases=2 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.227 nphases=2 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.228 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.229 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.230 nphases=3 baseFreq=60  r1=0.253 x1=0.0916 normamps=346,5 Units= km
+
+New LineCode.231 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.232 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.233 nphases=3 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.234 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.236 nphases=3 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.237 nphases=3 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.238 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.239 nphases=1 baseFreq=60  r1=1.5972 x1=0.70536 normamps=163,8 Units= km
+
+New LineCode.240 nphases=3 baseFreq=60  r1=0.5373 x1=0.4288 normamps=291,9 Units= km
+
+New LineCode.241 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.242 nphases=3 baseFreq=60  r1=0.696 x1=0.5195 normamps=286,65 Units= km
+
+New LineCode.243 nphases=1 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.244 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.245 nphases=2 baseFreq=60  r1=0.4243 x1=0.41 normamps=327,6 Units= km
+
+New LineCode.246 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.247 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.248 nphases=3 baseFreq=60  r1=1.0503 x1=0.70884 normamps=216,3 Units= km
+
+New LineCode.249 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.250 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.251 nphases=2 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.252 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.255 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.256 nphases=3 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.257 nphases=3 baseFreq=60  r1=0.122 x1=0.121 normamps=105 Units= km
+
+New LineCode.258 nphases=2 baseFreq=60  r1=0.00139 x1=0.00012 normamps=120 Units= km
+
+New LineCode.259 nphases=1 baseFreq=60  r1=1.91 x1=0.1022 normamps=61,95 Units= km
+
+New LineCode.261 nphases=1 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.262 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.264 nphases=1 baseFreq=60  r1=1.91 x1=0.1022 normamps=90,3 Units= km
+
+New LineCode.265 nphases=2 baseFreq=60  r1=1.91 x1=0.1022 normamps=90,3 Units= km
+
+New LineCode.266 nphases=2 baseFreq=60  r1=0.00222 x1=0.00012 normamps=84 Units= km
+
+New LineCode.267 nphases=3 baseFreq=60  r1=0.00222 x1=0.00012 normamps=84 Units= km
+
+New LineCode.268 nphases=1 baseFreq=60  r1=0.00222 x1=0.00012 normamps=84 Units= km
+
+New LineCode.269 nphases=1 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.270 nphases=3 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.271 nphases=2 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.273 nphases=3 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.274 nphases=3 baseFreq=60  r1=0.00222 x1=0.00012 normamps=84 Units= km
+
+New LineCode.275 nphases=1 baseFreq=60  r1=0.00222 x1=0.00012 normamps=84 Units= km
+
+New LineCode.276 nphases=1 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.278 nphases=3 baseFreq=60  r1=2.655 x1=0.1189 normamps=61,95 Units= km
+
+New LineCode.279 nphases=1 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.280 nphases=3 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.281 nphases=3 baseFreq=60  r1=0.00023 x1=0.00011 normamps=305 Units= km
+
+New LineCode.282 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.283 nphases=3 baseFreq=60  r1=1.91 x1=0.1022 normamps=61,95 Units= km
+
+New LineCode.284 nphases=1 baseFreq=60  r1=1.91 x1=0.1022 normamps=90,3 Units= km
+
+New LineCode.285 nphases=3 baseFreq=60  r1=0.253 x1=0.0916 normamps=346,5 Units= km
+
+New LineCode.286 nphases=1 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.287 nphases=1 baseFreq=60  r1=0.00222 x1=0.00012 normamps=84 Units= km
+
+New LineCode.289 nphases=3 baseFreq=60  r1=0.00044 x1=0.00011 normamps=198 Units= km
+
+New LineCode.290 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.291 nphases=2 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.292 nphases=2 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.293 nphases=3 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.294 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.295 nphases=3 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.296 nphases=3 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.297 nphases=3 baseFreq=60  r1=2.655 x1=0.1189 normamps=61,95 Units= km
+
+New LineCode.298 nphases=3 baseFreq=60  r1=0.00222 x1=0.00012 normamps=96 Units= km
+
+New LineCode.299 nphases=2 baseFreq=60  r1=1.91 x1=0.1022 normamps=76,65 Units= km
+
+New LineCode.300 nphases=1 baseFreq=60  r1=0.00089 x1=0.00012 normamps=156 Units= km
+
+New LineCode.301 nphases=3 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.303 nphases=3 baseFreq=60  r1=0.00222 x1=0.00012 normamps=96 Units= km
+
+New LineCode.304 nphases=3 baseFreq=60  r1=0.122 x1=0.121 normamps=105 Units= km
+
+New LineCode.305 nphases=2 baseFreq=60  r1=0.00222 x1=0.00012 normamps=84 Units= km
+
+New LineCode.306 nphases=1 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.307 nphases=1 baseFreq=60  r1=3.08 x1=0.1062 normamps=68,25 Units= km
+
+New LineCode.308 nphases=3 baseFreq=60  r1=0.443 x1=0.095 normamps=164,85 Units= km
+
+New LineCode.309 nphases=3 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+
+New LineCode.310 nphases=3 baseFreq=60  r1=0.9477 x1=0.46801 normamps=218,4 Units= km
+
+New LineCode.311 nphases=3 baseFreq=60  r1=0.001 x1=0.001 normamps=0 Units= km
+
+New LineCode.312 nphases=2 baseFreq=60  r1=0.868 x1=0.0995 normamps=124,95 Units= km
+

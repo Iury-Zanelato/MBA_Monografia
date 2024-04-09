@@ -1,0 +1,20 @@
+Clear
+Redirect alimentador_CER3_1_32.dss
+Redirect curvas_carga.dss
+Redirect cabos.dss
+Redirect segmentos_CER3_1_32.dss
+Redirect reguladores_CER3_1_32.dss
+!Redirect capacitors_CER3_1_32.dss !Incluir arquivo
+Redirect Trafos_CER3_1_32.dss
+Redirect cargas_CER3_1_32.dss
+
+set voltagebases=[13.8 13.337 7.797 0.44 0.38 0.22 0.127 0.11] !Incluir todas as tensoes
+Calcvoltagebases
+
+
+Set mode = daily
+!Set tolerance = 0.0001
+!Set maxcontroliter = 10
+!Set algorithm = newton
+!Solve mode = direct
+Solve

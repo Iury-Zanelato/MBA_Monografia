@@ -1,0 +1,3005 @@
+New Transformer.IT20_2411 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23880_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_20_2411.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_20_2411.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT20_4805 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=106864_1.1 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_20_4805.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_20_4805.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT32_10126 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=142035_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_32_10126.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_10126.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_10236 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16980_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_32_10236.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_10236.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_10514 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=17619_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_32_10514 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT32_1086 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18796_1.3 conn= Wye kv=7.97 kva=20 tap=1
+ ~ wdg=2 bus=BT_32_1086.1.0  conn= Wye kv=0.22 kva=20 tap=1
+ ~ wdg=3 bus=BT_32_1086.0.2  conn= Wye kv=0.22 kva=20 tap=1
+
+New Transformer.IT32_1101 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16983_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_32_1101.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_1101.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_1124 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=17196_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_32_1124 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_1125 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17623_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_32_1125.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_1125.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_1126 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17205_1.3 conn= Wye kv=7.97 kva=25 tap=0.87
+ ~ wdg=2 bus=BT_32_1126.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_1126.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_1127 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=127339_1.1 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_32_1127.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_1127.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_1128 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=39894_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_32_1128.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_1128.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_1129 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19040_1.1 conn= Wye kv=7.97 kva=15 tap=0.87
+ ~ wdg=2 bus=BT_32_1129.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_1129.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_1130 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19055_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_32_1130.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_1130.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_1131 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=114371_1.1 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_32_1131.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_1131.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_1132 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=99585_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_32_1132.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_1132.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_1137 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=117797_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_32_1137.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_1137.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_1151 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19033_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_32_1151.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_1151.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_1152 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=114379_1.3 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_32_1152.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_32_1152.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT32_1156 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=67103_1.2 conn= Wye kv=7.97 kva=25 tap=0.87
+ ~ wdg=2 bus=BT_32_1156.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_1156.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_1430 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=24263_1.2 conn= Wye kv=7.97 kva=25 tap=0.87
+ ~ wdg=2 bus=BT_32_1430.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_1430.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_1435 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=15605_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_32_1435 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_1478 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18780_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_32_1478.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_1478.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_1663 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14481_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_32_1663.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_1663.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_1664 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14491_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_32_1664.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_1664.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_1715 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17000_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_32_1715.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_1715.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_1716 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=56854_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_32_1716 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_1744 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17191_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_32_1744.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_1744.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_1757 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=112670_1.2 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_32_1757.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_1757.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_1760 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=65778_1.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_32_1760.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_1760.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_1887 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=40409_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_32_1887.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_1887.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_1903 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19436_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_32_1903.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_1903.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_1932 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=29051_1.2 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_32_1932.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_32_1932.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT32_2029 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18749_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_32_2029.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_2029.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_2113 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=40762_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_32_2113.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_2113.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_2267 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=127412_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_32_2267 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_2364 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18761_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_32_2364.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_2364.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_2781 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18751_1.3 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_32_2781.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_32_2781.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT32_2802 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=30931_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_32_2802.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_2802.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_2839 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17012_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_32_2839.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_2839.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_2909 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=29047_1.2 conn= Wye kv=7.97 kva=7.5 tap=0.956
+ ~ wdg=2 bus=BT_32_2909.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_32_2909.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT32_2955 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=30100_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_32_2955 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT32_3043 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=34031_1.3 conn= Wye kv=7.97 kva=25 tap=0.87
+ ~ wdg=2 bus=BT_32_3043.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_3043.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_3307 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=36221_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_32_3307 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT32_3316 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=40750_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_32_3316.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_3316.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_3367 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=37228_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_32_3367 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT32_3634 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=49241_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_32_3634.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_3634.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_3642 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=75256_1.2 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_32_3642.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_3642.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_3644 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=90340_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_32_3644 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT32_3760 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=66984_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_32_3760.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_3760.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_3858 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=93900_1.1 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_32_3858.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_3858.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_3889 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=75751_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_32_3889.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_3889.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_4040 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17006_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_32_4040.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_4040.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_4074 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=96222_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_32_4074.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_4074.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_4241 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=48138_2 conn= Delta kv=13.8 kva=15 tap=0.957
+ ~ wdg=2 bus=BT_32_4241 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT32_4491 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=89638_1.1 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_32_4491.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_4491.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_4580 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=96155_1.3 conn= Wye kv=7.97 kva=7.5 tap=0.87
+ ~ wdg=2 bus=BT_32_4580.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_32_4580.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT32_4636 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=101315_1.1 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_32_4636.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_32_4636.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT32_4817 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17020_1.1 conn= Wye kv=7.97 kva=3 tap=0.956
+ ~ wdg=2 bus=BT_32_4817.1.0  conn= Wye kv=0.22 kva=3 tap=1
+ ~ wdg=3 bus=BT_32_4817.0.2  conn= Wye kv=0.22 kva=3 tap=1
+
+New Transformer.IT32_4840 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=110639_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_32_4840.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_4840.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_4877 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=107898_1.2 conn= Wye kv=7.97 kva=7.5 tap=1
+ ~ wdg=2 bus=BT_32_4877.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_32_4877.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT32_4890 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=40754_1 conn= Delta kv=13.8 kva=15 tap=0.957
+ ~ wdg=2 bus=BT_32_4890 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT32_5001 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=48868_1.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_32_5001.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_5001.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_5002 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17192_1.2 conn= Wye kv=7.97 kva=7.5 tap=0.913
+ ~ wdg=2 bus=BT_32_5002.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_32_5002.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT32_5009 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=75551_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_32_5009 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_529 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=15580_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_32_529 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT32_530 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=78018_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_32_530.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_530.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_5430 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=11833_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_32_5430.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_5430.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_5516 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19440_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_32_5516.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_5516.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_552 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=85198_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_32_552.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_552.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_5523 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=112694_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_32_5523 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_5662 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=40760_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_32_5662 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT32_5665 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=61898_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_32_5665.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_5665.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_5676 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=19417_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_32_5676 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_5680 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=61922_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_32_5680.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_5680.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_5744 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16990_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_32_5744.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_5744.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_5894 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=78039_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_32_5894.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_5894.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_5895 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18756_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_32_5895.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_5895.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_5899 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=139797_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_32_5899 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_6021 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=67205_2.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_32_6021.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_6021.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_6351 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=43816_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_32_6351 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT32_6858 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=56802_1.2 conn= Wye kv=7.97 kva=10 tap=0.999
+ ~ wdg=2 bus=BT_32_6858.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_6858.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_7028 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=72407_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_32_7028 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_7204 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=134816_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_32_7204.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_7204.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_7384 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=137171_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_32_7384.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_32_7384.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT32_7413 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17029_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_32_7413.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_7413.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_7419 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=135346_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_32_7419.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_7419.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_7485 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=77617_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_32_7485 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT32_7533 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=126232_1.2 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_32_7533.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_32_7533.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT32_7534 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=134761_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_32_7534 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT32_7739 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=29733_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_32_7739 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_7860 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=140038_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_32_7860 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT32_932 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=101972_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_32_932.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_32_932.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT32_961 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=15593_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_32_961 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_10010 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15523_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_10010.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_10010.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_10012 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=141422_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_39_10012.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_10012.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_10042 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=103983_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_10042.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_10042.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_1008 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=14239_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_39_1008 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_10138 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=142902_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_39_10138 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_10219 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=15524_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_39_10219 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_10220 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=144538_1.1 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_10220.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_10220.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_10221 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14834_1.2 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_10221.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_10221.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_10222 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14827_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_10222.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_10222.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_10346 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19106_1.3 conn= Wye kv=7.97 kva=37.5 tap=0.913
+ ~ wdg=2 bus=BT_39_10346.1.0  conn= Wye kv=0.22 kva=37.5 tap=1
+ ~ wdg=3 bus=BT_39_10346.0.2  conn= Wye kv=0.22 kva=37.5 tap=1
+
+New Transformer.IT39_1035 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=75323_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_1035.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_1035.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_1036 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=104358_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_39_1036.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_1036.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_10440 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=144891_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_10440.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_10440.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_1055 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16946_1.3 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_39_1055.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_1055.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_1056 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=56845_1.3 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_39_1056.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_1056.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_1123 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17222_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_39_1123.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_1123.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_1133 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=104571_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_1133.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_1133.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_1134 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17604_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_1134.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_1134.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_1135 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17615_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_39_1135.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_1135.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_1142 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19080_1.2 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_39_1142.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_1142.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_1143 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18338_1.1 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_1143.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_1143.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_1144 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18729_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_1144.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_1144.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_1145 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18726_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_1145.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_1145.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_1147 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18724_1.1 conn= Wye kv=7.97 kva=15 tap=0.87
+ ~ wdg=2 bus=BT_39_1147.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_1147.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_1149 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=18361_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_39_1149 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_1183 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15046_1.3 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_39_1183.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_1183.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_1221 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16547_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_1221.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_1221.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_1341 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=144027_1.3 conn= Wye kv=7.97 kva=25 tap=0.999
+ ~ wdg=2 bus=BT_39_1341.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_1341.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_1344 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=5333_1.1 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_39_1344.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_1344.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_1345 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20146_1.2 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_1345.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_1345.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_1346 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20162_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_1346.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_1346.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_1347 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20552_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_1347.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_1347.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_1348 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=44294_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_1348.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_1348.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_1429 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20975_1.2 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_1429.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_1429.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_1463 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=75315_1.3 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_39_1463.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_1463.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_1686 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=140148_2.2 conn= Wye kv=7.97 kva=7.5 tap=0.999
+ ~ wdg=2 bus=BT_39_1686.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_39_1686.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT39_1692 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20954_1.1 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_1692.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_1692.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_1770 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20151_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_1770.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_1770.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_1908 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20524_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_1908.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_1908.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_1996 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=135510_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_1996.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_1996.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_2004 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16465_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_2004.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_2004.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_2005 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16473_1.2 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_2005.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_2005.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_2006 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=137587_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_39_2006 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_2052 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20556_1.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_2052.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_2052.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_2053 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=75126_1.2 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_39_2053.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2053.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2054 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20581_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_2054.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_2054.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_2055 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14846_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_2055.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_2055.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_2056 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14831_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_39_2056.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_2056.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_2087 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=133458_1 conn= Delta kv=13.8 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_2087 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT39_2134 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=112632_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_39_2134 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_2214 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14858_1.2 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_39_2214.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2214.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2215 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=23808_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_39_2215 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_2216 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23793_1.1 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_39_2216.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_2216.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_2217 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23792_1.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_2217.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_2217.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_2223 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19130_1.3 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_39_2223.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_2223.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_2224 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19097_1.3 conn= Wye kv=7.97 kva=20 tap=0.913
+ ~ wdg=2 bus=BT_39_2224.1.0  conn= Wye kv=0.22 kva=20 tap=1
+ ~ wdg=3 bus=BT_39_2224.0.2  conn= Wye kv=0.22 kva=20 tap=1
+
+New Transformer.IT39_2225 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19103_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_39_2225.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_2225.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_2226 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19111_1.1 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_39_2226.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2226.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2227 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20532_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_2227.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_2227.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_2269 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=37938_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_39_2269 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_2317 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20942_1.3 conn= Wye kv=7.97 kva=15 tap=0.87
+ ~ wdg=2 bus=BT_39_2317.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_2317.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_2347 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=77198_1.1 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_2347.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_2347.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_2351 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=17700_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_39_2351 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_2419 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=16924_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_39_2419 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_2465 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19119_1.1 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_39_2465.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2465.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2466 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18711_1.3 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_39_2466.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2466.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2467 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=18705_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_39_2467 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_2470 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16956_1.3 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_39_2470.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2470.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2471 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20541_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_2471.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_2471.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_2472 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20187_1.2 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_39_2472.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2472.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2473 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20908_1.2 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_39_2473.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2473.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2491 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18681_1.3 conn= Wye kv=7.97 kva=3 tap=0.913
+ ~ wdg=2 bus=BT_39_2491.1.0  conn= Wye kv=0.22 kva=3 tap=1
+ ~ wdg=3 bus=BT_39_2491.0.2  conn= Wye kv=0.22 kva=3 tap=1
+
+New Transformer.IT39_2645 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=26553_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_39_2645 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_2681 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=30125_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_39_2681 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_2682 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=14192_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_39_2682 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_2683 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.32 %noloadLoss =0.32
+ ~ wdg=1 bus=14238_1 conn= Delta kv=13.8 kva=112.5 tap=0.913
+ ~ wdg=2 bus=BT_39_2683 conn= Wye kv=0.38 kva=112.5 tap=1
+
+New Transformer.IT39_2760 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=31328_1.3 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_39_2760.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2760.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2761 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=31300_1.3 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_39_2761.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2761.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2762 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=31311_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_39_2762.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_2762.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_2763 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28580_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_39_2763.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_2763.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_2764 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28595_1.2 conn= Wye kv=7.97 kva=7.5 tap=0.913
+ ~ wdg=2 bus=BT_39_2764.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_39_2764.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT39_2765 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28555_1.1 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_39_2765.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2765.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2767 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=99724_1 conn= Delta kv=13.8 kva=75 tap=1
+ ~ wdg=2 bus=BT_39_2767 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_2777 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=79363_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_39_2777 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_2778 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=31360_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_2778.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_2778.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_2786 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=68704_1.3 conn= Wye kv=7.97 kva=7.5 tap=0.87
+ ~ wdg=2 bus=BT_39_2786.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_39_2786.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT39_2796 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=31719_1.2 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_39_2796.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_2796.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_2951 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23430_1.1 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_2951.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_2951.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_2952 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18713_1.3 conn= Wye kv=7.97 kva=7.5 tap=0.913
+ ~ wdg=2 bus=BT_39_2952.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_39_2952.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT39_2953 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19585_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_39_2953.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_2953.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_2986 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=35609_1 conn= Delta kv=13.8 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_2986 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT39_3041 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=134299_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_39_3041 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_3089 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=15487_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_39_3089 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_3140 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26231_1.3 conn= Wye kv=7.97 kva=25 tap=0.87
+ ~ wdg=2 bus=BT_39_3140.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_3140.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_3232 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=77212_1.3 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_39_3232.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_3232.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_3258 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=48866_1.2 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_39_3258.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3258.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3260 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17353_1.2 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_3260.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_3260.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_3270 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=43350_1.2 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_39_3270.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_3270.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_3281 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16936_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_3281.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3281.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3283 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=70223_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_3283.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3283.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3337 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=83888_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_39_3337 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_3512 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20930_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_3512.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3512.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3569 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=41778_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_3569.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3569.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3570 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=35999_1.3 conn= Wye kv=7.97 kva=7.5 tap=0.913
+ ~ wdg=2 bus=BT_39_3570.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_39_3570.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT39_3571 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=35997_1.3 conn= Wye kv=7.97 kva=7.5 tap=0.913
+ ~ wdg=2 bus=BT_39_3571.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_39_3571.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT39_3580 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=41779_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_39_3580.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3580.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3588 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=36399_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_3588.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3588.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3589 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=15500_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_39_3589 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_3661 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=117409_1.2 conn= Wye kv=7.97 kva=7.5 tap=0.87
+ ~ wdg=2 bus=BT_39_3661.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_39_3661.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT39_3662 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=67438_1.1 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_39_3662.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_3662.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_3718 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=112585_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_3718.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3718.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3905 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=66756_1.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_3905.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3905.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3906 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=76492_1.2 conn= Wye kv=7.97 kva=7.5 tap=1
+ ~ wdg=2 bus=BT_39_3906.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_39_3906.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT39_3908 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=82837_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_3908.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3908.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3909 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=75051_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_3909.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3909.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3912 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=71861_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_3912.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_3912.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_3969 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=100357_1.3 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_39_3969.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_3969.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_3978 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=17334_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_39_3978 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_4028 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=98666_1.2 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_39_4028.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_4028.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_4070 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=86504_1.1 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_39_4070.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_4070.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_4158 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=102502_1.2 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_39_4158.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_4158.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_4274 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=102362_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_39_4274 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_4307 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23785_1.2 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_4307.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_4307.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_4340 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=98927_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_4340.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_4340.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_4490 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=89609_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_39_4490 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_451 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=8946_1.1 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_39_451.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_451.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_4523 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=89689_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_39_4523 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_4742 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=96333_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_39_4742 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_4796 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=109191_1.3 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_39_4796.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_4796.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_4802 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=80972_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_4802.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_4802.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_4880 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14836_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_4880.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_4880.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_4924 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=77153_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_39_4924.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_4924.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_4927 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20142_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_4927.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_4927.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_4928 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=32805_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_39_4928.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_4928.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_5093 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17616_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_39_5093.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_5093.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_5101 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18385_1.2 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_39_5101.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_5101.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_5106 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=103985_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_39_5106.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_5106.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_5107 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=110824_3.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_5107.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_5107.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_5111 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=107652_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_39_5111.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_5111.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_5159 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26233_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_5159.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_5159.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_516 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=145384_1.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_516.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_516.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_520 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=14206_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_39_520 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_521 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=14262_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_39_521 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_522 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17341_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_39_522.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_522.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_523 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15550_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_39_523.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_523.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_524 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=136087_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_524.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_524.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_525 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=132055_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_39_525 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_526 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23800_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_526.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_526.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_527 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=107543_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_39_527 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_528 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=143271_1.3 conn= Wye kv=7.97 kva=15 tap=0.999
+ ~ wdg=2 bus=BT_39_528.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_528.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_5287 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=89255_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_39_5287 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_5354 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15544_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_5354.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_5354.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_539 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17351_1.2 conn= Wye kv=7.97 kva=15 tap=0.87
+ ~ wdg=2 bus=BT_39_539.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_539.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_540 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=36018_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_39_540 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_5402 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=113956_1.1 conn= Wye kv=7.97 kva=15 tap=0.87
+ ~ wdg=2 bus=BT_39_5402.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_5402.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_541 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18273_1.2 conn= Wye kv=7.97 kva=25 tap=0.826
+ ~ wdg=2 bus=BT_39_541.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_541.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_542 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=112605_1.1 conn= Wye kv=7.97 kva=20 tap=0.913
+ ~ wdg=2 bus=BT_39_542.1.0  conn= Wye kv=0.22 kva=20 tap=1
+ ~ wdg=3 bus=BT_39_542.0.2  conn= Wye kv=0.22 kva=20 tap=1
+
+New Transformer.IT39_544 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20918_1.2 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_39_544.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_544.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_545 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16563_1.1 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_545.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_545.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_546 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=120742_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_39_546 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_547 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18366_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_547.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_547.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_5653 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=116611_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_39_5653 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_5672 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=116174_1.1 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_39_5672.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_5672.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_5689 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=104_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_5689.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_5689.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_5692 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18813_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_5692.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_5692.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_5779 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=118307_1.2 conn= Wye kv=7.97 kva=7.5 tap=1
+ ~ wdg=2 bus=BT_39_5779.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_39_5779.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT39_5780 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=116219_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_39_5780 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_5781 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=17601_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_39_5781 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_5960 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=53780_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_39_5960.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_5960.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_6049 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=138076_1.1 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_6049.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_6049.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_6106 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20987_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_6106.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_6106.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_6182 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=119654_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_39_6182.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_6182.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_6198 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=30087_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_39_6198 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_6262 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=133456_1 conn= Delta kv=13.8 kva=45 tap=0.913
+ ~ wdg=2 bus=BT_39_6262 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT39_6276 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=119490_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_39_6276 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_6621 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=132880_1.3 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_39_6621.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_6621.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_6720 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=126884_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_6720.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_6720.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_6726 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=17592_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_39_6726.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_6726.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_6788 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=130257_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_39_6788 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_6920 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=118752_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_39_6920 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_6934 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=107812_1 conn= Delta kv=13.8 kva=15 tap=0.957
+ ~ wdg=2 bus=BT_39_6934 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT39_6968 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=39650_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_39_6968 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_6990 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=128945_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_6990.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_6990.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_6996 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=128370_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_39_6996.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_6996.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_7070 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=129052_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_7070.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_7070.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_7095 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=136498_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_39_7095 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_7206 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=16550_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_39_7206 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_7251 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=70218_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_39_7251.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_7251.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_7330 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16542_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_39_7330.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_39_7330.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT39_7362 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=139636_1 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_39_7362 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT39_7375 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=136031_1.3 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_39_7375.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_39_7375.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT39_7626 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=135310_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_39_7626 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_7732 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=139174_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_39_7732 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT39_7973 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=141444_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_39_7973.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_7973.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_90398 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=66978_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_90398.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_90398.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_90520 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=66517_1 conn= Delta kv=13.8 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_90520 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT39_90552 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.32 %noloadLoss =0.32
+ ~ wdg=1 bus=27577_1 conn= Delta kv=13.8 kva=112.5 tap=1
+ ~ wdg=2 bus=BT_39_90552 conn= Wye kv=0.38 kva=112.5 tap=1
+
+New Transformer.IT39_90658 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.32 %noloadLoss =0.32
+ ~ wdg=1 bus=138439_1 conn= Delta kv=13.8 kva=112.5 tap=0.913
+ ~ wdg=2 bus=BT_39_90658 conn= Wye kv=0.38 kva=112.5 tap=1
+
+New Transformer.IT39_90715 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.08 %noloadLoss =0.25
+ ~ wdg=1 bus=143275_1 conn= Delta kv=13.8 kva=300 tap=1
+ ~ wdg=2 bus=BT_39_90715 conn= Wye kv=0.38 kva=300 tap=1
+
+New Transformer.IT39_93 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=106571_1.1 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_39_93.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_39_93.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT39_973 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15515_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_39_973.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_39_973.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT39_975 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=83884_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_39_975 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_10023 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=141305_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_10023.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_10023.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_10031 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=141508_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_10031 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_1007 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14475_1.2 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_1007.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1007.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_10099 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=141844_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_10099 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_10102 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=15218_2 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_40_10102 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_1013 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=18130_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_40_1013 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_10145 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21642_1.1 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_10145.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_10145.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_10169 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14312_1.1 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_10169.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_10169.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_10179 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=46605_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_10179 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_1020 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=106037_1.1 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_1020.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1020.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_10210 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=86644_1 conn= Delta kv=13.8 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_10210 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT40_10251 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37882_1.1 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_10251.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_10251.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_10253 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=140964_1.3 conn= Wye kv=7.97 kva=37.5 tap=0.956
+ ~ wdg=2 bus=BT_40_10253.1.0  conn= Wye kv=0.22 kva=37.5 tap=1
+ ~ wdg=3 bus=BT_40_10253.0.2  conn= Wye kv=0.22 kva=37.5 tap=1
+
+New Transformer.IT40_10254 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=143474_1 conn= Delta kv=13.8 kva=75 tap=1
+ ~ wdg=2 bus=BT_40_10254 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_10274 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=143906_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_10274.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_10274.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_10275 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=144202_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_10275 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_10316 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=145437_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_40_10316 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_10324 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21075_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_10324.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_10324.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_10329 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=144191_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_10329.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_10329.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_10459 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=145159_1 conn= Delta kv=13.8 kva=75 tap=1
+ ~ wdg=2 bus=BT_40_10459 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_1046 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=56861_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_1046.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_1046.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_1153 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19427_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_1153.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1153.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1154 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=116105_1.2 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_40_1154.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_1154.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_1267 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37859_1.2 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_40_1267.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_1267.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_1293 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26168_1.2 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_1293.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1293.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1294 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14435_1.3 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_40_1294.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_1294.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_1295 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=136093_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_1295.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1295.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1315 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=72419_1.1 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_1315.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1315.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1316 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20345_1.1 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_1316.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1316.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1317 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20364_1.2 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_1317.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1317.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1318 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=113716_1.3 conn= Wye kv=7.97 kva=7.5 tap=0.956
+ ~ wdg=2 bus=BT_40_1318.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_40_1318.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT40_1319 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=63320_1.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_1319.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_1319.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_1320 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20388_1.3 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_1320.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1320.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1321 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=60663_1.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_1321.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_1321.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_1393 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=22908_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_1393 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_1394 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14318_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_1394.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1394.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1436 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14314_1.1 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_1436.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1436.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1454 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15077_1.2 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_1454.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1454.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1455 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15559_1.3 conn= Wye kv=7.97 kva=25 tap=0.87
+ ~ wdg=2 bus=BT_40_1455.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1455.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1456 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=44302_1.1 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_1456.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1456.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1457 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=41181_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_1457.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1457.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1459 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15125_1.1 conn= Wye kv=7.97 kva=15 tap=0.87
+ ~ wdg=2 bus=BT_40_1459.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1459.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1460 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=51080_1.1 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_1460.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1460.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1507 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=95413_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_1507.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1507.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1541 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28465_1.1 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_40_1541.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_1541.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_1552 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=76649_1.3 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_1552.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1552.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1641 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21594_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_1641.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1641.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1646 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15299_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_1646.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1646.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1651 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28499_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_1651.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1651.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1658 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18508_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_1658.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_1658.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_1659 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18496_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_1659.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1659.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1660 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=103363_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_1660.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_1660.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_1661 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=78045_1.3 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_40_1661.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_1661.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_1662 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=95785_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_1662.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1662.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1665 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14500_1.3 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_1665.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1665.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1666 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=75573_1.2 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_1666.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1666.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1667 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37878_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_1667.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1667.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1668 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=86987_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_1668.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1668.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1669 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37910_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_1669.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1669.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1670 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21092_1.1 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_1670.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_1670.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_1671 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26200_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_1671.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_1671.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_1674 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=79004_1.2 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_40_1674.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_1674.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_1695 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=106842_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_1695.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1695.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1712 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=65746_1.2 conn= Wye kv=7.97 kva=20 tap=0.956
+ ~ wdg=2 bus=BT_40_1712.1.0  conn= Wye kv=0.22 kva=20 tap=1
+ ~ wdg=3 bus=BT_40_1712.0.2  conn= Wye kv=0.22 kva=20 tap=1
+
+New Transformer.IT40_1730 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15103_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_1730.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1730.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1741 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=27030_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_40_1741 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_1788 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28494_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_1788.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1788.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1827 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=106252_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_40_1827 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_1888 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26215_1.1 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_1888.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_1888.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_1892 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=21085_1 conn= Delta kv=13.8 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_1892 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT40_1950 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18124_1.2 conn= Wye kv=7.97 kva=7.5 tap=0.956
+ ~ wdg=2 bus=BT_40_1950.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_40_1950.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT40_1955 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=90617_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_1955.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1955.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1956 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=22888_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_1956.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_1956.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_1978 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26206_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_1978.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_1978.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_1982 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=18556_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_40_1982 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_2013 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=14333_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_2013 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_2088 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26221_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_2088.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_2088.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_2112 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20642_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_2112.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_2112.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_2128 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=73340_1.2 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_2128.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_2128.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_2186 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20326_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_2186.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_2186.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_2365 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15089_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_2365.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_2365.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_2366 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20352_1.1 conn= Wye kv=7.97 kva=25 tap=0.999
+ ~ wdg=2 bus=BT_40_2366.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_2366.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_2367 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26193_1.1 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_2367.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_2367.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_2500 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=78166_1.1 conn= Wye kv=7.97 kva=25 tap=0.87
+ ~ wdg=2 bus=BT_40_2500.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_2500.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_2502 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15563_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_2502.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_2502.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_2512 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37873_1.2 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_40_2512.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_2512.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_2587 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=135746_1 conn= Delta kv=13.8 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_2587 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT40_2622 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15186_1.2 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_40_2622.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_2622.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_2632 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15673_1.2 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_2632.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_2632.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_2748 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=33861_1.2 conn= Wye kv=7.97 kva=3 tap=0.956
+ ~ wdg=2 bus=BT_40_2748.1.0  conn= Wye kv=0.22 kva=3 tap=1
+ ~ wdg=3 bus=BT_40_2748.0.2  conn= Wye kv=0.22 kva=3 tap=1
+
+New Transformer.IT40_2769 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21132_1.1 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_2769.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_2769.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_2770 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=33117_1.1 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_2770.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_2770.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_2773 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=83905_1.3 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_40_2773.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_2773.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_2774 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=103153_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_40_2774 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_2842 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=35072_1.2 conn= Wye kv=7.97 kva=15 tap=0.87
+ ~ wdg=2 bus=BT_40_2842.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_2842.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_2877 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37502_1.1 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_2877.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_2877.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_2902 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=138899_1 conn= Delta kv=13.8 kva=15 tap=0.957
+ ~ wdg=2 bus=BT_40_2902 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT40_2914 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=82124_1.1 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_2914.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_2914.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_2989 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=35561_1.1 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_2989.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_2989.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3076 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28799_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_3076.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3076.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3077 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=77001_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_3077 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_3107 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=113333_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_3107 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_3112 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=36525_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_3112.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3112.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3131 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=34502_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_3131.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_3131.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_3171 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=27032_1.2 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_3171.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_3171.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_3265 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=40808_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_3265.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_3265.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_3276 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=41161_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_3276.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3276.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3334 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=35829_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_3334.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_3334.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_3338 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=35840_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_3338.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3338.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3344 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=35813_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_3344.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3344.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3365 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=90343_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_40_3365 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_3451 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=40872_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_40_3451.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3451.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3521 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=95465_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_3521.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_3521.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_3548 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=133950_1.3 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_3548.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_3548.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_359 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=117861_1.2 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_359.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_359.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_3592 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26172_1.2 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_3592.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_3592.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_3651 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=41568_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_3651.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3651.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3686 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15100_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_3686.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_3686.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_3806 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20409_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_3806.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3806.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3813 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=93834_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_3813 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_3814 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=66435_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_3814.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3814.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3846 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=65754_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_3846.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_3846.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_3848 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=73036_1.1 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_3848.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_3848.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_3897 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=73045_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_3897 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_390 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=136689_1.1 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_390.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_390.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_3939 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=57661_1.1 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_40_3939.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_3939.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_3953 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=100786_1.3 conn= Wye kv=7.97 kva=5 tap=0.826
+ ~ wdg=2 bus=BT_40_3953.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_3953.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_3961 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=2769_1.1 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_40_3961.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_3961.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_3966 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=67597_1.3 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_40_3966.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_3966.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_3980 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=100779_1.3 conn= Wye kv=7.97 kva=10 tap=0.826
+ ~ wdg=2 bus=BT_40_3980.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3980.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3983 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=62041_1.2 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_40_3983.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_3983.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_3986 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=22865_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_3986.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3986.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_3988 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=59282_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_3988.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_3988.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4001 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=103309_1.2 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_40_4001.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4001.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4018 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=113719_1.1 conn= Wye kv=7.97 kva=37.5 tap=0.913
+ ~ wdg=2 bus=BT_40_4018.1.0  conn= Wye kv=0.22 kva=37.5 tap=1
+ ~ wdg=3 bus=BT_40_4018.0.2  conn= Wye kv=0.22 kva=37.5 tap=1
+
+New Transformer.IT40_4019 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=21609_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_4019 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_4041 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=136112_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_40_4041 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_4064 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=98420_1.1 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_4064.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_4064.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_4083 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=95161_1.2 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_40_4083.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4083.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4091 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=93909_1.2 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_40_4091.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4091.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4140 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=100971_1.1 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_40_4140.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4140.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4144 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=102521_1.1 conn= Wye kv=7.97 kva=7.5 tap=0.913
+ ~ wdg=2 bus=BT_40_4144.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_40_4144.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT40_4155 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=101363_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_4155.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4155.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4186 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=99772_1.1 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_40_4186.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4186.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4266 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=96429_1.2 conn= Wye kv=7.97 kva=7.5 tap=0.913
+ ~ wdg=2 bus=BT_40_4266.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_40_4266.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT40_4276 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=53077_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_4276.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4276.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4294 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=102940_1.1 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_40_4294.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4294.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4300 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=129009_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_4300.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4300.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4309 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37908_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_4309.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_4309.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_4310 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=88417_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_4310.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_4310.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_4356 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=38707_1 conn= Delta kv=13.8 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_4356 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT40_4374 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=102755_1.3 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_40_4374.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4374.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4411 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=43629_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_4411.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_4411.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_4437 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14496_1.3 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_40_4437.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4437.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4453 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37917_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_4453.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4453.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4470 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=68540_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_4470.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4470.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4486 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=89966_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_4486.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_4486.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_4501 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=38114_1.2 conn= Wye kv=7.97 kva=15 tap=0.87
+ ~ wdg=2 bus=BT_40_4501.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_4501.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_4509 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=89766_1.1 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_40_4509.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4509.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4511 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=59505_1.2 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_40_4511.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4511.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4534 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=55028_1.1 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_40_4534.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4534.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4538 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=106317_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_4538.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_4538.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_4540 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=90060_1.3 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_40_4540.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4540.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4610 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=105866_1.2 conn= Wye kv=7.97 kva=7.5 tap=0.913
+ ~ wdg=2 bus=BT_40_4610.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_40_4610.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT40_4612 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37507_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_4612.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4612.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4646 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=101331_1.3 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_40_4646.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4646.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4647 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=106356_1.3 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_40_4647.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_4647.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_4669 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=134567_1.2 conn= Wye kv=7.97 kva=7.5 tap=0.913
+ ~ wdg=2 bus=BT_40_4669.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_40_4669.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT40_4701 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26179_1.1 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_4701.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_4701.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_4714 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=81773_1.2 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_4714.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_4714.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_4729 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=97441_1.2 conn= Wye kv=7.97 kva=7.5 tap=1
+ ~ wdg=2 bus=BT_40_4729.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_40_4729.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT40_4748 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21593_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_4748.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_4748.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_4760 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=88390_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_4760 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_4782 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=107349_1.2 conn= Wye kv=7.97 kva=7.5 tap=1
+ ~ wdg=2 bus=BT_40_4782.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_40_4782.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT40_4799 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=108298_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_4799.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_4799.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_4833 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19966_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_4833.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4833.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4834 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=28484_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_4834 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_4879 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=90626_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_4879.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4879.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4902 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=107912_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_40_4902 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_4916 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=108443_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_4916.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4916.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4943 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=96695_1.1 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_4943.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_4943.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_4992 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15069_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_4992.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4992.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4993 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=46656_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_4993.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_4993.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_4994 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37896_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_4994.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_4994.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_5046 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=110337_1.2 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_40_5046.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_5046.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_5119 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=42620_1.1 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_5119.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_5119.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_5149 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18799_1.1 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_5149.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_5149.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_5164 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=15221_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_40_5164 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_5192 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15110_1.1 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_5192.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_5192.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_5260 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=104965_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_5260 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_5278 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=104379_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_5278.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_5278.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_531 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=40739_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_531.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_531.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_532 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=89319_1.2 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_532.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_532.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_536 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=111209_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_536.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_536.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_5385 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28010_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_5385.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_5385.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_5401 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15665_1.1 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_5401.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_5401.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_5403 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=21655_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_5403 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_5411 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=112813_1.2 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_40_5411.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_5411.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_5412 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=112575_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_5412.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_5412.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_5419 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20330_1.1 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_5419.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_5419.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_5421 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26219_1.1 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_5421.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_5421.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_5484 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20392_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_5484.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_5484.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_553 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=72954_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_553.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_553.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_554 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=14353_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_40_554 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_556 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15270_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_556.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_556.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_557 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=84321_1.1 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_557.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_557.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_558 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15290_1.3 conn= Wye kv=7.97 kva=15 tap=0.87
+ ~ wdg=2 bus=BT_40_558.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_558.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_559 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=22869_1.2 conn= Wye kv=7.97 kva=20 tap=1
+ ~ wdg=2 bus=BT_40_559.1.0  conn= Wye kv=0.22 kva=20 tap=1
+ ~ wdg=3 bus=BT_40_559.0.2  conn= Wye kv=0.22 kva=20 tap=1
+
+New Transformer.IT40_560 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=22857_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_560.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_560.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_561 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=22878_1.2 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_561.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_561.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_562 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28018_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_562.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_562.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_563 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21650_1.2 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_563.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_563.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_564 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14452_1.1 conn= Wye kv=7.97 kva=20 tap=0.913
+ ~ wdg=2 bus=BT_40_564.1.0  conn= Wye kv=0.22 kva=20 tap=1
+ ~ wdg=3 bus=BT_40_564.0.2  conn= Wye kv=0.22 kva=20 tap=1
+
+New Transformer.IT40_565 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=136110_1.1 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_565.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_565.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_5659 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14322_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_5659.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_5659.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_566 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21602_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_566.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_566.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_567 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=90342_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_567 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_568 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=88377_1.1 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_568.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_568.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_5681 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=14441_1.1 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_5681.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_5681.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_5701 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=114352_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_40_5701 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_5702 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=114357_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_40_5702 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_5706 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=22866_1.2 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_5706.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_5706.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_5743 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=24782_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_5743 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_5753 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=41152_1.2 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_5753.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_5753.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_5754 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=73362_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_5754.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_5754.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_5772 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=18550_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_5772 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_5773 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=19951_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_5773 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_5843 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=19423_1.2 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_5843.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_5843.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_5847 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=41182_1.1 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_5847.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_5847.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_5910 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=72594_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_5910 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_5924 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=14483_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_5924 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_5953 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=118034_1.1 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_5953.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_5953.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_6007 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21632_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_6007.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_6007.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_6040 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=100772_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_40_6040 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_6181 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=45061_1.2 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_40_6181.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_6181.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_6193 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=120080_1.1 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_6193.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_6193.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_6214 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26228_1.2 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_6214.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_6214.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_6263 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=111815_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_40_6263 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_6482 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21105_1.1 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_6482.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_6482.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_6505 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=108439_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_6505.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_6505.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_6568 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=78048_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_6568 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_6651 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=130201_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_6651.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_6651.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_6680 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=126782_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_6680.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_6680.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_6773 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=85791_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_6773.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_6773.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_6803 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=97509_1 conn= Delta kv=13.8 kva=45 tap=1
+ ~ wdg=2 bus=BT_40_6803 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_6806 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=26191_1.1 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_6806.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_6806.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_6807 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=27046_1 conn= Delta kv=13.8 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_6807 conn= Wye kv=0.44 kva=15 tap=1
+
+New Transformer.IT40_6842 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=132153_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_6842.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_6842.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_6865 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15085_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_6865.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_6865.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_6888 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=131589_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_6888.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_6888.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_6889 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=131587_1.2 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_40_6889.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_6889.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_6988 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=20342_1.1 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_6988.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_6988.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_7055 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=97049_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_7055.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_7055.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_7067 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28008_1.3 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_7067.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_7067.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_7101 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=128432_1.1 conn= Wye kv=7.97 kva=5 tap=1
+ ~ wdg=2 bus=BT_40_7101.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_40_7101.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT40_7160 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=28025_1.1 conn= Wye kv=7.97 kva=15 tap=0.956
+ ~ wdg=2 bus=BT_40_7160.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_40_7160.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT40_7200 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=72974_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_7200.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_7200.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_7224 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=136943_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_7224 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_7239 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=136942_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_7239.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_7239.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_7266 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37885_1.1 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_40_7266.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_7266.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_7267 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=135326_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_7267.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_7267.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_7279 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=113694_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_40_7279.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_7279.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_7361 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=136243_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_7361.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_7361.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_7382 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=83908_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_40_7382.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_7382.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_7420 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=21124_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_7420.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_7420.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_7458 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=134566_1 conn= Delta kv=13.8 kva=75 tap=1
+ ~ wdg=2 bus=BT_40_7458 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_7500 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=33858_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_7500.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_7500.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_7521 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=137834_1.1 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_7521.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_7521.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_7548 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=18125_1 conn= Delta kv=13.8 kva=15 tap=1
+ ~ wdg=2 bus=BT_40_7548 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT40_7593 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=134542_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_40_7593 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_7635 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=138499_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_40_7635 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_7640 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=138654_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_7640 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_7641 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=112334_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_7641 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_7718 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=138695_1.3 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_7718.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_7718.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_7760 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.65 %noloadLoss =0.41
+ ~ wdg=1 bus=100420_1 conn= Delta kv=13.8 kva=45 tap=0.957
+ ~ wdg=2 bus=BT_40_7760 conn= Wye kv=0.38 kva=45 tap=1
+
+New Transformer.IT40_7784 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=15213_1 conn= Delta kv=13.8 kva=30 tap=0.913
+ ~ wdg=2 bus=BT_40_7784 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_7828 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=15661_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_40_7828 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT40_7967 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=140851_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_40_7967 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_7968 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=140822_1.2 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_7968.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_7968.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_7985 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=141122_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_40_7985.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_40_7985.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT40_7986 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=20332_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_40_7986 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT40_869 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=15208_1.2 conn= Wye kv=7.97 kva=25 tap=0.956
+ ~ wdg=2 bus=BT_40_869.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_40_869.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT40_90688 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.32 %noloadLoss =0.32
+ ~ wdg=1 bus=141512_1 conn= Delta kv=13.8 kva=112.5 tap=1
+ ~ wdg=2 bus=BT_40_90688 conn= Wye kv=0.38 kva=112.5 tap=1
+
+New Transformer.IT40_90697 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.32 %noloadLoss =0.32
+ ~ wdg=1 bus=143942_1 conn= Delta kv=13.8 kva=112.5 tap=1
+ ~ wdg=2 bus=BT_40_90697 conn= Wye kv=0.38 kva=112.5 tap=1
+
+New Transformer.IT41_3062 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=34439_1.2 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_41_3062.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_41_3062.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT41_3462 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=38414_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_41_3462.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_41_3462.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT41_3508 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=38417_1.3 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_41_3508.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_41_3508.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT41_3509 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=38407_1 conn= Delta kv=13.8 kva=30 tap=0.957
+ ~ wdg=2 bus=BT_41_3509 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT41_3593 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=38413_1 conn= Delta kv=13.8 kva=75 tap=0.957
+ ~ wdg=2 bus=BT_41_3593 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT41_4209 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=96880_1.3 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_41_4209.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_41_4209.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT47_10270 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=143496_1.3 conn= Wye kv=7.97 kva=15 tap=0.913
+ ~ wdg=2 bus=BT_47_10270.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_47_10270.0.2  conn= Wye kv=0.22 kva=15 tap=1
+
+New Transformer.IT47_10339 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.46 %noloadLoss =0.37
+ ~ wdg=1 bus=144028_2 conn= Delta kv=13.8 kva=75 tap=0.913
+ ~ wdg=2 bus=BT_47_10339 conn= Wye kv=0.38 kva=75 tap=1
+
+New Transformer.IT47_10430 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=145131_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_47_10430.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_10430.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_1340 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=44204_1.3 conn= Wye kv=7.97 kva=10 tap=0.956
+ ~ wdg=2 bus=BT_47_1340.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_1340.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_1342 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16457_1.3 conn= Wye kv=7.97 kva=25 tap=1
+ ~ wdg=2 bus=BT_47_1342.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_47_1342.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT47_1343 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=103087_1.3 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_47_1343.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_47_1343.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT47_1854 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=18675_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_47_1854.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_1854.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_2201 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23853_1.3 conn= Wye kv=7.97 kva=5 tap=0.913
+ ~ wdg=2 bus=BT_47_2201.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_47_2201.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT47_2238 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23813_1.3 conn= Wye kv=7.97 kva=7.5 tap=1
+ ~ wdg=2 bus=BT_47_2238.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_47_2238.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT47_2239 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23820_1.3 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_47_2239.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_47_2239.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT47_2240 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23827_1.3 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_47_2240.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_47_2240.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT47_2250 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23860_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_47_2250.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_2250.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_2251 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23849_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_47_2251.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_2251.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_2252 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23829_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_47_2252.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_47_2252.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT47_2253 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=50366_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_47_2253.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_2253.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_2410 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=143735_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_47_2410.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_2410.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_2412 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23890_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_47_2412.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_2412.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_2413 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=25664_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_47_2413.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_2413.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_2414 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=25675_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_47_2414.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_2414.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_2880 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=50368_1.3 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_47_2880.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_47_2880.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT47_2881 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=39763_1.3 conn= Wye kv=7.97 kva=7.5 tap=0.87
+ ~ wdg=2 bus=BT_47_2881.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_47_2881.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT47_2882 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=39746_1.3 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_47_2882.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_47_2882.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT47_3269 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=48921_1.3 conn= Wye kv=7.97 kva=7.5 tap=0.87
+ ~ wdg=2 bus=BT_47_3269.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_47_3269.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT47_3271 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=48930_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_47_3271.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_3271.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_3274 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=48925_1.3 conn= Wye kv=7.97 kva=7.5 tap=0.956
+ ~ wdg=2 bus=BT_47_3274.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_47_3274.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT47_3397 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=48737_1.2 conn= Wye kv=7.97 kva=25 tap=0.87
+ ~ wdg=2 bus=BT_47_3397.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_47_3397.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT47_3518 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=37681_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_47_3518.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_3518.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_3638 phases=3 Windings=2 Xhl=0.5 %loadLoss =2.14 %noloadLoss =0.54
+ ~ wdg=1 bus=37677_1 conn= Delta kv=13.8 kva=15 tap=0.87
+ ~ wdg=2 bus=BT_47_3638 conn= Wye kv=0.38 kva=15 tap=1
+
+New Transformer.IT47_3907 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=62235_1.3 conn= Wye kv=7.97 kva=7.5 tap=0.913
+ ~ wdg=2 bus=BT_47_3907.1.0  conn= Wye kv=0.22 kva=7.5 tap=1
+ ~ wdg=3 bus=BT_47_3907.0.2  conn= Wye kv=0.22 kva=7.5 tap=1
+
+New Transformer.IT47_3913 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=23057_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_47_3913.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_3913.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_3914 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16818_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_47_3914.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_3914.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_3970 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=44206_1.3 conn= Wye kv=7.97 kva=5 tap=0.87
+ ~ wdg=2 bus=BT_47_3970.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_47_3970.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT47_4644 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=103642_1.3 conn= Wye kv=7.97 kva=25 tap=0.913
+ ~ wdg=2 bus=BT_47_4644.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_47_4644.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT47_6127 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=16460_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_47_6127.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_6127.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_6426 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=124864_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_47_6426.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_6426.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_6866 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=130422_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_47_6866.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_6866.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_7096 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=136825_1.3 conn= Wye kv=7.97 kva=25 tap=0.87
+ ~ wdg=2 bus=BT_47_7096.1.0  conn= Wye kv=0.22 kva=25 tap=1
+ ~ wdg=3 bus=BT_47_7096.0.2  conn= Wye kv=0.22 kva=25 tap=1
+
+New Transformer.IT47_7274 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=39760_1.3 conn= Wye kv=7.97 kva=10 tap=0.87
+ ~ wdg=2 bus=BT_47_7274.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_7274.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_7275 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=134282_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_47_7275.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_7275.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_7527 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=137116_1.3 conn= Wye kv=7.97 kva=10 tap=1
+ ~ wdg=2 bus=BT_47_7527.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_7527.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT47_7812 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=139527_1.3 conn= Wye kv=7.97 kva=10 tap=0.913
+ ~ wdg=2 bus=BT_47_7812.1.0  conn= Wye kv=0.22 kva=10 tap=1
+ ~ wdg=3 bus=BT_47_7812.0.2  conn= Wye kv=0.22 kva=10 tap=1
+
+New Transformer.IT8_3847 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=71548_1.3 conn= Wye kv=7.97 kva=5 tap=0.956
+ ~ wdg=2 bus=BT_8_3847.1.0  conn= Wye kv=0.22 kva=5 tap=1
+ ~ wdg=3 bus=BT_8_3847.0.2  conn= Wye kv=0.22 kva=5 tap=1
+
+New Transformer.IT8_4560 phases=3 Windings=2 Xhl=0.5 %loadLoss =1.81 %noloadLoss =0.47
+ ~ wdg=1 bus=106066_1 conn= Delta kv=13.8 kva=30 tap=1
+ ~ wdg=2 bus=BT_8_4560 conn= Wye kv=0.38 kva=30 tap=1
+
+New Transformer.IT8_7582 phases=1 Windings=3 Xhl=0.5 %loadLoss =0.5 %noloadLoss =0.2
+ ~ wdg=1 bus=138461_1.1 conn= Wye kv=7.97 kva=15 tap=1
+ ~ wdg=2 bus=BT_8_7582.1.0  conn= Wye kv=0.22 kva=15 tap=1
+ ~ wdg=3 bus=BT_8_7582.0.2  conn= Wye kv=0.22 kva=15 tap=1
+

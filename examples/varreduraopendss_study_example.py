@@ -9,12 +9,13 @@ import pathlib
 import py_dss_tools
 from py_dss_interface import DSS
 import pandas as pd
+import py_dss_interface
 
-'''
+#########Tentativa 1
 script_path = os.path.dirname(os.path.abspath(__file__))
-feeders = pd.read_csv("feeder.csv")
+dss_file = feeders = pd.read_csv("feeder.csv")
 
-feeder_summary = dict()
+feeder_Summary = dict()
 for index, row in feeders.iterrows():
     feeder = row["feeder name"]
     model_path = dss_file = pathlib.Path(script_path).joinpath("feeders", str(feeder), "000_master.dss")
@@ -23,8 +24,30 @@ for index, row in feeders.iterrows():
     dss = py_dss_interface.DSS()
 
     dss.text(f"compile [{model_path}]")
-'''
 
+    print(f"\n{feeder}")
+    dss = py_dss_interface.DSS()
+
+    dss.text(f"compile [{model_path}]")
+
+    print("Summary")
+    study.results.create_summary_dict
+
+    print("Same Bus")
+    study.results.same_bus
+
+    print("Isolated")
+    study.results.isolated
+
+    print("load_transformer")
+    study.results.load_transformer
+
+    print("Phases Connections")
+    study.results.phases_connections
+
+
+'''
+########Tentativa 2
 script_path = os.path.dirname(os.path.abspath(__file__))
 dss_file = pathlib.Path(script_path).joinpath("feeders", "123Bus", "IEEE123Master.dss")
 
@@ -35,8 +58,9 @@ study.dss.text("Buscoords Buscoords.dat")
 study.dss.text("solve")
 
 study.dss.text("edit Line.L67 bus2=open") #Isolated
-#print(f"{name} bus1: {bus1} bus2: {bus2}")
-#print(f"{name} bus1: {bus1}")
+study.dss.text("MakebusList") #Isolated
+study.dss.text("plot circuit") #Isolated
+study.dss.text("All elements checked")
 study.results.isolated
 
 study.dss.text("edit Line.L67 bus2=67") #Same_Bus
@@ -73,29 +97,7 @@ feeders = pd.read_csv("feeder.csv") #Rodar pelo csv??
 study.run() #Apenas executar por aqui??
 
 print("here")
-
 '''''
-study.dss.text("edit Line.L67 bus2=open") #Isolated
-study.dss.text("edit Line.L67 bus2=67") #Same_Bus
-study.dss.text("edit LINE.L74 Bus1=73.1") #Phases_Connections
-study.dss.text("New Transformer.t phases=1  windings=3 buses=[sourcebus A.4.2] conns=[Wye] kvs=[0.22 0.22] "  ????
-                "kvas=[15 15 15] %loadloss=2.033333 %noloadloss=0.6") #Transformer_Data                       ????
-study.dss.text("New line.loop phases=3 bus1=79.1.2.3 bus2=450.1.2.3") #Summary
-study.dss.text("Edit LINE.L114 enabled=no") #Summary
 
-study.dss.text("MakebusList") #Isolated
-study.dss.text("plot circuit") #Isolated
-study.dss.text("All elements checked")
-
-
-#study.results.summary
-study.results.isolated
-study.results.same_bus
-study.results.transformer_data
-study.results.phases_connections
-study.results.phase_connection
-study.results.load_transformer
-#df = study.results.analise_alimentador
-'''''
 
 
