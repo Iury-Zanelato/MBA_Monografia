@@ -4,47 +4,58 @@
 # @File    : varreduraopendss_example.py
 # @Software: PyCharm
 
-import os
-import pathlib
-import py_dss_tools
-from py_dss_interface import DSS
-import pandas as pd
-import py_dss_interface
+
 
 #########Tentativa 1
+import os
+import pandas as pd
+import pathlib
+import py_dss_interface
+import py_dss_tools
+
 script_path = os.path.dirname(os.path.abspath(__file__))
-dss_file = feeders = pd.read_csv("feeder.csv")
+dss_file = pd.read_csv(r"C:\GitHub\py-dss-tools\feeder.csv")
+study = py_dss_tools.CreateStudy.varreduraopendss_study(name="Varredura OpenDSS", dss_file=str(dss_file))
 
 feeder_Summary = dict()
-for index, row in feeders.iterrows():
+for index, row in dss_file.iterrows():
     feeder = row["feeder name"]
-    model_path = dss_file = pathlib.Path(script_path).joinpath("feeders", str(feeder), "000_master.dss")
+    model_path = pathlib.Path(script_path).joinpath("feeders", str(feeder), "000_master.dss")
 
     print(f"\n{feeder}")
     dss = py_dss_interface.DSS()
 
     dss.text(f"compile [{model_path}]")
 
-    print(f"\n{feeder}")
-    dss = py_dss_interface.DSS()
+    # Verificando Summary
+    #print("Summary")
+    #summary_result = dss.Summary
+    #print(summary_result)
 
-    dss.text(f"compile [{model_path}]")
-
-    print("Summary")
-    study.results.create_summary_dict
-
+    # Verificando Same Bus
     print("Same Bus")
-    study.results.same_bus
+    same_bus_result = dss.Same_Bus()
+    print(same_bus_result)
 
+    # Verificando Isolated
     print("Isolated")
-    study.results.isolated
+    isolated_result = dss.Isolated()
+    print(isolated_result)
 
+    # Verificando load_transformer
     print("load_transformer")
-    study.results.load_transformer
+    load_transformer_result = dss.Load_transformer()
+    print(load_transformer_result)
 
+    # Verificando Phases Connections
     print("Phases Connections")
-    study.results.phases_connections
+    phases_connections_result = dss.Phases_connections()
+    print(phases_connections_result)
 
+#Erro
+#(242) OpenDSS
+#Redirect File: "C:\GitHub\py-dss-tools\examples\feeders\1_ALPE_1\  feeder name
+#0    1_ALPE_1.dss" Not Found.
 
 '''
 ########Tentativa 2
