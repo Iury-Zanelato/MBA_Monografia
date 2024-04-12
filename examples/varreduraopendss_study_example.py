@@ -4,32 +4,26 @@
 # @File    : varreduraopendss_example.py
 # @Software: PyCharm
 
-import os
-import pathlib
-import py_dss_tools
-from py_dss_interface import DSS
-import pandas as pd
-import py_dss_interface
-from py_dss_tools.results.Same_Bus import Same_Bus
-
 #########Tentativa 1
 import os
 import pandas as pd
 import pathlib
 import py_dss_interface
+import py_dss_tools
 
 script_path = os.path.dirname(os.path.abspath(__file__))
+dss_file = pd.read_csv(r"C:\GitHub\py-dss-tools\feeder.csv")
 
-dss_file = pd.read_csv(r"C:\GitHub\py-dss-tools\examples\feeder.csv")
-
+feeder_summary = dict()
 for index, row in dss_file.iterrows():
     feeder = row["feeder name"]
-    model_path = pathlib.Path(script_path).joinpath("feeders", str(feeder), "000_master.dss")
+    model_path = pathlib.Path(script_path).joinpath(str(feeder), "feeders", "000_master.dss")
+    study = py_dss_tools.CreateStudy.varreduraopendss_study(name="Varredura OpenDSS", dss_file=str(dss_file))
 
     print(f"\n{feeder}")
     dss = py_dss_interface.DSS()
 
-    dss.text(f"compile [{model_path}]")
+    dss.text(f"compile [{model_path}]")  #Se eu com
 
     # Verificando Summary
     #print("Summary")
@@ -37,13 +31,14 @@ for index, row in dss_file.iterrows():
     #print(summary_result)
 
     # Verificando Same Bus
+
     print("Same Bus")
-    same_bus_result = dss.check_same_buses()
+    same_bus_result = dss.Same_Bus()
     print(same_bus_result)
 
     # Verificando Isolated
     print("Isolated")
-    isolated_result = self._dss.Isolated()
+    isolated_result = dss.Isolated()
     print(isolated_result)
 
     # Verificando load_transformer
@@ -55,8 +50,6 @@ for index, row in dss_file.iterrows():
     print("Phases Connections")
     phases_connections_result = dss.Phases_connections()
     print(phases_connections_result)
-
-
 
 '''
 ########Tentativa 2
@@ -110,6 +103,3 @@ study.run() #Apenas executar por aqui??
 
 print("here")
 '''''
-
-
-

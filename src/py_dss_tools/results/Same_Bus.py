@@ -9,6 +9,7 @@ import pandas as pd
 from dataclasses import dataclass, field
 from typing import Tuple
 
+
 class Same_Bus:
 
     def __init__(self, dss: DSS):
