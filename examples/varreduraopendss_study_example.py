@@ -27,26 +27,32 @@ for index, row in dss_file.iterrows():
 
     # Verificando Summary
     #print("Summary")
-    #summary_result = dss.Summary
+    #study.results.summary
+    #df = study.results.Summary
     #print(summary_result)
+    
 
     # Verificando Same Bus
     print("Same Bus")
+    study.results.same_bus
     same_bus_result = dss.Same_Bus()
     print(same_bus_result)
 
     # Verificando Isolated
     print("Isolated")
+    study.results.isolated
     isolated_result = dss.Isolated()
     print(isolated_result)
 
     # Verificando load_transformer
     print("load_transformer")
+    study.results.load_transformer
     load_transformer_result = dss.Load_transformer()
     print(load_transformer_result)
 
     # Verificando Phases Connections
     print("Phases Connections")
+    study.results.phases_connections
     phases_connections_result = dss.Phases_connections()
     print(phases_connections_result)
 
