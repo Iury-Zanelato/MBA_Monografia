@@ -53,5 +53,3 @@ for index, row in dss_file.iterrows():
     print("Transformer data")
     transformer_data_result = study.results.transformer_data
     print(transformer_data_result)
-
-
