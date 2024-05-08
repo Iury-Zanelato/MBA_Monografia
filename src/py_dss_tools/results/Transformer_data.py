@@ -14,8 +14,10 @@ class Transformer_data:
 
     def __init__(self, dss: DSS):
         self._dss = dss
-        self.transformer_data = pd.DataFrame()
-
+        self._transformer_data = pd.DataFrame()
+    @property
+    def transformer_data(self) -> pd.DataFrame:
+        return self.check_transformer_data()
     def check_tr_3_wdg(self):
         self._dss.transformers.first()
         for _ in range(self._dss.transformers.count):

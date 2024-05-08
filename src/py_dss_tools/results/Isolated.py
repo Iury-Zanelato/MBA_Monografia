@@ -13,7 +13,10 @@ class Isolated:
 
     def __init__(self, dss: DSS):
         self._dss = dss
-        self.isolated = pd.DataFrame()
+        self._isolated = pd.DataFrame()
+    @property
+    def isolated(self) -> pd.DataFrame:
+        return self.check_isolated()
     def check_isolated(self):
         branches_isolated = self._dss.topology.all_isolated_branches
         loads_isolated = self._dss.topology.all_isolated_loads

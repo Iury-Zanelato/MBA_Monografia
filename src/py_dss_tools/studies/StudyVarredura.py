@@ -6,7 +6,6 @@
 
 from py_dss_tools.studies.StudyBase import StudyBase
 from py_dss_tools.results.VarreduraResults import VarreduraResults
-#from py_dss_tools.view.ViewVarreduraResults import ViewVarreduraResults
 from dataclasses import dataclass
 
 
@@ -16,7 +15,6 @@ class StudyVarredura(StudyBase):
     def __post_init__(self):
         super().__post_init__()
         self._results = VarreduraResults(self._dss) #exibe os resultados para a clesse e estudo criado
-        #self._view = ViewVarreduraResults(self._dss, self._results) #exibe os resultados de plotagem
 
     @property
     def results(self):

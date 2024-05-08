@@ -14,7 +14,10 @@ class Load_Transformer:
 
     def __init__(self, dss: DSS):
         self._dss = dss
-        self.load_transformer = pd.DataFrame()
+        self._load_transformer = pd.DataFrame()
+    @property
+    def load_transformer(self) -> pd.DataFrame:
+        return self.check_load_transformer()
 
     def check_load_transformer(self):
         energymeter_voltage = dict()

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Author  : Iury Zanelato
 # @Email   : iury.ribeirozanelato@gmail.com
-# @File    : Phases_Conections.py
+# @File    : Phases_Connections.py
 # @Software: PyCharm
 
 from py_dss_interface import DSS
@@ -9,14 +9,19 @@ import pandas as pd
 from dataclasses import dataclass, field
 from typing import Tuple
 
-class Phases_Conections:
+class Phases_Connections:
 
     def __init__(self, dss: DSS):
         self._dss = dss
         self.add_default_nodes = pd.DataFrame()
-        self.phase_connection = pd.DataFrame()
-        self.phases_connections = pd.DataFrame()
-
+        self._phase_connection = pd.DataFrame()
+        self._phases_connections = pd.DataFrame()
+    @property
+    def phase_connection(self) -> pd.DataFrame:
+        return self.check_phase_connection()
+    @property
+    def phases_connections(self) -> pd.DataFrame:
+        return self.check_phases_connections()
     def add_default_nodes(self, elem_nodes):
         if not elem_nodes:
             return ['1', '2', '3']

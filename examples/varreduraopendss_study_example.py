@@ -4,8 +4,6 @@
 # @File    : varreduraopendss_example.py
 # @Software: PyCharm
 
-#########Tentativa 1
-
 import os
 import pathlib
 import pandas as pd
@@ -27,9 +25,9 @@ for index, row in dss_file.iterrows():
     dss.text(f"compile [{model_path}]")
 
     # Verificando Summary
-    print("Summary")
-    summary_dict = study.results.summary
-    print(summary_dict)
+    #print("Summary")
+    #summary_dict = study.results.summary
+    #print(summary_dict)
 
     # Verificando Same Bus
     print("Same Bus")
@@ -51,5 +49,9 @@ for index, row in dss_file.iterrows():
     phases_connections_result = study.results.phases_connections
     print(phases_connections_result)
 
+    # Verificando Transformer data
+    print("Transformer data")
+    transformer_data_result = study.results.transformer_data
+    print(transformer_data_result)
 
 

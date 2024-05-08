@@ -14,9 +14,11 @@ class Same_Bus:
 
     def __init__(self, dss: DSS):
         self._dss = dss
-        self.same_bus = pd.DataFrame()
-
-    def check_same_buses(self):
+        self._same_bus = pd.DataFrame()
+    @property
+    def same_bus(self) -> pd.DataFrame:
+        return self.check_same_bus()
+    def check_same_bus(self):
         elements = self._dss.circuit.elements_names
 
         for elem in elements:
