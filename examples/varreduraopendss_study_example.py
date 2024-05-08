@@ -4,8 +4,6 @@
 # @File    : varreduraopendss_example.py
 # @Software: PyCharm
 
-#########Tentativa 1
-
 import os
 import pathlib
 import pandas as pd
