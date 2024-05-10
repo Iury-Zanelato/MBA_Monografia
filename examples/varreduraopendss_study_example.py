@@ -12,7 +12,7 @@ import py_dss_tools
 
 script_path = os.path.dirname(os.path.abspath(__file__))
 dss_file = pd.read_csv(r"C:\GitHub\py-dss-tools\feeder.csv")
-study = py_dss_tools.CreateStudy.varreduraopendss_study(name="Varredura OpenDSS", dss_file=str(dss_file))
+study = (py_dss_tools.CreateStudy.varreduraopendss_study(name="Varredura OpenDSS", dss_file=str(dss_file)))
 
 feeder_Summary = dict()
 for index, row in dss_file.iterrows():
@@ -25,9 +25,9 @@ for index, row in dss_file.iterrows():
     dss.text(f"compile [{model_path}]")
 
     # Verificando Summary
-    #print("Summary")
-    #summary_dict = study.results.summary
-    #print(summary_dict)
+    print("Summary")
+    summary_result = study.results.summary
+    print(summary_result)
 
     # Verificando Same Bus
     print("Same Bus")

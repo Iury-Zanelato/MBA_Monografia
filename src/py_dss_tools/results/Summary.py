@@ -11,12 +11,15 @@ from dataclasses import dataclass, field
 from typing import Tuple
 
 class Summary:
-
+    #def create_summary(self):
     def __init__(self, dss: DSS):
         self._dss = dss
-        self.summary = pd.DataFrame()
+        self._summary = pd.DataFrame()
+    @property
+    def summary(self) -> pd.DataFrame:
+        return self.create_summary()
 
-        x = 2
+        x: int = 2
 
     def round_x(self, y):
         return round(y, x)

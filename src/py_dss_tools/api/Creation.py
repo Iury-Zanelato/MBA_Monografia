@@ -20,6 +20,8 @@ from typing import Optional
 
 class CreateStudy:
 
+    CreateStudy = None
+
     @staticmethod
     def generic(
         name: str,
