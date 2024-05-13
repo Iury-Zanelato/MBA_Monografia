@@ -45,9 +45,12 @@ for index, row in dss_file.iterrows():
     print(load_transformer_result)
 
     # Verificando Phases Connections
-    print("Phases Connections")
-    phases_connections_result = study.results.phases_connections
-    print(phases_connections_result)
+    #print("Phases Connections")
+    #print("Phase Connection")
+    #phases_connections_result = study.results.phases_connections
+    #phase_connection_result = study.results.phase_connection
+    #print(phases_connections_result)
+    #print(phase_connection_result)
 
     # Verificando Transformer data
     print("Transformer data")
