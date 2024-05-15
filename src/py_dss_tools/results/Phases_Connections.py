@@ -57,8 +57,8 @@ class Phases_Connections:
 
                     elem_nodes1 = self.add_default_nodes(elem_nodes1)[0].split(".")[0]
                     elem_nodes2 = self.add_default_nodes(elem_nodes2)[1].split(".")[0]
-                    parent_elem_nodes1 = self.add_default_nodes[0].split(".")[1:]
-                    parent_elem_nodes2 = self.add_default_nodes[1].split(".")[1:]
+                    parent_elem_nodes1 = self.add_default_nodes(parent_elem_nodes1)[0].split(".")[1:]
+                    parent_elem_nodes2 = self.add_default_nodes(parent_elem_nodes2)[1].split(".")[1:]
 
 
                     if elem_bus1 == parent_elem_bus2:
