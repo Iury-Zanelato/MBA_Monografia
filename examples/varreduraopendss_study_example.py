@@ -15,6 +15,7 @@ dss_file = pd.read_csv(r"C:\GitHub\py-dss-tools\feeder.csv")
 study = (py_dss_tools.CreateStudy.varreduraopendss_study(name="Varredura OpenDSS", dss_file=str(dss_file)))
 
 feeder_Summary = dict()
+
 for index, row in dss_file.iterrows():
     feeder = row["feeder name"]
     model_path = pathlib.Path(script_path).joinpath("feeders", str(feeder), "000_master.dss")
@@ -26,8 +27,8 @@ for index, row in dss_file.iterrows():
 
     # Verificando Summary
     print("Summary")
-    summary_result = study.results.summary
-    print(summary_result)
+    summary_df = study.results.summary
+    print(summary_df)
 
     # Verificando Same Bus
     print("Same Bus")
@@ -45,12 +46,9 @@ for index, row in dss_file.iterrows():
     print(load_transformer_result)
 
     # Verificando Phases Connections
-    #print("Phases Connections")
-    #print("Phase Connection")
-    #phases_connections_result = study.results.phases_connections
-    #phase_connection_result = study.results.phase_connection
-    #print(phases_connections_result)
-    #print(phase_connection_result)
+    print("Phases Connections")
+    phases_connections_result = study.results.phases_connections
+    print(phases_connections_result)
 
     # Verificando Transformer data
     print("Transformer data")

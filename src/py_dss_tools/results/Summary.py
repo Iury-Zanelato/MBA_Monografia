@@ -11,20 +11,17 @@ from dataclasses import dataclass, field
 from typing import Tuple
 
 class Summary:
-    #def create_summary(self):
     def __init__(self, dss: DSS):
         self._dss = dss
         self._summary = pd.DataFrame()
     @property
-    def summary(self) -> pd.DataFrame:
-        return self.create_summary()
+    def summary(self):
+        return self.create_dataframe()
 
-        x: int = 2
-
-    def round_x(self, y):
+    def round_x(self, y, x: int = 2):
         return round(y, x)
 
-    def create_summary(self):
+    def create_dataframe(self):
         summary_dict = dict()
         self._dss.text("set mode=snapshot")
         self._dss.text("solve")
@@ -109,5 +106,4 @@ class Summary:
             self._dss.transformers.next()
 
         summary_dict["Loading max % transformers"] = np.max(tr_c)
-        summary_dict
-
+        return pd.DataFrame(summary_dict, index=[0])

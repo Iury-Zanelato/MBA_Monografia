@@ -13,12 +13,7 @@ class Phases_Connections:
 
     def __init__(self, dss: DSS):
         self._dss = dss
-        self.add_default_nodes = pd.DataFrame()
-        self._phase_connection = pd.DataFrame()
         self._phases_connections = pd.DataFrame()
-    @property
-    def phase_connection(self) -> pd.DataFrame:
-        return self.check_phase_connection()
     @property
     def phases_connections(self) -> pd.DataFrame:
         return self.check_phases_connections()
@@ -27,7 +22,6 @@ class Phases_Connections:
             return ['1', '2', '3']
         else:
             return elem_nodes
-
     def check_phase_connection(self, parent_elem_nodes, elem_nodes):
         issue_flag = False
         for node in elem_nodes:
@@ -61,8 +55,8 @@ class Phases_Connections:
                     parent_elem_nodes1 = self._dss.cktelement.bus_names[0].split(".")[1:]
                     parent_elem_nodes2 = self._dss.cktelement.bus_names[1].split(".")[1:]
 
-                    elem_nodes1 = self.add_default_nodes[0].split(".")[0]
-                    elem_nodes2 = self.add_default_nodes[1].split(".")[0]
+                    elem_nodes1 = self.add_default_nodes(elem_nodes1)[0].split(".")[0]
+                    elem_nodes2 = self.add_default_nodes(elem_nodes2)[1].split(".")[0]
                     parent_elem_nodes1 = self.add_default_nodes[0].split(".")[1:]
                     parent_elem_nodes2 = self.add_default_nodes[1].split(".")[1:]
 

@@ -17,7 +17,7 @@ class Transformer_data:
         self._transformer_data = pd.DataFrame()
     @property
     def transformer_data(self) -> pd.DataFrame:
-        return self.check_transformer_data()
+        return self.check_tr_3_wdg()
     def check_tr_3_wdg(self):
         self._dss.transformers.first()
         for _ in range(self._dss.transformers.count):
