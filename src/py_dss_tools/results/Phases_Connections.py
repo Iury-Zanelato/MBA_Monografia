@@ -15,7 +15,7 @@ class Phases_Connections:
         self._dss = dss
         self._phases_connections = pd.DataFrame()
     @property
-    def phases_connections(self) -> pd.DataFrame:
+    def phases_connections(self) -> None:
         return self.check_phases_connections()
     def add_default_nodes(self, elem_nodes):
         if not elem_nodes:
