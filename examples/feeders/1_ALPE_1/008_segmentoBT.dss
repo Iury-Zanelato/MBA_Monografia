@@ -2821,4 +2821,4 @@ New Line.SBT_33443 phases=3 bus1=ET8_980.1.2.4 bus2=BT791851.1.2.4 linecode=44_3
 New Line.SBT_5246 phases=2 bus1=ET8_981.1.4 bus2=BT106451.1.4 linecode=60_2 length=0.2666 units=km
 New Line.SBT_5068 phases=2 bus1=BT106451.1.4 bus2=BT106951.1.4 linecode=60_2 length=0.15116 units=km
 New Line.SBT_21512 phases=3 bus1=ET8_982.1.2.4 bus2=BT196081.1.2.4 linecode=44_3 length=0.12025 units=km
-New Line.SBT_21811 phases=2 bus1=BT196081.2.4 bus2=BT196091.2.4 linecode=60_2 length=0.12572 units=km
+New Line.SBT_21811 phases=2 bus1=BT196081.2.4 bus2=BT196081.2.4 linecode=60_2 length=0.12572 units=km

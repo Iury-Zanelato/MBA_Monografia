@@ -3429,3 +3429,4 @@ New Linecode.LC_MRT_TRF_8_982A_3 nphases=3 basefreq=60 r1=15000 x1=0 units=km no
 New Linecode.LC_MRT_TRF_8_982A_4 nphases=4 basefreq=60 r1=15000 x1=0 units=km normamps=0
 New Line.Resist_MTR_TRF_8_982A phases=1 bus1=196101.1 bus2= MRT_196101TRF_8_982A.1 linecode=LC_MRT_TRF_8_982A_1 length=0.001 units=km
 New Reactor.TRF_8_982A_R phases=1 bus1=ET8_982.4 R=15 X=0 basefreq=60
+New Transformer.TRF_8_982B_R phases=1  windings=3 buses=[sourcebus A.4.2] conns=[  Wye] kvs=[ 0.22 0.22] kvas=[15 15 15] %loadloss=2.033333 %noloadloss=0.6

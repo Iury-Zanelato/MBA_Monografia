@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Author  : Iury Zanelato
 # @Email   : iury.ribeirozanelato@gmail.com
-# @File    : VarreduraResults.py
+# @File    : FeederResults.py
 # @Software: PyCharm
 
 import pandas as pd

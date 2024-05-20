@@ -5,7 +5,7 @@
 # @Software: PyCharm
 
 from py_dss_tools.studies.StudyBase import StudyBase
-from py_dss_tools.results.VarreduraResults import VarreduraResults
+from py_dss_tools.results.FeederResults import VarreduraResults
 from dataclasses import dataclass
 
 
