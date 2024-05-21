@@ -64,7 +64,7 @@ class Phases_Connections:
                     if elem_bus1 == parent_elem_bus2:
                         if self.check_phase_connection(parent_elem_nodes2, elem_nodes1):
                             print(
-                                f"\nPhase issue between (Case 1):\nParent: {parent_elem_name} with bus {parent_elem_bus2} and nodes {parent_elem_nodes2}"
+                                f"Phase issue between (Case 1):\nParent: {parent_elem_name} with bus {parent_elem_bus2} and nodes {parent_elem_nodes2}"
                                 f"\nElement: {elem_name} with bus {elem_bus1} and nodes {elem_nodes1}")
 
                     elif elem_bus1 == parent_elem_bus1:

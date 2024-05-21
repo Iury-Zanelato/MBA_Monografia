@@ -31,7 +31,7 @@ class Same_Bus:
 
                 if elem_name.split(".")[0] not in ["Vsource", "Capacitor", "Reactor"]:
                     if self._dss.cktelement.bus_names[0] == self._dss.cktelement.bus_names[1]:
-                        print(f"\nElement: {elem_name} with the same bus1 {bus1} and bus2 {bus2}")
+                        print(f"Element: {elem_name} with the same bus1 {bus1} and bus2 {bus2}")
 
         self._dss.text("solve")
         elements
