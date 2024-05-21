@@ -12,7 +12,7 @@ import py_dss_tools
 
 script_path = os.path.dirname(os.path.abspath(__file__))
 dss_file = pd.read_csv(r"C:\GitHub\py-dss-tools\feeder.csv")
-study = (py_dss_tools.CreateStudy.varreduraopendss_study(name="Varredura OpenDSS", dss_file=str(dss_file)))
+study = (py_dss_tools.CreateStudy.analysis_feeder_opendss_study(name="Análise Alimentador OpenDSS", dss_file=str(dss_file)))
 
 feeder_Summary = dict()
 

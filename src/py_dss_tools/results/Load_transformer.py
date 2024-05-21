@@ -85,8 +85,8 @@ class Load_Transformer:
                                     f"\nLoad: {self._dss.loads.name} with kV {self._dss.loads.kv} but should be {energymeter_voltage[self._dss.meters.name][1]}")
 
         self._dss.meters.next()
-#        self._dss.loads.name = "BT_2519178_M1"
-#        self._dss.loads.kv = 4.16
+        self._dss.loads.name = "BT_2519178_M1"
+        self._dss.loads.kv = 4.16
         energymeter_voltage
 
 

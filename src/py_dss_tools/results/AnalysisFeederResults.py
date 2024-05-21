@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Author  : Iury Zanelato
 # @Email   : iury.ribeirozanelato@gmail.com
-# @File    : FeederResults.py
+# @File    : AnalysisFeederResults.py
 # @Software: PyCharm
 
 import pandas as pd
@@ -14,7 +14,7 @@ from py_dss_tools.results.Phases_Connections import Phases_Connections
 from py_dss_tools.results.Transformer_data import Transformer_data
 
 
-class VarreduraResults(Summary, Isolated, Same_Bus, Load_Transformer, Phases_Connections, Transformer_data):
+class AnalysisFeederResults(Summary, Isolated, Same_Bus, Load_Transformer, Phases_Connections, Transformer_data):
     def __init__(self, dss: DSS):
         self._dss = dss
         Summary.__init__(self, self._dss)

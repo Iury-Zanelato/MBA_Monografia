@@ -1,20 +1,20 @@
 # -*- coding: utf-8 -*-
 # @Author  : Iury Zanelato
 # @Email   : iury.ribeirozanelato@gmail.com
-# @File    : StudyVarredura.py
+# @File    : StudyAnalyses.py
 # @Software: PyCharm
 
 from py_dss_tools.studies.StudyBase import StudyBase
-from py_dss_tools.results.FeederResults import VarreduraResults
+from py_dss_tools.results.AnalysisFeederResults import AnalysisFeederResults
 from dataclasses import dataclass
 
 
 @dataclass(kw_only=True)
-class StudyVarredura(StudyBase):
+class StudyAnalysis(StudyBase):
 
     def __post_init__(self):
         super().__post_init__()
-        self._results = VarreduraResults(self._dss) #exibe os resultados para a clesse e estudo criado
+        self._results = AnalysisFeederResults(self._dss) #exibe os resultados para a clesse e estudo criado
 
     @property
     def results(self):
