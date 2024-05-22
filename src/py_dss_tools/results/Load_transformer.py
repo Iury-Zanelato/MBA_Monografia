@@ -88,8 +88,8 @@ class Load_Transformer:
         # Verifica se a carga 'BT_2519178_M1' existe antes de definir o valor de 'kv'
         self._dss.loads.name = "BT_2519178_M1"
         if self._dss.loads.name == "BT_2519178_M1":
-            self._dss.loads.kv = 0.22
+            self._dss.loads.kv = 13.8
             return f"Load BT_2519178_M1 definida com kV: {self._dss.loads.kv}"
         else:
             print(
-                f"Load: {self._dss.loads.name} with kV {self._dss.loads.kv} but should be {energymeter_voltage[self._dss.meters.name][0]}")
+                f"Load.{self._dss.loads.name} with kV {self._dss.loads.kv} but should be 0.22")
