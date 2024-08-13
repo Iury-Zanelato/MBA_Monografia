@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Author  : Iury Zanelato
 # @Email   : iury.ribeirozanelato@gmail.com
-# @File    : varreduraopendss_example.py
+# @File    : analysis_study_example.py
 # @Software: PyCharm
 
 import os

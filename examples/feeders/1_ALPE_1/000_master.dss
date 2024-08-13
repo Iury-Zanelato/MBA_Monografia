@@ -11,17 +11,9 @@ Redirect 008_segmentoBT.dss
 Redirect 009_segmentoRamalBT.dss
 Redirect 010_energyMeters.dss
 Redirect 011_tensaoBase.dss
-
 Redirect 012_cargasBT_1_1.dss
 Redirect 012_cargasMT_1_1.dss
 
-!Redirect 014_cargasBT_1_2.dss
-!Redirect 014_cargasMT_1_2.dss
-
 
 Set mode = daily
-Set tolerance = 0.0001
-Set maxcontroliter = 30
-!Set algorithm = newton
-!Solve mode = direct
 Solve
