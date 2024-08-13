@@ -1,0 +1,26 @@
+Compile (IEEE123Master.dss)
+
+New EnergyMeter.Feeder Line.L115 1
+
+! Criando loop
+New line.loop phases=3 bus1=79.1.2.3 bus2=450.1.2.3
+
+! Isolando parte do circuito
+Edit LINE.L114 enabled=no
+
+calcvoltage
+solve
+Buscoords Buscoords.dat
+
+! Voltage Profile
+Plot Profile Phases=All
+Plot Profile Phases=default
+
+! Diagrama do circuito
+plot circuit Power max=2000 n n C1=$00FF0000 1phlinestyle=3
+
+! Verificar elementos em loop
+show loops
+
+! Verificar elmentos isolados
+show isolated

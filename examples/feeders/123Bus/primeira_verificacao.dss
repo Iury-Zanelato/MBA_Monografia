@@ -1,0 +1,36 @@
+Compile (IEEE123Master.dss)
+
+New EnergyMeter.Feeder Line.L115 1
+
+solve
+Buscoords Buscoords.dat
+
+! Voltage Profile
+Plot Profile Phases=All
+Plot Profile Phases=default
+
+! Diagrama do circuito
+plot circuit Power max=2000 n n C1=$00FF0000 1phlinestyle=3
+
+! Diagrama do circuito com niveis de tensao - Cuidado, ele usa pu.
+set normvminpu=0.99
+set emergvminpu=0.98
+plot circuit Voltage C1=Green C2=Blue C3=Red
+
+! Marcar reguladores
+set markregulator=yes
+plot circuit Power max=2000 n n C1=$00FF0000 1phlinestyle=2
+
+! Marcar transformadores
+set marktransformers=yes
+plot circuit Power max=2000 n n C1=$00FF0000 1phlinestyle=2
+
+! Marcar ums barra 
+AddBusMarker bus=67  code=7 color=red size=10
+plot circuit Power max=2000 n n C1=$00FF0000 1phlinestyle=2
+
+! Verificar elementos em loop
+show loops
+
+! Verificar elmentos isolados
+show isolated

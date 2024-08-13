@@ -1,0 +1,92 @@
+Clear
+
+Redirect alimentador_CER3_2_33.dss
+Redirect curvas_carga.dss
+Redirect cabos.dss
+Redirect segmentos_CER3_2_33.dss
+Redirect reguladores_CER3_2_33.dss
+!Redirect capacitors_CER3_2_33.dss !Incluir arquivo
+Redirect Trafos_CER3_2_33.dss
+Redirect cargas_CER3_2_33.dss
+
+set mode=daily
+set voltagebases=[13.8 13.337 7.797 0.44 0.38 0.22 0.127 0.11] !Incluir todas as tensoes
+Calcvoltagebases
+
+Redirect Baseskv_CER3_2_33.dss !Corrigir diretorio
+new energymeter.md1 element=Line.MT1 terminal=1
+!new monitor.m1 element=Line.MT1 terminal=1 mode=1 ppolar=no !Perfil das potencias ativa e reativa
+new monitor.m1 element=Line.MT1 terminal=1 !Perfil das tensões correntes
+
+!set algorithm = newton
+!Solve mode = direct
+!set Loadmult=1.5
+!Set Controlmode=on
+
+Set Controlmode=time
+Solve
+
+!--------------------------------------------------------------------------------------------------------------
+!------------------------------------Plot------------------------------------
+!--------------------------------------------------------------------------------------------------------------
+Buscoords Buscoords_CER3_2_33.dss !Coordenadas
+set markregulators=yes !Marca os reguladores no mapa do circuito
+set markcapacitors=yes !Marca os capacitores no mapa do circuito
+!set marktransformers=yes !Marca os transformadores no mapa do circuito
+
+!--------------------------------------------------------------------------------------------------------------
+!------------------------------------Plot Perfil de Tensao------------------------------------
+!--------------------------------------------------------------------------------------------------------------
+! Tensoes acima de 1.05 plotar PRETO
+! Tensoes entre 1.05 e 0.95 plotar VERDE
+! Tensoes abaixo de 0.95 plotar VERMELHO
+
+Set normvminpu=1.04
+Set emergvminpu=0.95
+plot circuit voltage dots=n labels=n subs=yes C1=Black C2=Green C3=Red 
+
+plot profile phases=primary !Perfil de tensao
+
+!--------------------------------------------------------------------------------------------------------------
+!--------------------------------Plot Caminho Critico Corrente-----------------------------
+!--------------------------------------------------------------------------------------------------------------
+plot circuit Currents max=10 dots=n labels=n subs=yes 1phlinestyle=3 C1=Red !Plota com destaque o caminho critico da corrente
+
+!--------------------------------------------------------------------------------------------------------------
+!------------------------------------Plot Fluxo de Potencia------------------------------------
+!--------------------------------------------------------------------------------------------------------------
+plot circuit Power max=100 dots=n labels=n subs=yes C1=Blue  !Plota com destaque o caminho do fluxo acima de 1000kW
+plot circuit Losses max=1    dots=n labels=n subs=y C1=Black !Plota com destaque os pontos 
+
+!--------------------------------------------------------------------------------------------------------------
+!------------------------------------Plot Geracao------------------------------------
+!--------------------------------------------------------------------------------------------------------------
+set nodewidth=1 daisysize=4
+plot daisy Power max=100 n n C1=yellow 
+
+!----------------------------------------------------------------------------------------------------
+!--------------------Analise de potencia, tensao e corrente-----------------
+!----------------------------------------------------------------------------------------------------
+!Export monitors m1
+!Plot monitor object= m1 channels=(1 2 3 4 5 6 ) !Plota o perfil das potências ativa e reativa
+!Export monitors m1
+Plot monitor object= m1 channels=(1 3 5 ) !Polta o perfil das tensoes
+Plot monitor object= m1 channels=(7 9 11 ) !Polta o perfil das correntes
+
+!----------------------------------------------------------------------------------------------------
+!--------------------Analise de incompatibilidade-----------------
+!----------------------------------------------------------------------------------------------------
+show isolated !Redes e cargas isoladas
+show kvbasemismatch !Tensões de cargas incompatíveis com a rede
+
+!----------------------------------------------------------------------------------------------------
+!--------------------Analise de fluxo-----------------
+!----------------------------------------------------------------------------------------------------
+show eventlog !Log de atuação do regulador de tensão ao longo dia
+show taps !Tap do regulador de tensão
+!----------------------------------------------------------------------------------------------------
+!--------------------Analise de perdas-----------------
+!----------------------------------------------------------------------------------------------------
+show meters !Medição das grandezas consideradas pelo Energymeter
+show losses !Perdas dos elementos
+

@@ -1,0 +1,6 @@
+New Transformer.REG_1_9000A phases=1 windings=2 buses=[809181.1 RT752091.1] conns=[Wye Wye] kvs=[13.3367912182804 13.3367912182804] kvas=[2880 2880] xhl=0.14 %loadloss=0.51 %noloadloss=0.178333333333333
+New Regcontrol.REG_1_9000A transformer=REG_1_9000A winding=2 vreg=100 band=2 ptratio=133.367912182804 EventLog = True
+New Transformer.REG_1_9000B phases=1 windings=2 buses=[809181.2 RT752091.2] conns=[Wye Wye] kvs=[13.3367912182804 13.3367912182804] kvas=[2880 2880] xhl=0.14 %loadloss=0.51 %noloadloss=0.178333333333333
+New Regcontrol.REG_1_9000B transformer=REG_1_9000B winding=2 vreg=100 band=2 ptratio=133.367912182804 EventLog = True
+New Transformer.REG_1_9000C phases=1 windings=2 buses=[809181.3 RT752091.3] conns=[Wye Wye] kvs=[13.3367912182804 13.3367912182804] kvas=[2880 2880] xhl=0.14 %loadloss=0.51 %noloadloss=0.178333333333333
+New Regcontrol.REG_1_9000C transformer=REG_1_9000C winding=2 vreg=100 band=2 ptratio=133.367912182804 EventLog = True

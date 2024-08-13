@@ -1,0 +1,6 @@
+New transformer.RT39_627 phases=3 buses=[143288_1  135131_1 ] windings= 2 conns=[Delta Wey] kvs=[13.8 13.8] kvas=[501 501] xhl=0.66 %loadloss=0.5 %noloadloss=0.2
+New regcontrol.REG39_627 transformer=RT39_627 winding=2 vreg=120 band=2  ptratio=115 enable=yes delay=60 
+New transformer.RT40_1296 phases=3 buses=[14351_1  14350_1 ] windings= 2 conns=[Delta Wey] kvs=[13.8 13.8] kvas=[999 999] xhl=0.66 %loadloss=0.5 %noloadloss=0.2
+New regcontrol.REG40_1296 transformer=RT40_1296 winding=2 vreg=120 band=2  ptratio=115 enable=yes delay=30
+New transformer.RT40_2966 phases=3 buses=[103312_1  19958_1 ] windings= 2 conns=[Delta Wey] kvs=[13.8 13.8] kvas=[501 501] xhl=0.66 %loadloss=0.5 %noloadloss=0.2
+New regcontrol.REG40_2966 transformer=RT40_2966 winding=2 vreg=120 band=2  ptratio=115 enable=yes delay=40

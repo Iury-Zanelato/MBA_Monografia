@@ -1,0 +1,6 @@
+New transformer.RT25_2844 phases=3 buses=[141707_1  23448_1 ] windings= 2 conns=[Delta Wey] kvs=[13.8 13.8] kvas=[501 501] xhl=0.66 %loadloss=0.5 %noloadloss=0.2
+New regcontrol.REG25_2844 transformer=RT25_2844 winding=2 vreg=120 band=2  ptratio=115
+New transformer.RT40_853 phases=3 buses=[137564_1  89466_1 ] windings= 2 conns=[Delta Wey] kvs=[13.8 7.97] kvas=[501 501] xhl=0.66 %loadloss=0.5 %noloadloss=0.2
+New regcontrol.REG40_853 transformer=RT40_853 winding=2 vreg=120 band=2  ptratio=115
+New transformer.RT6_1628 phases=3 buses=[142946_1  99586_1 ] windings= 2 conns=[Delta Wey] kvs=[13.8 7.97] kvas=[501 501] xhl=0.5 %loadloss=0.5 %noloadloss=0.2
+New regcontrol.REG6_1628 transformer=RT6_1628 winding=2 vreg=120 band=2  ptratio=115

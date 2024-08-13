@@ -1,0 +1,1287 @@
+
+!!!  LOAD VOLTAGE BASE MISMATCHES
+
+!!!!! Voltage Base Mismatch, Load.bt_2519178_m1.kV=13.8, Bus uc2519178.1.4 LN kvBase = 0.219393
+!setkvbase uc2519178 kVLN=13.8
+!Load.bt_2519178_m1.kV=0.219393
+!!!!! Voltage Base Mismatch, Load.bt_2519178_m2.kV=13.8, Bus uc2519178.1.4 LN kvBase = 0.219393
+!setkvbase uc2519178 kVLN=13.8
+!Load.bt_2519178_m2.kV=0.219393
+!!!!! Voltage Base Mismatch, Load.bt_2534183_m1.kV=0.22, Bus uc2534183.1.2.3.4 kvBase = 0.38
+!setkvbase uc2534183 kVLL=0.22
+!Load.bt_2534183_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_2534183_m2.kV=0.22, Bus uc2534183.1.2.3.4 kvBase = 0.38
+!setkvbase uc2534183 kVLL=0.22
+!Load.bt_2534183_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_413635_m1.kV=0.44, Bus uc413635.1.2.4 kvBase = 0.38
+!setkvbase uc413635 kVLL=0.44
+!Load.bt_413635_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_413635_m2.kV=0.44, Bus uc413635.1.2.4 kvBase = 0.38
+!setkvbase uc413635 kVLL=0.44
+!Load.bt_413635_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_413651_m1.kV=0.44, Bus uc413651.1.2.4 kvBase = 0.38
+!setkvbase uc413651 kVLL=0.44
+!Load.bt_413651_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_413651_m2.kV=0.44, Bus uc413651.1.2.4 kvBase = 0.38
+!setkvbase uc413651 kVLL=0.44
+!Load.bt_413651_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_413643_m1.kV=0.44, Bus uc413643.1.2.4 kvBase = 0.38
+!setkvbase uc413643 kVLL=0.44
+!Load.bt_413643_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_413643_m2.kV=0.44, Bus uc413643.1.2.4 kvBase = 0.38
+!setkvbase uc413643 kVLL=0.44
+!Load.bt_413643_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_401322_m1.kV=0.44, Bus uc401322.1.2.4 kvBase = 0.38
+!setkvbase uc401322 kVLL=0.44
+!Load.bt_401322_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_401322_m2.kV=0.44, Bus uc401322.1.2.4 kvBase = 0.38
+!setkvbase uc401322 kVLL=0.44
+!Load.bt_401322_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_419791_m1.kV=0.44, Bus uc419791.1.2.4 kvBase = 0.38
+!setkvbase uc419791 kVLL=0.44
+!Load.bt_419791_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_419791_m2.kV=0.44, Bus uc419791.1.2.4 kvBase = 0.38
+!setkvbase uc419791 kVLL=0.44
+!Load.bt_419791_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_423836_m1.kV=0.44, Bus uc423836.1.2.4 kvBase = 0.38
+!setkvbase uc423836 kVLL=0.44
+!Load.bt_423836_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_423836_m2.kV=0.44, Bus uc423836.1.2.4 kvBase = 0.38
+!setkvbase uc423836 kVLL=0.44
+!Load.bt_423836_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_419895_m1.kV=0.44, Bus uc419895.1.2.4 kvBase = 0.38
+!setkvbase uc419895 kVLL=0.44
+!Load.bt_419895_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_419895_m2.kV=0.44, Bus uc419895.1.2.4 kvBase = 0.38
+!setkvbase uc419895 kVLL=0.44
+!Load.bt_419895_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_436176_m1.kV=0.44, Bus uc436176.1.2.4 kvBase = 0.38
+!setkvbase uc436176 kVLL=0.44
+!Load.bt_436176_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_436176_m2.kV=0.44, Bus uc436176.1.2.4 kvBase = 0.38
+!setkvbase uc436176 kVLL=0.44
+!Load.bt_436176_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_419851_m1.kV=0.44, Bus uc419851.1.2.4 kvBase = 0.38
+!setkvbase uc419851 kVLL=0.44
+!Load.bt_419851_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_419851_m2.kV=0.44, Bus uc419851.1.2.4 kvBase = 0.38
+!setkvbase uc419851 kVLL=0.44
+!Load.bt_419851_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_425841_m1.kV=0.44, Bus uc425841.1.2.4 kvBase = 0.38
+!setkvbase uc425841 kVLL=0.44
+!Load.bt_425841_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_425841_m2.kV=0.44, Bus uc425841.1.2.4 kvBase = 0.38
+!setkvbase uc425841 kVLL=0.44
+!Load.bt_425841_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_411478_m1.kV=0.44, Bus uc411478.1.2.4 kvBase = 0.38
+!setkvbase uc411478 kVLL=0.44
+!Load.bt_411478_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_411478_m2.kV=0.44, Bus uc411478.1.2.4 kvBase = 0.38
+!setkvbase uc411478 kVLL=0.44
+!Load.bt_411478_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_413621_m1.kV=0.44, Bus uc413621.1.2.4 kvBase = 0.38
+!setkvbase uc413621 kVLL=0.44
+!Load.bt_413621_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_413621_m2.kV=0.44, Bus uc413621.1.2.4 kvBase = 0.38
+!setkvbase uc413621 kVLL=0.44
+!Load.bt_413621_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_434110_m1.kV=0.44, Bus uc434110.1.2.4 kvBase = 0.38
+!setkvbase uc434110 kVLL=0.44
+!Load.bt_434110_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_434110_m2.kV=0.44, Bus uc434110.1.2.4 kvBase = 0.38
+!setkvbase uc434110 kVLL=0.44
+!Load.bt_434110_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_411464_m1.kV=0.44, Bus uc411464.1.2.4 kvBase = 0.38
+!setkvbase uc411464 kVLL=0.44
+!Load.bt_411464_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_411464_m2.kV=0.44, Bus uc411464.1.2.4 kvBase = 0.38
+!setkvbase uc411464 kVLL=0.44
+!Load.bt_411464_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_425911_m1.kV=0.44, Bus uc425911.1.2.4 kvBase = 0.38
+!setkvbase uc425911 kVLL=0.44
+!Load.bt_425911_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_425911_m2.kV=0.44, Bus uc425911.1.2.4 kvBase = 0.38
+!setkvbase uc425911 kVLL=0.44
+!Load.bt_425911_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816476_m1.kV=0.44, Bus uc816476.1.2.4 kvBase = 0.38
+!setkvbase uc816476 kVLL=0.44
+!Load.bt_816476_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816476_m2.kV=0.44, Bus uc816476.1.2.4 kvBase = 0.38
+!setkvbase uc816476 kVLL=0.44
+!Load.bt_816476_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816608_m1.kV=0.44, Bus uc816608.1.2.4 kvBase = 0.38
+!setkvbase uc816608 kVLL=0.44
+!Load.bt_816608_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816608_m2.kV=0.44, Bus uc816608.1.2.4 kvBase = 0.38
+!setkvbase uc816608 kVLL=0.44
+!Load.bt_816608_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816481_m1.kV=0.44, Bus uc816481.1.2.4 kvBase = 0.38
+!setkvbase uc816481 kVLL=0.44
+!Load.bt_816481_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816481_m2.kV=0.44, Bus uc816481.1.2.4 kvBase = 0.38
+!setkvbase uc816481 kVLL=0.44
+!Load.bt_816481_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816473_m1.kV=0.44, Bus uc816473.1.2.4 kvBase = 0.38
+!setkvbase uc816473 kVLL=0.44
+!Load.bt_816473_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816473_m2.kV=0.44, Bus uc816473.1.2.4 kvBase = 0.38
+!setkvbase uc816473 kVLL=0.44
+!Load.bt_816473_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816474_m1.kV=0.44, Bus uc816474.1.2.4 kvBase = 0.38
+!setkvbase uc816474 kVLL=0.44
+!Load.bt_816474_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816474_m2.kV=0.44, Bus uc816474.1.2.4 kvBase = 0.38
+!setkvbase uc816474 kVLL=0.44
+!Load.bt_816474_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816479_m1.kV=0.44, Bus uc816479.1.2.4 kvBase = 0.38
+!setkvbase uc816479 kVLL=0.44
+!Load.bt_816479_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816479_m2.kV=0.44, Bus uc816479.1.2.4 kvBase = 0.38
+!setkvbase uc816479 kVLL=0.44
+!Load.bt_816479_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_834345_m1.kV=0.44, Bus uc834345.1.2.4 kvBase = 0.38
+!setkvbase uc834345 kVLL=0.44
+!Load.bt_834345_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_834345_m2.kV=0.44, Bus uc834345.1.2.4 kvBase = 0.38
+!setkvbase uc834345 kVLL=0.44
+!Load.bt_834345_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711219_m1.kV=0.44, Bus uc711219.1.2.4 kvBase = 0.38
+!setkvbase uc711219 kVLL=0.44
+!Load.bt_711219_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711219_m2.kV=0.44, Bus uc711219.1.2.4 kvBase = 0.38
+!setkvbase uc711219 kVLL=0.44
+!Load.bt_711219_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711213_m1.kV=0.44, Bus uc711213.1.2.4 kvBase = 0.38
+!setkvbase uc711213 kVLL=0.44
+!Load.bt_711213_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711213_m2.kV=0.44, Bus uc711213.1.2.4 kvBase = 0.38
+!setkvbase uc711213 kVLL=0.44
+!Load.bt_711213_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_722496_m1.kV=0.44, Bus uc722496.1.2.4 kvBase = 0.38
+!setkvbase uc722496 kVLL=0.44
+!Load.bt_722496_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_722496_m2.kV=0.44, Bus uc722496.1.2.4 kvBase = 0.38
+!setkvbase uc722496 kVLL=0.44
+!Load.bt_722496_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_721542_m1.kV=0.44, Bus uc721542.1.2.4 kvBase = 0.38
+!setkvbase uc721542 kVLL=0.44
+!Load.bt_721542_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_721542_m2.kV=0.44, Bus uc721542.1.2.4 kvBase = 0.38
+!setkvbase uc721542 kVLL=0.44
+!Load.bt_721542_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710657_m1.kV=0.44, Bus uc710657.1.2.4 kvBase = 0.38
+!setkvbase uc710657 kVLL=0.44
+!Load.bt_710657_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710657_m2.kV=0.44, Bus uc710657.1.2.4 kvBase = 0.38
+!setkvbase uc710657 kVLL=0.44
+!Load.bt_710657_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_719878_m1.kV=0.44, Bus uc719878.1.2.4 kvBase = 0.38
+!setkvbase uc719878 kVLL=0.44
+!Load.bt_719878_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_719878_m2.kV=0.44, Bus uc719878.1.2.4 kvBase = 0.38
+!setkvbase uc719878 kVLL=0.44
+!Load.bt_719878_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711039_m1.kV=0.44, Bus uc711039.1.2.4 kvBase = 0.38
+!setkvbase uc711039 kVLL=0.44
+!Load.bt_711039_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711039_m2.kV=0.44, Bus uc711039.1.2.4 kvBase = 0.38
+!setkvbase uc711039 kVLL=0.44
+!Load.bt_711039_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_730091_m1.kV=0.44, Bus uc730091.1.2.4 kvBase = 0.38
+!setkvbase uc730091 kVLL=0.44
+!Load.bt_730091_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_730091_m2.kV=0.44, Bus uc730091.1.2.4 kvBase = 0.38
+!setkvbase uc730091 kVLL=0.44
+!Load.bt_730091_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_725514_m1.kV=0.44, Bus uc725514.1.2.4 kvBase = 0.38
+!setkvbase uc725514 kVLL=0.44
+!Load.bt_725514_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_725514_m2.kV=0.44, Bus uc725514.1.2.4 kvBase = 0.38
+!setkvbase uc725514 kVLL=0.44
+!Load.bt_725514_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711107_m1.kV=0.44, Bus uc711107.1.2.4 kvBase = 0.38
+!setkvbase uc711107 kVLL=0.44
+!Load.bt_711107_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711107_m2.kV=0.44, Bus uc711107.1.2.4 kvBase = 0.38
+!setkvbase uc711107 kVLL=0.44
+!Load.bt_711107_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_725226_m1.kV=0.44, Bus uc725226.1.2.4 kvBase = 0.38
+!setkvbase uc725226 kVLL=0.44
+!Load.bt_725226_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_725226_m2.kV=0.44, Bus uc725226.1.2.4 kvBase = 0.38
+!setkvbase uc725226 kVLL=0.44
+!Load.bt_725226_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710682_m1.kV=0.44, Bus uc710682.1.2.4 kvBase = 0.38
+!setkvbase uc710682 kVLL=0.44
+!Load.bt_710682_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710682_m2.kV=0.44, Bus uc710682.1.2.4 kvBase = 0.38
+!setkvbase uc710682 kVLL=0.44
+!Load.bt_710682_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_727416_m1.kV=0.44, Bus uc727416.1.2.4 kvBase = 0.38
+!setkvbase uc727416 kVLL=0.44
+!Load.bt_727416_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_727416_m2.kV=0.44, Bus uc727416.1.2.4 kvBase = 0.38
+!setkvbase uc727416 kVLL=0.44
+!Load.bt_727416_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_733762_m1.kV=0.44, Bus uc733762.1.2.4 kvBase = 0.38
+!setkvbase uc733762 kVLL=0.44
+!Load.bt_733762_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_733762_m2.kV=0.44, Bus uc733762.1.2.4 kvBase = 0.38
+!setkvbase uc733762 kVLL=0.44
+!Load.bt_733762_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711078_m1.kV=0.44, Bus uc711078.1.2.4 kvBase = 0.38
+!setkvbase uc711078 kVLL=0.44
+!Load.bt_711078_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711078_m2.kV=0.44, Bus uc711078.1.2.4 kvBase = 0.38
+!setkvbase uc711078 kVLL=0.44
+!Load.bt_711078_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_726469_m1.kV=0.44, Bus uc726469.1.2.4 kvBase = 0.38
+!setkvbase uc726469 kVLL=0.44
+!Load.bt_726469_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_726469_m2.kV=0.44, Bus uc726469.1.2.4 kvBase = 0.38
+!setkvbase uc726469 kVLL=0.44
+!Load.bt_726469_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_733623_m1.kV=0.44, Bus uc733623.1.2.4 kvBase = 0.38
+!setkvbase uc733623 kVLL=0.44
+!Load.bt_733623_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_733623_m2.kV=0.44, Bus uc733623.1.2.4 kvBase = 0.38
+!setkvbase uc733623 kVLL=0.44
+!Load.bt_733623_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_726404_m1.kV=0.44, Bus uc726404.1.2.4 kvBase = 0.38
+!setkvbase uc726404 kVLL=0.44
+!Load.bt_726404_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_726404_m2.kV=0.44, Bus uc726404.1.2.4 kvBase = 0.38
+!setkvbase uc726404 kVLL=0.44
+!Load.bt_726404_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_737662_m1.kV=0.44, Bus uc737662.1.2.4 kvBase = 0.38
+!setkvbase uc737662 kVLL=0.44
+!Load.bt_737662_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_737662_m2.kV=0.44, Bus uc737662.1.2.4 kvBase = 0.38
+!setkvbase uc737662 kVLL=0.44
+!Load.bt_737662_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_730099_m1.kV=0.44, Bus uc730099.1.2.4 kvBase = 0.38
+!setkvbase uc730099 kVLL=0.44
+!Load.bt_730099_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_730099_m2.kV=0.44, Bus uc730099.1.2.4 kvBase = 0.38
+!setkvbase uc730099 kVLL=0.44
+!Load.bt_730099_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710662_m1.kV=0.44, Bus uc710662.1.2.4 kvBase = 0.38
+!setkvbase uc710662 kVLL=0.44
+!Load.bt_710662_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710662_m2.kV=0.44, Bus uc710662.1.2.4 kvBase = 0.38
+!setkvbase uc710662 kVLL=0.44
+!Load.bt_710662_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_723678_m1.kV=0.44, Bus uc723678.1.2.4 kvBase = 0.38
+!setkvbase uc723678 kVLL=0.44
+!Load.bt_723678_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_723678_m2.kV=0.44, Bus uc723678.1.2.4 kvBase = 0.38
+!setkvbase uc723678 kVLL=0.44
+!Load.bt_723678_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_736574_m1.kV=0.44, Bus uc736574.1.2.4 kvBase = 0.38
+!setkvbase uc736574 kVLL=0.44
+!Load.bt_736574_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_736574_m2.kV=0.44, Bus uc736574.1.2.4 kvBase = 0.38
+!setkvbase uc736574 kVLL=0.44
+!Load.bt_736574_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_723084_m1.kV=0.44, Bus uc723084.1.2.4 kvBase = 0.38
+!setkvbase uc723084 kVLL=0.44
+!Load.bt_723084_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_723084_m2.kV=0.44, Bus uc723084.1.2.4 kvBase = 0.38
+!setkvbase uc723084 kVLL=0.44
+!Load.bt_723084_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_733073_m1.kV=0.44, Bus uc733073.1.2.4 kvBase = 0.38
+!setkvbase uc733073 kVLL=0.44
+!Load.bt_733073_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_733073_m2.kV=0.44, Bus uc733073.1.2.4 kvBase = 0.38
+!setkvbase uc733073 kVLL=0.44
+!Load.bt_733073_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_735617_m1.kV=0.44, Bus uc735617.1.2.4 kvBase = 0.38
+!setkvbase uc735617 kVLL=0.44
+!Load.bt_735617_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_735617_m2.kV=0.44, Bus uc735617.1.2.4 kvBase = 0.38
+!setkvbase uc735617 kVLL=0.44
+!Load.bt_735617_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_731879_m1.kV=0.44, Bus uc731879.1.2.4 kvBase = 0.38
+!setkvbase uc731879 kVLL=0.44
+!Load.bt_731879_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_731879_m2.kV=0.44, Bus uc731879.1.2.4 kvBase = 0.38
+!setkvbase uc731879 kVLL=0.44
+!Load.bt_731879_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_413609_m1.kV=0.44, Bus uc413609.1.2.4 kvBase = 0.38
+!setkvbase uc413609 kVLL=0.44
+!Load.bt_413609_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_413609_m2.kV=0.44, Bus uc413609.1.2.4 kvBase = 0.38
+!setkvbase uc413609 kVLL=0.44
+!Load.bt_413609_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_723680_m1.kV=0.44, Bus uc723680.1.2.4 kvBase = 0.38
+!setkvbase uc723680 kVLL=0.44
+!Load.bt_723680_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_723680_m2.kV=0.44, Bus uc723680.1.2.4 kvBase = 0.38
+!setkvbase uc723680 kVLL=0.44
+!Load.bt_723680_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710650_m1.kV=0.44, Bus uc710650.1.2.4 kvBase = 0.38
+!setkvbase uc710650 kVLL=0.44
+!Load.bt_710650_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710650_m2.kV=0.44, Bus uc710650.1.2.4 kvBase = 0.38
+!setkvbase uc710650 kVLL=0.44
+!Load.bt_710650_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_737211_m1.kV=0.44, Bus uc737211.1.2.4 kvBase = 0.38
+!setkvbase uc737211 kVLL=0.44
+!Load.bt_737211_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_737211_m2.kV=0.44, Bus uc737211.1.2.4 kvBase = 0.38
+!setkvbase uc737211 kVLL=0.44
+!Load.bt_737211_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_728521_m1.kV=0.44, Bus uc728521.1.2.4 kvBase = 0.38
+!setkvbase uc728521 kVLL=0.44
+!Load.bt_728521_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_728521_m2.kV=0.44, Bus uc728521.1.2.4 kvBase = 0.38
+!setkvbase uc728521 kVLL=0.44
+!Load.bt_728521_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710978_m1.kV=0.44, Bus uc710978.1.2.4 kvBase = 0.38
+!setkvbase uc710978 kVLL=0.44
+!Load.bt_710978_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710978_m2.kV=0.44, Bus uc710978.1.2.4 kvBase = 0.38
+!setkvbase uc710978 kVLL=0.44
+!Load.bt_710978_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_725395_m1.kV=0.44, Bus uc725395.1.2.4 kvBase = 0.38
+!setkvbase uc725395 kVLL=0.44
+!Load.bt_725395_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_725395_m2.kV=0.44, Bus uc725395.1.2.4 kvBase = 0.38
+!setkvbase uc725395 kVLL=0.44
+!Load.bt_725395_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710640_m1.kV=0.44, Bus uc710640.1.2.4 kvBase = 0.38
+!setkvbase uc710640 kVLL=0.44
+!Load.bt_710640_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710640_m2.kV=0.44, Bus uc710640.1.2.4 kvBase = 0.38
+!setkvbase uc710640 kVLL=0.44
+!Load.bt_710640_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710642_m1.kV=0.44, Bus uc710642.1.2.4 kvBase = 0.38
+!setkvbase uc710642 kVLL=0.44
+!Load.bt_710642_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710642_m2.kV=0.44, Bus uc710642.1.2.4 kvBase = 0.38
+!setkvbase uc710642 kVLL=0.44
+!Load.bt_710642_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_830856_m1.kV=0.44, Bus uc830856.1.2.4 kvBase = 0.38
+!setkvbase uc830856 kVLL=0.44
+!Load.bt_830856_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_830856_m2.kV=0.44, Bus uc830856.1.2.4 kvBase = 0.38
+!setkvbase uc830856 kVLL=0.44
+!Load.bt_830856_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815630_m1.kV=0.44, Bus uc815630.1.2.4 kvBase = 0.38
+!setkvbase uc815630 kVLL=0.44
+!Load.bt_815630_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815630_m2.kV=0.44, Bus uc815630.1.2.4 kvBase = 0.38
+!setkvbase uc815630 kVLL=0.44
+!Load.bt_815630_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_835071_m1.kV=0.44, Bus uc835071.1.2.4 kvBase = 0.38
+!setkvbase uc835071 kVLL=0.44
+!Load.bt_835071_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_835071_m2.kV=0.44, Bus uc835071.1.2.4 kvBase = 0.38
+!setkvbase uc835071 kVLL=0.44
+!Load.bt_835071_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815536_m1.kV=0.44, Bus uc815536.1.2.4 kvBase = 0.38
+!setkvbase uc815536 kVLL=0.44
+!Load.bt_815536_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815536_m2.kV=0.44, Bus uc815536.1.2.4 kvBase = 0.38
+!setkvbase uc815536 kVLL=0.44
+!Load.bt_815536_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832692_m1.kV=0.44, Bus uc832692.1.2.4 kvBase = 0.38
+!setkvbase uc832692 kVLL=0.44
+!Load.bt_832692_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832692_m2.kV=0.44, Bus uc832692.1.2.4 kvBase = 0.38
+!setkvbase uc832692 kVLL=0.44
+!Load.bt_832692_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_834899_m1.kV=0.44, Bus uc834899.1.2.4 kvBase = 0.38
+!setkvbase uc834899 kVLL=0.44
+!Load.bt_834899_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_834899_m2.kV=0.44, Bus uc834899.1.2.4 kvBase = 0.38
+!setkvbase uc834899 kVLL=0.44
+!Load.bt_834899_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_827140_m1.kV=0.44, Bus uc827140.1.2.4 kvBase = 0.38
+!setkvbase uc827140 kVLL=0.44
+!Load.bt_827140_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_827140_m2.kV=0.44, Bus uc827140.1.2.4 kvBase = 0.38
+!setkvbase uc827140 kVLL=0.44
+!Load.bt_827140_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815870_m1.kV=0.44, Bus uc815870.1.2.4 kvBase = 0.38
+!setkvbase uc815870 kVLL=0.44
+!Load.bt_815870_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815870_m2.kV=0.44, Bus uc815870.1.2.4 kvBase = 0.38
+!setkvbase uc815870 kVLL=0.44
+!Load.bt_815870_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815871_m1.kV=0.44, Bus uc815871.1.2.4 kvBase = 0.38
+!setkvbase uc815871 kVLL=0.44
+!Load.bt_815871_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815871_m2.kV=0.44, Bus uc815871.1.2.4 kvBase = 0.38
+!setkvbase uc815871 kVLL=0.44
+!Load.bt_815871_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_817000_m1.kV=0.44, Bus uc817000.1.2.4 kvBase = 0.38
+!setkvbase uc817000 kVLL=0.44
+!Load.bt_817000_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_817000_m2.kV=0.44, Bus uc817000.1.2.4 kvBase = 0.38
+!setkvbase uc817000 kVLL=0.44
+!Load.bt_817000_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815782_m1.kV=0.44, Bus uc815782.1.2.4 kvBase = 0.38
+!setkvbase uc815782 kVLL=0.44
+!Load.bt_815782_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815782_m2.kV=0.44, Bus uc815782.1.2.4 kvBase = 0.38
+!setkvbase uc815782 kVLL=0.44
+!Load.bt_815782_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816625_m1.kV=0.44, Bus uc816625.1.2.4 kvBase = 0.38
+!setkvbase uc816625 kVLL=0.44
+!Load.bt_816625_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816625_m2.kV=0.44, Bus uc816625.1.2.4 kvBase = 0.38
+!setkvbase uc816625 kVLL=0.44
+!Load.bt_816625_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816566_m1.kV=0.44, Bus uc816566.1.2.4 kvBase = 0.38
+!setkvbase uc816566 kVLL=0.44
+!Load.bt_816566_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816566_m2.kV=0.44, Bus uc816566.1.2.4 kvBase = 0.38
+!setkvbase uc816566 kVLL=0.44
+!Load.bt_816566_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816567_m1.kV=0.44, Bus uc816567.1.2.4 kvBase = 0.38
+!setkvbase uc816567 kVLL=0.44
+!Load.bt_816567_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816567_m2.kV=0.44, Bus uc816567.1.2.4 kvBase = 0.38
+!setkvbase uc816567 kVLL=0.44
+!Load.bt_816567_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816756_m1.kV=0.44, Bus uc816756.1.2.4 kvBase = 0.38
+!setkvbase uc816756 kVLL=0.44
+!Load.bt_816756_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816756_m2.kV=0.44, Bus uc816756.1.2.4 kvBase = 0.38
+!setkvbase uc816756 kVLL=0.44
+!Load.bt_816756_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815986_m1.kV=0.44, Bus uc815986.1.2.4 kvBase = 0.38
+!setkvbase uc815986 kVLL=0.44
+!Load.bt_815986_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815986_m2.kV=0.44, Bus uc815986.1.2.4 kvBase = 0.38
+!setkvbase uc815986 kVLL=0.44
+!Load.bt_815986_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815832_m1.kV=0.44, Bus uc815832.1.2.4 kvBase = 0.38
+!setkvbase uc815832 kVLL=0.44
+!Load.bt_815832_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815832_m2.kV=0.44, Bus uc815832.1.2.4 kvBase = 0.38
+!setkvbase uc815832 kVLL=0.44
+!Load.bt_815832_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816636_m1.kV=0.44, Bus uc816636.1.2.4 kvBase = 0.38
+!setkvbase uc816636 kVLL=0.44
+!Load.bt_816636_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816636_m2.kV=0.44, Bus uc816636.1.2.4 kvBase = 0.38
+!setkvbase uc816636 kVLL=0.44
+!Load.bt_816636_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_828666_m1.kV=0.44, Bus uc828666.1.2.4 kvBase = 0.38
+!setkvbase uc828666 kVLL=0.44
+!Load.bt_828666_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_828666_m2.kV=0.44, Bus uc828666.1.2.4 kvBase = 0.38
+!setkvbase uc828666 kVLL=0.44
+!Load.bt_828666_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815529_m1.kV=0.44, Bus uc815529.1.2.4 kvBase = 0.38
+!setkvbase uc815529 kVLL=0.44
+!Load.bt_815529_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815529_m2.kV=0.44, Bus uc815529.1.2.4 kvBase = 0.38
+!setkvbase uc815529 kVLL=0.44
+!Load.bt_815529_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_835276_m1.kV=0.44, Bus uc835276.1.2.4 kvBase = 0.38
+!setkvbase uc835276 kVLL=0.44
+!Load.bt_835276_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_835276_m2.kV=0.44, Bus uc835276.1.2.4 kvBase = 0.38
+!setkvbase uc835276 kVLL=0.44
+!Load.bt_835276_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_836656_m1.kV=0.44, Bus uc836656.1.2.4 kvBase = 0.38
+!setkvbase uc836656 kVLL=0.44
+!Load.bt_836656_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_836656_m2.kV=0.44, Bus uc836656.1.2.4 kvBase = 0.38
+!setkvbase uc836656 kVLL=0.44
+!Load.bt_836656_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_834347_m1.kV=0.44, Bus uc834347.1.2.4 kvBase = 0.38
+!setkvbase uc834347 kVLL=0.44
+!Load.bt_834347_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_834347_m2.kV=0.44, Bus uc834347.1.2.4 kvBase = 0.38
+!setkvbase uc834347 kVLL=0.44
+!Load.bt_834347_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816532_m1.kV=0.44, Bus uc816532.1.2.4 kvBase = 0.38
+!setkvbase uc816532 kVLL=0.44
+!Load.bt_816532_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816532_m2.kV=0.44, Bus uc816532.1.2.4 kvBase = 0.38
+!setkvbase uc816532 kVLL=0.44
+!Load.bt_816532_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816533_m1.kV=0.44, Bus uc816533.1.2.4 kvBase = 0.38
+!setkvbase uc816533 kVLL=0.44
+!Load.bt_816533_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816533_m2.kV=0.44, Bus uc816533.1.2.4 kvBase = 0.38
+!setkvbase uc816533 kVLL=0.44
+!Load.bt_816533_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_819338_m1.kV=0.44, Bus uc819338.1.2.4 kvBase = 0.38
+!setkvbase uc819338 kVLL=0.44
+!Load.bt_819338_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_819338_m2.kV=0.44, Bus uc819338.1.2.4 kvBase = 0.38
+!setkvbase uc819338 kVLL=0.44
+!Load.bt_819338_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815670_m1.kV=0.44, Bus uc815670.1.2.4 kvBase = 0.38
+!setkvbase uc815670 kVLL=0.44
+!Load.bt_815670_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815670_m2.kV=0.44, Bus uc815670.1.2.4 kvBase = 0.38
+!setkvbase uc815670 kVLL=0.44
+!Load.bt_815670_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_820744_m1.kV=0.44, Bus uc820744.1.2.4 kvBase = 0.38
+!setkvbase uc820744 kVLL=0.44
+!Load.bt_820744_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_820744_m2.kV=0.44, Bus uc820744.1.2.4 kvBase = 0.38
+!setkvbase uc820744 kVLL=0.44
+!Load.bt_820744_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_819689_m1.kV=0.44, Bus uc819689.1.2.4 kvBase = 0.38
+!setkvbase uc819689 kVLL=0.44
+!Load.bt_819689_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_819689_m2.kV=0.44, Bus uc819689.1.2.4 kvBase = 0.38
+!setkvbase uc819689 kVLL=0.44
+!Load.bt_819689_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_820641_m1.kV=0.44, Bus uc820641.1.2.4 kvBase = 0.38
+!setkvbase uc820641 kVLL=0.44
+!Load.bt_820641_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_820641_m2.kV=0.44, Bus uc820641.1.2.4 kvBase = 0.38
+!setkvbase uc820641 kVLL=0.44
+!Load.bt_820641_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816410_m1.kV=0.44, Bus uc816410.1.2.4 kvBase = 0.38
+!setkvbase uc816410 kVLL=0.44
+!Load.bt_816410_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816410_m2.kV=0.44, Bus uc816410.1.2.4 kvBase = 0.38
+!setkvbase uc816410 kVLL=0.44
+!Load.bt_816410_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816455_m1.kV=0.44, Bus uc816455.1.2.4 kvBase = 0.38
+!setkvbase uc816455 kVLL=0.44
+!Load.bt_816455_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816455_m2.kV=0.44, Bus uc816455.1.2.4 kvBase = 0.38
+!setkvbase uc816455 kVLL=0.44
+!Load.bt_816455_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_821479_m1.kV=0.44, Bus uc821479.1.2.4 kvBase = 0.38
+!setkvbase uc821479 kVLL=0.44
+!Load.bt_821479_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_821479_m2.kV=0.44, Bus uc821479.1.2.4 kvBase = 0.38
+!setkvbase uc821479 kVLL=0.44
+!Load.bt_821479_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_819317_m1.kV=0.44, Bus uc819317.1.2.4 kvBase = 0.38
+!setkvbase uc819317 kVLL=0.44
+!Load.bt_819317_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_819317_m2.kV=0.44, Bus uc819317.1.2.4 kvBase = 0.38
+!setkvbase uc819317 kVLL=0.44
+!Load.bt_819317_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815632_m1.kV=0.44, Bus uc815632.1.2.4 kvBase = 0.38
+!setkvbase uc815632 kVLL=0.44
+!Load.bt_815632_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815632_m2.kV=0.44, Bus uc815632.1.2.4 kvBase = 0.38
+!setkvbase uc815632 kVLL=0.44
+!Load.bt_815632_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815745_m1.kV=0.44, Bus uc815745.1.2.4 kvBase = 0.38
+!setkvbase uc815745 kVLL=0.44
+!Load.bt_815745_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815745_m2.kV=0.44, Bus uc815745.1.2.4 kvBase = 0.38
+!setkvbase uc815745 kVLL=0.44
+!Load.bt_815745_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_821854_m1.kV=0.44, Bus uc821854.1.2.4 kvBase = 0.38
+!setkvbase uc821854 kVLL=0.44
+!Load.bt_821854_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_821854_m2.kV=0.44, Bus uc821854.1.2.4 kvBase = 0.38
+!setkvbase uc821854 kVLL=0.44
+!Load.bt_821854_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815635_m1.kV=0.44, Bus uc815635.1.2.4 kvBase = 0.38
+!setkvbase uc815635 kVLL=0.44
+!Load.bt_815635_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815635_m2.kV=0.44, Bus uc815635.1.2.4 kvBase = 0.38
+!setkvbase uc815635 kVLL=0.44
+!Load.bt_815635_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816463_m1.kV=0.44, Bus uc816463.1.2.4 kvBase = 0.38
+!setkvbase uc816463 kVLL=0.44
+!Load.bt_816463_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816463_m2.kV=0.44, Bus uc816463.1.2.4 kvBase = 0.38
+!setkvbase uc816463 kVLL=0.44
+!Load.bt_816463_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816501_m1.kV=0.44, Bus uc816501.1.2.4 kvBase = 0.38
+!setkvbase uc816501 kVLL=0.44
+!Load.bt_816501_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816501_m2.kV=0.44, Bus uc816501.1.2.4 kvBase = 0.38
+!setkvbase uc816501 kVLL=0.44
+!Load.bt_816501_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816423_m1.kV=0.44, Bus uc816423.1.2.4 kvBase = 0.38
+!setkvbase uc816423 kVLL=0.44
+!Load.bt_816423_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816423_m2.kV=0.44, Bus uc816423.1.2.4 kvBase = 0.38
+!setkvbase uc816423 kVLL=0.44
+!Load.bt_816423_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815922_m1.kV=0.44, Bus uc815922.1.2.4 kvBase = 0.38
+!setkvbase uc815922 kVLL=0.44
+!Load.bt_815922_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815922_m2.kV=0.44, Bus uc815922.1.2.4 kvBase = 0.38
+!setkvbase uc815922 kVLL=0.44
+!Load.bt_815922_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816577_m1.kV=0.44, Bus uc816577.1.2.4 kvBase = 0.38
+!setkvbase uc816577 kVLL=0.44
+!Load.bt_816577_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816577_m2.kV=0.44, Bus uc816577.1.2.4 kvBase = 0.38
+!setkvbase uc816577 kVLL=0.44
+!Load.bt_816577_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816579_m1.kV=0.44, Bus uc816579.1.2.4 kvBase = 0.38
+!setkvbase uc816579 kVLL=0.44
+!Load.bt_816579_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816579_m2.kV=0.44, Bus uc816579.1.2.4 kvBase = 0.38
+!setkvbase uc816579 kVLL=0.44
+!Load.bt_816579_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_827148_m1.kV=0.44, Bus uc827148.1.2.4 kvBase = 0.38
+!setkvbase uc827148 kVLL=0.44
+!Load.bt_827148_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_827148_m2.kV=0.44, Bus uc827148.1.2.4 kvBase = 0.38
+!setkvbase uc827148 kVLL=0.44
+!Load.bt_827148_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_828431_m1.kV=0.44, Bus uc828431.1.2.4 kvBase = 0.38
+!setkvbase uc828431 kVLL=0.44
+!Load.bt_828431_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_828431_m2.kV=0.44, Bus uc828431.1.2.4 kvBase = 0.38
+!setkvbase uc828431 kVLL=0.44
+!Load.bt_828431_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_833968_m1.kV=0.44, Bus uc833968.1.2.4 kvBase = 0.38
+!setkvbase uc833968 kVLL=0.44
+!Load.bt_833968_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_833968_m2.kV=0.44, Bus uc833968.1.2.4 kvBase = 0.38
+!setkvbase uc833968 kVLL=0.44
+!Load.bt_833968_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_824156_m1.kV=0.44, Bus uc824156.1.2.4 kvBase = 0.38
+!setkvbase uc824156 kVLL=0.44
+!Load.bt_824156_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_824156_m2.kV=0.44, Bus uc824156.1.2.4 kvBase = 0.38
+!setkvbase uc824156 kVLL=0.44
+!Load.bt_824156_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815735_m1.kV=0.44, Bus uc815735.1.2.4 kvBase = 0.38
+!setkvbase uc815735 kVLL=0.44
+!Load.bt_815735_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815735_m2.kV=0.44, Bus uc815735.1.2.4 kvBase = 0.38
+!setkvbase uc815735 kVLL=0.44
+!Load.bt_815735_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816048_m1.kV=0.44, Bus uc816048.1.2.4 kvBase = 0.38
+!setkvbase uc816048 kVLL=0.44
+!Load.bt_816048_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816048_m2.kV=0.44, Bus uc816048.1.2.4 kvBase = 0.38
+!setkvbase uc816048 kVLL=0.44
+!Load.bt_816048_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816574_m1.kV=0.44, Bus uc816574.1.2.4 kvBase = 0.38
+!setkvbase uc816574 kVLL=0.44
+!Load.bt_816574_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816574_m2.kV=0.44, Bus uc816574.1.2.4 kvBase = 0.38
+!setkvbase uc816574 kVLL=0.44
+!Load.bt_816574_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816039_m1.kV=0.44, Bus uc816039.1.2.4 kvBase = 0.38
+!setkvbase uc816039 kVLL=0.44
+!Load.bt_816039_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816039_m2.kV=0.44, Bus uc816039.1.2.4 kvBase = 0.38
+!setkvbase uc816039 kVLL=0.44
+!Load.bt_816039_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816040_m1.kV=0.44, Bus uc816040.1.2.4 kvBase = 0.38
+!setkvbase uc816040 kVLL=0.44
+!Load.bt_816040_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816040_m2.kV=0.44, Bus uc816040.1.2.4 kvBase = 0.38
+!setkvbase uc816040 kVLL=0.44
+!Load.bt_816040_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_830459_m1.kV=0.44, Bus uc830459.1.2.4 kvBase = 0.38
+!setkvbase uc830459 kVLL=0.44
+!Load.bt_830459_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_830459_m2.kV=0.44, Bus uc830459.1.2.4 kvBase = 0.38
+!setkvbase uc830459 kVLL=0.44
+!Load.bt_830459_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816446_m1.kV=0.44, Bus uc816446.1.2.4 kvBase = 0.38
+!setkvbase uc816446 kVLL=0.44
+!Load.bt_816446_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816446_m2.kV=0.44, Bus uc816446.1.2.4 kvBase = 0.38
+!setkvbase uc816446 kVLL=0.44
+!Load.bt_816446_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832294_m1.kV=0.44, Bus uc832294.1.2.4 kvBase = 0.38
+!setkvbase uc832294 kVLL=0.44
+!Load.bt_832294_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832294_m2.kV=0.44, Bus uc832294.1.2.4 kvBase = 0.38
+!setkvbase uc832294 kVLL=0.44
+!Load.bt_832294_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_831149_m1.kV=0.44, Bus uc831149.1.2.4 kvBase = 0.38
+!setkvbase uc831149 kVLL=0.44
+!Load.bt_831149_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_831149_m2.kV=0.44, Bus uc831149.1.2.4 kvBase = 0.38
+!setkvbase uc831149 kVLL=0.44
+!Load.bt_831149_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832447_m1.kV=0.44, Bus uc832447.1.2.4 kvBase = 0.38
+!setkvbase uc832447 kVLL=0.44
+!Load.bt_832447_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832447_m2.kV=0.44, Bus uc832447.1.2.4 kvBase = 0.38
+!setkvbase uc832447 kVLL=0.44
+!Load.bt_832447_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815773_m1.kV=0.44, Bus uc815773.1.2.4 kvBase = 0.38
+!setkvbase uc815773 kVLL=0.44
+!Load.bt_815773_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815773_m2.kV=0.44, Bus uc815773.1.2.4 kvBase = 0.38
+!setkvbase uc815773 kVLL=0.44
+!Load.bt_815773_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_831681_m1.kV=0.44, Bus uc831681.1.2.4 kvBase = 0.38
+!setkvbase uc831681 kVLL=0.44
+!Load.bt_831681_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_831681_m2.kV=0.44, Bus uc831681.1.2.4 kvBase = 0.38
+!setkvbase uc831681 kVLL=0.44
+!Load.bt_831681_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816421_m1.kV=0.44, Bus uc816421.1.2.4 kvBase = 0.38
+!setkvbase uc816421 kVLL=0.44
+!Load.bt_816421_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816421_m2.kV=0.44, Bus uc816421.1.2.4 kvBase = 0.38
+!setkvbase uc816421 kVLL=0.44
+!Load.bt_816421_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816035_m1.kV=0.44, Bus uc816035.1.2.4 kvBase = 0.38
+!setkvbase uc816035 kVLL=0.44
+!Load.bt_816035_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816035_m2.kV=0.44, Bus uc816035.1.2.4 kvBase = 0.38
+!setkvbase uc816035 kVLL=0.44
+!Load.bt_816035_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816036_m1.kV=0.44, Bus uc816036.1.2.4 kvBase = 0.38
+!setkvbase uc816036 kVLL=0.44
+!Load.bt_816036_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816036_m2.kV=0.44, Bus uc816036.1.2.4 kvBase = 0.38
+!setkvbase uc816036 kVLL=0.44
+!Load.bt_816036_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_833380_m1.kV=0.44, Bus uc833380.1.2.4 kvBase = 0.38
+!setkvbase uc833380 kVLL=0.44
+!Load.bt_833380_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_833380_m2.kV=0.44, Bus uc833380.1.2.4 kvBase = 0.38
+!setkvbase uc833380 kVLL=0.44
+!Load.bt_833380_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832567_m1.kV=0.44, Bus uc832567.1.2.4 kvBase = 0.38
+!setkvbase uc832567 kVLL=0.44
+!Load.bt_832567_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832567_m2.kV=0.44, Bus uc832567.1.2.4 kvBase = 0.38
+!setkvbase uc832567 kVLL=0.44
+!Load.bt_832567_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815776_m1.kV=0.44, Bus uc815776.1.2.4 kvBase = 0.38
+!setkvbase uc815776 kVLL=0.44
+!Load.bt_815776_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815776_m2.kV=0.44, Bus uc815776.1.2.4 kvBase = 0.38
+!setkvbase uc815776 kVLL=0.44
+!Load.bt_815776_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_836537_m1.kV=0.44, Bus uc836537.1.2.4 kvBase = 0.38
+!setkvbase uc836537 kVLL=0.44
+!Load.bt_836537_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_836537_m2.kV=0.44, Bus uc836537.1.2.4 kvBase = 0.38
+!setkvbase uc836537 kVLL=0.44
+!Load.bt_836537_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815857_m1.kV=0.44, Bus uc815857.1.2.4 kvBase = 0.38
+!setkvbase uc815857 kVLL=0.44
+!Load.bt_815857_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815857_m2.kV=0.44, Bus uc815857.1.2.4 kvBase = 0.38
+!setkvbase uc815857 kVLL=0.44
+!Load.bt_815857_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815845_m1.kV=0.44, Bus uc815845.1.2.4 kvBase = 0.38
+!setkvbase uc815845 kVLL=0.44
+!Load.bt_815845_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815845_m2.kV=0.44, Bus uc815845.1.2.4 kvBase = 0.38
+!setkvbase uc815845 kVLL=0.44
+!Load.bt_815845_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_835273_m1.kV=0.44, Bus uc835273.1.2.4 kvBase = 0.38
+!setkvbase uc835273 kVLL=0.44
+!Load.bt_835273_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_835273_m2.kV=0.44, Bus uc835273.1.2.4 kvBase = 0.38
+!setkvbase uc835273 kVLL=0.44
+!Load.bt_835273_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_837852_m1.kV=0.44, Bus uc837852.1.2.4 kvBase = 0.38
+!setkvbase uc837852 kVLL=0.44
+!Load.bt_837852_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_837852_m2.kV=0.44, Bus uc837852.1.2.4 kvBase = 0.38
+!setkvbase uc837852 kVLL=0.44
+!Load.bt_837852_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816772_m1.kV=0.44, Bus uc816772.1.2.4 kvBase = 0.38
+!setkvbase uc816772 kVLL=0.44
+!Load.bt_816772_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816772_m2.kV=0.44, Bus uc816772.1.2.4 kvBase = 0.38
+!setkvbase uc816772 kVLL=0.44
+!Load.bt_816772_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816717_m1.kV=0.44, Bus uc816717.1.2.4 kvBase = 0.38
+!setkvbase uc816717 kVLL=0.44
+!Load.bt_816717_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816717_m2.kV=0.44, Bus uc816717.1.2.4 kvBase = 0.38
+!setkvbase uc816717 kVLL=0.44
+!Load.bt_816717_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816781_m1.kV=0.44, Bus uc816781.1.2.4 kvBase = 0.38
+!setkvbase uc816781 kVLL=0.44
+!Load.bt_816781_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816781_m2.kV=0.44, Bus uc816781.1.2.4 kvBase = 0.38
+!setkvbase uc816781 kVLL=0.44
+!Load.bt_816781_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815661_m1.kV=0.44, Bus uc815661.1.2.4 kvBase = 0.38
+!setkvbase uc815661 kVLL=0.44
+!Load.bt_815661_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815661_m2.kV=0.44, Bus uc815661.1.2.4 kvBase = 0.38
+!setkvbase uc815661 kVLL=0.44
+!Load.bt_815661_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816469_m1.kV=0.44, Bus uc816469.1.2.4 kvBase = 0.38
+!setkvbase uc816469 kVLL=0.44
+!Load.bt_816469_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816469_m2.kV=0.44, Bus uc816469.1.2.4 kvBase = 0.38
+!setkvbase uc816469 kVLL=0.44
+!Load.bt_816469_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816711_m1.kV=0.44, Bus uc816711.1.2.4 kvBase = 0.38
+!setkvbase uc816711 kVLL=0.44
+!Load.bt_816711_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816711_m2.kV=0.44, Bus uc816711.1.2.4 kvBase = 0.38
+!setkvbase uc816711 kVLL=0.44
+!Load.bt_816711_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816712_m1.kV=0.44, Bus uc816712.1.2.4 kvBase = 0.38
+!setkvbase uc816712 kVLL=0.44
+!Load.bt_816712_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816712_m2.kV=0.44, Bus uc816712.1.2.4 kvBase = 0.38
+!setkvbase uc816712 kVLL=0.44
+!Load.bt_816712_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816713_m1.kV=0.44, Bus uc816713.1.2.4 kvBase = 0.38
+!setkvbase uc816713 kVLL=0.44
+!Load.bt_816713_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816713_m2.kV=0.44, Bus uc816713.1.2.4 kvBase = 0.38
+!setkvbase uc816713 kVLL=0.44
+!Load.bt_816713_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816742_m1.kV=0.44, Bus uc816742.1.2.4 kvBase = 0.38
+!setkvbase uc816742 kVLL=0.44
+!Load.bt_816742_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816742_m2.kV=0.44, Bus uc816742.1.2.4 kvBase = 0.38
+!setkvbase uc816742 kVLL=0.44
+!Load.bt_816742_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816748_m1.kV=0.44, Bus uc816748.1.2.4 kvBase = 0.38
+!setkvbase uc816748 kVLL=0.44
+!Load.bt_816748_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816748_m2.kV=0.44, Bus uc816748.1.2.4 kvBase = 0.38
+!setkvbase uc816748 kVLL=0.44
+!Load.bt_816748_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816730_m1.kV=0.44, Bus uc816730.1.2.4 kvBase = 0.38
+!setkvbase uc816730 kVLL=0.44
+!Load.bt_816730_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816730_m2.kV=0.44, Bus uc816730.1.2.4 kvBase = 0.38
+!setkvbase uc816730 kVLL=0.44
+!Load.bt_816730_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816787_m1.kV=0.44, Bus uc816787.1.2.4 kvBase = 0.38
+!setkvbase uc816787 kVLL=0.44
+!Load.bt_816787_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816787_m2.kV=0.44, Bus uc816787.1.2.4 kvBase = 0.38
+!setkvbase uc816787 kVLL=0.44
+!Load.bt_816787_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_837320_m1.kV=0.44, Bus uc837320.1.2.4 kvBase = 0.38
+!setkvbase uc837320 kVLL=0.44
+!Load.bt_837320_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_837320_m2.kV=0.44, Bus uc837320.1.2.4 kvBase = 0.38
+!setkvbase uc837320 kVLL=0.44
+!Load.bt_837320_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_836898_m1.kV=0.44, Bus uc836898.1.2.4 kvBase = 0.38
+!setkvbase uc836898 kVLL=0.44
+!Load.bt_836898_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_836898_m2.kV=0.44, Bus uc836898.1.2.4 kvBase = 0.38
+!setkvbase uc836898 kVLL=0.44
+!Load.bt_836898_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816715_m1.kV=0.44, Bus uc816715.1.2.4 kvBase = 0.38
+!setkvbase uc816715 kVLL=0.44
+!Load.bt_816715_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816715_m2.kV=0.44, Bus uc816715.1.2.4 kvBase = 0.38
+!setkvbase uc816715 kVLL=0.44
+!Load.bt_816715_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815417_m1.kV=0.44, Bus uc815417.1.2.4 kvBase = 0.38
+!setkvbase uc815417 kVLL=0.44
+!Load.bt_815417_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815417_m2.kV=0.44, Bus uc815417.1.2.4 kvBase = 0.38
+!setkvbase uc815417 kVLL=0.44
+!Load.bt_815417_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815705_m1.kV=0.44, Bus uc815705.1.2.4 kvBase = 0.38
+!setkvbase uc815705 kVLL=0.44
+!Load.bt_815705_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815705_m2.kV=0.44, Bus uc815705.1.2.4 kvBase = 0.38
+!setkvbase uc815705 kVLL=0.44
+!Load.bt_815705_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_836618_m1.kV=0.44, Bus uc836618.1.2.4 kvBase = 0.38
+!setkvbase uc836618 kVLL=0.44
+!Load.bt_836618_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_836618_m2.kV=0.44, Bus uc836618.1.2.4 kvBase = 0.38
+!setkvbase uc836618 kVLL=0.44
+!Load.bt_836618_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815594_m1.kV=0.44, Bus uc815594.1.2.4 kvBase = 0.38
+!setkvbase uc815594 kVLL=0.44
+!Load.bt_815594_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815594_m2.kV=0.44, Bus uc815594.1.2.4 kvBase = 0.38
+!setkvbase uc815594 kVLL=0.44
+!Load.bt_815594_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_837094_m1.kV=0.44, Bus uc837094.1.2.4 kvBase = 0.38
+!setkvbase uc837094 kVLL=0.44
+!Load.bt_837094_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_837094_m2.kV=0.44, Bus uc837094.1.2.4 kvBase = 0.38
+!setkvbase uc837094 kVLL=0.44
+!Load.bt_837094_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832312_m1.kV=0.44, Bus uc832312.1.2.4 kvBase = 0.38
+!setkvbase uc832312 kVLL=0.44
+!Load.bt_832312_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832312_m2.kV=0.44, Bus uc832312.1.2.4 kvBase = 0.38
+!setkvbase uc832312 kVLL=0.44
+!Load.bt_832312_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_838369_m1.kV=0.44, Bus uc838369.1.2.4 kvBase = 0.38
+!setkvbase uc838369 kVLL=0.44
+!Load.bt_838369_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_838369_m2.kV=0.44, Bus uc838369.1.2.4 kvBase = 0.38
+!setkvbase uc838369 kVLL=0.44
+!Load.bt_838369_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816759_m1.kV=0.44, Bus uc816759.1.2.4 kvBase = 0.38
+!setkvbase uc816759 kVLL=0.44
+!Load.bt_816759_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816759_m2.kV=0.44, Bus uc816759.1.2.4 kvBase = 0.38
+!setkvbase uc816759 kVLL=0.44
+!Load.bt_816759_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816761_m1.kV=0.44, Bus uc816761.1.2.4 kvBase = 0.38
+!setkvbase uc816761 kVLL=0.44
+!Load.bt_816761_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816761_m2.kV=0.44, Bus uc816761.1.2.4 kvBase = 0.38
+!setkvbase uc816761 kVLL=0.44
+!Load.bt_816761_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816425_m1.kV=0.44, Bus uc816425.1.2.4 kvBase = 0.38
+!setkvbase uc816425 kVLL=0.44
+!Load.bt_816425_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816425_m2.kV=0.44, Bus uc816425.1.2.4 kvBase = 0.38
+!setkvbase uc816425 kVLL=0.44
+!Load.bt_816425_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816427_m1.kV=0.44, Bus uc816427.1.2.4 kvBase = 0.38
+!setkvbase uc816427 kVLL=0.44
+!Load.bt_816427_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816427_m2.kV=0.44, Bus uc816427.1.2.4 kvBase = 0.38
+!setkvbase uc816427 kVLL=0.44
+!Load.bt_816427_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816428_m1.kV=0.44, Bus uc816428.1.2.4 kvBase = 0.38
+!setkvbase uc816428 kVLL=0.44
+!Load.bt_816428_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816428_m2.kV=0.44, Bus uc816428.1.2.4 kvBase = 0.38
+!setkvbase uc816428 kVLL=0.44
+!Load.bt_816428_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816590_m1.kV=0.44, Bus uc816590.1.2.4 kvBase = 0.38
+!setkvbase uc816590 kVLL=0.44
+!Load.bt_816590_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816590_m2.kV=0.44, Bus uc816590.1.2.4 kvBase = 0.38
+!setkvbase uc816590 kVLL=0.44
+!Load.bt_816590_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_833158_m1.kV=0.44, Bus uc833158.1.2.4 kvBase = 0.38
+!setkvbase uc833158 kVLL=0.44
+!Load.bt_833158_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_833158_m2.kV=0.44, Bus uc833158.1.2.4 kvBase = 0.38
+!setkvbase uc833158 kVLL=0.44
+!Load.bt_833158_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816587_m1.kV=0.44, Bus uc816587.1.2.4 kvBase = 0.38
+!setkvbase uc816587 kVLL=0.44
+!Load.bt_816587_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816587_m2.kV=0.44, Bus uc816587.1.2.4 kvBase = 0.38
+!setkvbase uc816587 kVLL=0.44
+!Load.bt_816587_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832934_m1.kV=0.44, Bus uc832934.1.2.4 kvBase = 0.38
+!setkvbase uc832934 kVLL=0.44
+!Load.bt_832934_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_832934_m2.kV=0.44, Bus uc832934.1.2.4 kvBase = 0.38
+!setkvbase uc832934 kVLL=0.44
+!Load.bt_832934_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816586_m1.kV=0.44, Bus uc816586.1.2.4 kvBase = 0.38
+!setkvbase uc816586 kVLL=0.44
+!Load.bt_816586_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816586_m2.kV=0.44, Bus uc816586.1.2.4 kvBase = 0.38
+!setkvbase uc816586 kVLL=0.44
+!Load.bt_816586_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816583_m1.kV=0.44, Bus uc816583.1.2.4 kvBase = 0.38
+!setkvbase uc816583 kVLL=0.44
+!Load.bt_816583_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816583_m2.kV=0.44, Bus uc816583.1.2.4 kvBase = 0.38
+!setkvbase uc816583 kVLL=0.44
+!Load.bt_816583_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_836897_m1.kV=0.44, Bus uc836897.1.2.4 kvBase = 0.38
+!setkvbase uc836897 kVLL=0.44
+!Load.bt_836897_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_836897_m2.kV=0.44, Bus uc836897.1.2.4 kvBase = 0.38
+!setkvbase uc836897 kVLL=0.44
+!Load.bt_836897_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816591_m1.kV=0.44, Bus uc816591.1.2.4 kvBase = 0.38
+!setkvbase uc816591 kVLL=0.44
+!Load.bt_816591_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816591_m2.kV=0.44, Bus uc816591.1.2.4 kvBase = 0.38
+!setkvbase uc816591 kVLL=0.44
+!Load.bt_816591_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816592_m1.kV=0.44, Bus uc816592.1.2.4 kvBase = 0.38
+!setkvbase uc816592 kVLL=0.44
+!Load.bt_816592_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816592_m2.kV=0.44, Bus uc816592.1.2.4 kvBase = 0.38
+!setkvbase uc816592 kVLL=0.44
+!Load.bt_816592_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816593_m1.kV=0.44, Bus uc816593.1.2.4 kvBase = 0.38
+!setkvbase uc816593 kVLL=0.44
+!Load.bt_816593_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816593_m2.kV=0.44, Bus uc816593.1.2.4 kvBase = 0.38
+!setkvbase uc816593 kVLL=0.44
+!Load.bt_816593_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_837670_m1.kV=0.44, Bus uc837670.1.2.4 kvBase = 0.38
+!setkvbase uc837670 kVLL=0.44
+!Load.bt_837670_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_837670_m2.kV=0.44, Bus uc837670.1.2.4 kvBase = 0.38
+!setkvbase uc837670 kVLL=0.44
+!Load.bt_837670_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_826617_m1.kV=0.44, Bus uc826617.1.2.4 kvBase = 0.38
+!setkvbase uc826617 kVLL=0.44
+!Load.bt_826617_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_826617_m2.kV=0.44, Bus uc826617.1.2.4 kvBase = 0.38
+!setkvbase uc826617 kVLL=0.44
+!Load.bt_826617_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_838358_m1.kV=0.44, Bus uc838358.1.2.4 kvBase = 0.38
+!setkvbase uc838358 kVLL=0.44
+!Load.bt_838358_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_838358_m2.kV=0.44, Bus uc838358.1.2.4 kvBase = 0.38
+!setkvbase uc838358 kVLL=0.44
+!Load.bt_838358_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815822_m1.kV=0.44, Bus uc815822.1.2.4 kvBase = 0.38
+!setkvbase uc815822 kVLL=0.44
+!Load.bt_815822_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815822_m2.kV=0.44, Bus uc815822.1.2.4 kvBase = 0.38
+!setkvbase uc815822 kVLL=0.44
+!Load.bt_815822_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816516_m1.kV=0.44, Bus uc816516.1.2.4 kvBase = 0.38
+!setkvbase uc816516 kVLL=0.44
+!Load.bt_816516_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816516_m2.kV=0.44, Bus uc816516.1.2.4 kvBase = 0.38
+!setkvbase uc816516 kVLL=0.44
+!Load.bt_816516_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816517_m1.kV=0.44, Bus uc816517.1.2.4 kvBase = 0.38
+!setkvbase uc816517 kVLL=0.44
+!Load.bt_816517_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816517_m2.kV=0.44, Bus uc816517.1.2.4 kvBase = 0.38
+!setkvbase uc816517 kVLL=0.44
+!Load.bt_816517_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816518_m1.kV=0.44, Bus uc816518.1.2.4 kvBase = 0.38
+!setkvbase uc816518 kVLL=0.44
+!Load.bt_816518_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816518_m2.kV=0.44, Bus uc816518.1.2.4 kvBase = 0.38
+!setkvbase uc816518 kVLL=0.44
+!Load.bt_816518_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816521_m1.kV=0.44, Bus uc816521.1.2.4 kvBase = 0.38
+!setkvbase uc816521 kVLL=0.44
+!Load.bt_816521_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816521_m2.kV=0.44, Bus uc816521.1.2.4 kvBase = 0.38
+!setkvbase uc816521 kVLL=0.44
+!Load.bt_816521_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816033_m1.kV=0.44, Bus uc816033.1.2.4 kvBase = 0.38
+!setkvbase uc816033 kVLL=0.44
+!Load.bt_816033_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816033_m2.kV=0.44, Bus uc816033.1.2.4 kvBase = 0.38
+!setkvbase uc816033 kVLL=0.44
+!Load.bt_816033_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816034_m1.kV=0.44, Bus uc816034.1.2.4 kvBase = 0.38
+!setkvbase uc816034 kVLL=0.44
+!Load.bt_816034_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816034_m2.kV=0.44, Bus uc816034.1.2.4 kvBase = 0.38
+!setkvbase uc816034 kVLL=0.44
+!Load.bt_816034_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_837095_m1.kV=0.44, Bus uc837095.1.2.4 kvBase = 0.38
+!setkvbase uc837095 kVLL=0.44
+!Load.bt_837095_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_837095_m2.kV=0.44, Bus uc837095.1.2.4 kvBase = 0.38
+!setkvbase uc837095 kVLL=0.44
+!Load.bt_837095_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816047_m1.kV=0.44, Bus uc816047.1.2.4 kvBase = 0.38
+!setkvbase uc816047 kVLL=0.44
+!Load.bt_816047_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816047_m2.kV=0.44, Bus uc816047.1.2.4 kvBase = 0.38
+!setkvbase uc816047 kVLL=0.44
+!Load.bt_816047_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_826390_m1.kV=0.44, Bus uc826390.1.2.4 kvBase = 0.38
+!setkvbase uc826390 kVLL=0.44
+!Load.bt_826390_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_826390_m2.kV=0.44, Bus uc826390.1.2.4 kvBase = 0.38
+!setkvbase uc826390 kVLL=0.44
+!Load.bt_826390_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816509_m1.kV=0.44, Bus uc816509.1.2.4 kvBase = 0.38
+!setkvbase uc816509 kVLL=0.44
+!Load.bt_816509_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816509_m2.kV=0.44, Bus uc816509.1.2.4 kvBase = 0.38
+!setkvbase uc816509 kVLL=0.44
+!Load.bt_816509_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816510_m1.kV=0.44, Bus uc816510.1.2.4 kvBase = 0.38
+!setkvbase uc816510 kVLL=0.44
+!Load.bt_816510_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816510_m2.kV=0.44, Bus uc816510.1.2.4 kvBase = 0.38
+!setkvbase uc816510 kVLL=0.44
+!Load.bt_816510_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_822066_m1.kV=0.44, Bus uc822066.1.2.4 kvBase = 0.38
+!setkvbase uc822066 kVLL=0.44
+!Load.bt_822066_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_822066_m2.kV=0.44, Bus uc822066.1.2.4 kvBase = 0.38
+!setkvbase uc822066 kVLL=0.44
+!Load.bt_822066_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816038_m1.kV=0.44, Bus uc816038.1.2.4 kvBase = 0.38
+!setkvbase uc816038 kVLL=0.44
+!Load.bt_816038_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816038_m2.kV=0.44, Bus uc816038.1.2.4 kvBase = 0.38
+!setkvbase uc816038 kVLL=0.44
+!Load.bt_816038_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816524_m1.kV=0.44, Bus uc816524.1.2.4 kvBase = 0.38
+!setkvbase uc816524 kVLL=0.44
+!Load.bt_816524_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816524_m2.kV=0.44, Bus uc816524.1.2.4 kvBase = 0.38
+!setkvbase uc816524 kVLL=0.44
+!Load.bt_816524_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816525_m1.kV=0.44, Bus uc816525.1.2.4 kvBase = 0.38
+!setkvbase uc816525 kVLL=0.44
+!Load.bt_816525_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816525_m2.kV=0.44, Bus uc816525.1.2.4 kvBase = 0.38
+!setkvbase uc816525 kVLL=0.44
+!Load.bt_816525_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_834892_m1.kV=0.44, Bus uc834892.1.2.4 kvBase = 0.38
+!setkvbase uc834892 kVLL=0.44
+!Load.bt_834892_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_834892_m2.kV=0.44, Bus uc834892.1.2.4 kvBase = 0.38
+!setkvbase uc834892 kVLL=0.44
+!Load.bt_834892_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816508_m1.kV=0.44, Bus uc816508.1.2.4 kvBase = 0.38
+!setkvbase uc816508 kVLL=0.44
+!Load.bt_816508_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816508_m2.kV=0.44, Bus uc816508.1.2.4 kvBase = 0.38
+!setkvbase uc816508 kVLL=0.44
+!Load.bt_816508_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_827154_m1.kV=0.44, Bus uc827154.1.2.4 kvBase = 0.38
+!setkvbase uc827154 kVLL=0.44
+!Load.bt_827154_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_827154_m2.kV=0.44, Bus uc827154.1.2.4 kvBase = 0.38
+!setkvbase uc827154 kVLL=0.44
+!Load.bt_827154_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815423_m1.kV=0.44, Bus uc815423.1.2.4 kvBase = 0.38
+!setkvbase uc815423 kVLL=0.44
+!Load.bt_815423_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815423_m2.kV=0.44, Bus uc815423.1.2.4 kvBase = 0.38
+!setkvbase uc815423 kVLL=0.44
+!Load.bt_815423_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815424_m1.kV=0.44, Bus uc815424.1.2.4 kvBase = 0.38
+!setkvbase uc815424 kVLL=0.44
+!Load.bt_815424_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815424_m2.kV=0.44, Bus uc815424.1.2.4 kvBase = 0.38
+!setkvbase uc815424 kVLL=0.44
+!Load.bt_815424_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_838869_m1.kV=0.44, Bus uc838869.1.2.4 kvBase = 0.38
+!setkvbase uc838869 kVLL=0.44
+!Load.bt_838869_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_838869_m2.kV=0.44, Bus uc838869.1.2.4 kvBase = 0.38
+!setkvbase uc838869 kVLL=0.44
+!Load.bt_838869_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710910_m1.kV=0.44, Bus uc710910.1.2.4 kvBase = 0.38
+!setkvbase uc710910 kVLL=0.44
+!Load.bt_710910_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710910_m2.kV=0.44, Bus uc710910.1.2.4 kvBase = 0.38
+!setkvbase uc710910 kVLL=0.44
+!Load.bt_710910_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710912_m1.kV=0.44, Bus uc710912.1.2.4 kvBase = 0.38
+!setkvbase uc710912 kVLL=0.44
+!Load.bt_710912_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_710912_m2.kV=0.44, Bus uc710912.1.2.4 kvBase = 0.38
+!setkvbase uc710912 kVLL=0.44
+!Load.bt_710912_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_719881_m1.kV=0.44, Bus uc719881.1.2.4 kvBase = 0.38
+!setkvbase uc719881 kVLL=0.44
+!Load.bt_719881_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_719881_m2.kV=0.44, Bus uc719881.1.2.4 kvBase = 0.38
+!setkvbase uc719881 kVLL=0.44
+!Load.bt_719881_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815412_m1.kV=0.44, Bus uc815412.1.2.4 kvBase = 0.38
+!setkvbase uc815412 kVLL=0.44
+!Load.bt_815412_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815412_m2.kV=0.44, Bus uc815412.1.2.4 kvBase = 0.38
+!setkvbase uc815412 kVLL=0.44
+!Load.bt_815412_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_822076_m1.kV=0.44, Bus uc822076.1.2.4 kvBase = 0.38
+!setkvbase uc822076 kVLL=0.44
+!Load.bt_822076_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_822076_m2.kV=0.44, Bus uc822076.1.2.4 kvBase = 0.38
+!setkvbase uc822076 kVLL=0.44
+!Load.bt_822076_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815901_m1.kV=0.44, Bus uc815901.1.2.4 kvBase = 0.38
+!setkvbase uc815901 kVLL=0.44
+!Load.bt_815901_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815901_m2.kV=0.44, Bus uc815901.1.2.4 kvBase = 0.38
+!setkvbase uc815901 kVLL=0.44
+!Load.bt_815901_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815910_m1.kV=0.44, Bus uc815910.1.2.4 kvBase = 0.38
+!setkvbase uc815910 kVLL=0.44
+!Load.bt_815910_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815910_m2.kV=0.44, Bus uc815910.1.2.4 kvBase = 0.38
+!setkvbase uc815910 kVLL=0.44
+!Load.bt_815910_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815936_m1.kV=0.44, Bus uc815936.1.2.4 kvBase = 0.38
+!setkvbase uc815936 kVLL=0.44
+!Load.bt_815936_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815936_m2.kV=0.44, Bus uc815936.1.2.4 kvBase = 0.38
+!setkvbase uc815936 kVLL=0.44
+!Load.bt_815936_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711154_m1.kV=0.44, Bus uc711154.1.2.4 kvBase = 0.38
+!setkvbase uc711154 kVLL=0.44
+!Load.bt_711154_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_711154_m2.kV=0.44, Bus uc711154.1.2.4 kvBase = 0.38
+!setkvbase uc711154 kVLL=0.44
+!Load.bt_711154_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816551_m1.kV=0.44, Bus uc816551.1.2.4 kvBase = 0.38
+!setkvbase uc816551 kVLL=0.44
+!Load.bt_816551_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816551_m2.kV=0.44, Bus uc816551.1.2.4 kvBase = 0.38
+!setkvbase uc816551 kVLL=0.44
+!Load.bt_816551_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816939_m1.kV=0.44, Bus uc816939.1.2.4 kvBase = 0.38
+!setkvbase uc816939 kVLL=0.44
+!Load.bt_816939_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816939_m2.kV=0.44, Bus uc816939.1.2.4 kvBase = 0.38
+!setkvbase uc816939 kVLL=0.44
+!Load.bt_816939_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815807_m1.kV=0.44, Bus uc815807.1.2.4 kvBase = 0.38
+!setkvbase uc815807 kVLL=0.44
+!Load.bt_815807_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815807_m2.kV=0.44, Bus uc815807.1.2.4 kvBase = 0.38
+!setkvbase uc815807 kVLL=0.44
+!Load.bt_815807_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815945_m1.kV=0.44, Bus uc815945.1.2.4 kvBase = 0.38
+!setkvbase uc815945 kVLL=0.44
+!Load.bt_815945_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815945_m2.kV=0.44, Bus uc815945.1.2.4 kvBase = 0.38
+!setkvbase uc815945 kVLL=0.44
+!Load.bt_815945_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816027_m1.kV=0.44, Bus uc816027.1.2.4 kvBase = 0.38
+!setkvbase uc816027 kVLL=0.44
+!Load.bt_816027_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816027_m2.kV=0.44, Bus uc816027.1.2.4 kvBase = 0.38
+!setkvbase uc816027 kVLL=0.44
+!Load.bt_816027_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816009_m1.kV=0.44, Bus uc816009.1.2.4 kvBase = 0.38
+!setkvbase uc816009 kVLL=0.44
+!Load.bt_816009_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816009_m2.kV=0.44, Bus uc816009.1.2.4 kvBase = 0.38
+!setkvbase uc816009 kVLL=0.44
+!Load.bt_816009_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816514_m1.kV=0.44, Bus uc816514.1.2.4 kvBase = 0.38
+!setkvbase uc816514 kVLL=0.44
+!Load.bt_816514_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816514_m2.kV=0.44, Bus uc816514.1.2.4 kvBase = 0.38
+!setkvbase uc816514 kVLL=0.44
+!Load.bt_816514_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815963_m1.kV=0.44, Bus uc815963.1.2.4 kvBase = 0.38
+!setkvbase uc815963 kVLL=0.44
+!Load.bt_815963_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_815963_m2.kV=0.44, Bus uc815963.1.2.4 kvBase = 0.38
+!setkvbase uc815963 kVLL=0.44
+!Load.bt_815963_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816553_m1.kV=0.44, Bus uc816553.1.2.4 kvBase = 0.38
+!setkvbase uc816553 kVLL=0.44
+!Load.bt_816553_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816553_m2.kV=0.44, Bus uc816553.1.2.4 kvBase = 0.38
+!setkvbase uc816553 kVLL=0.44
+!Load.bt_816553_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816443_m1.kV=0.44, Bus uc816443.1.2.4 kvBase = 0.38
+!setkvbase uc816443 kVLL=0.44
+!Load.bt_816443_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816443_m2.kV=0.44, Bus uc816443.1.2.4 kvBase = 0.38
+!setkvbase uc816443 kVLL=0.44
+!Load.bt_816443_m2.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816835_m1.kV=0.22, Bus uc816835.2.4 LN kvBase = 0.127017
+!setkvbase uc816835 kVLN=0.22
+!Load.bt_816835_m1.kV=0.127017
+!!!!! Voltage Base Mismatch, Load.bt_816835_m2.kV=0.22, Bus uc816835.2.4 LN kvBase = 0.127017
+!setkvbase uc816835 kVLN=0.22
+!Load.bt_816835_m2.kV=0.127017
+!!!!! Voltage Base Mismatch, Load.bt_816571_m1.kV=0.44, Bus uc816571.1.2.4 kvBase = 0.38
+!setkvbase uc816571 kVLL=0.44
+!Load.bt_816571_m1.kV=0.38
+!!!!! Voltage Base Mismatch, Load.bt_816571_m2.kV=0.44, Bus uc816571.1.2.4 kvBase = 0.38
+!setkvbase uc816571 kVLL=0.44
+!Load.bt_816571_m2.kV=0.38

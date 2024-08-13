@@ -1,0 +1,8 @@
+
+CONTROLLED TRANSFORMER TAP SETTINGS
+
+Name    RegControl        Tap      Min       Max     Step      Position      Winding      Direction       CogenMode
+
+rt25_2844    reg25_2844    1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+rt40_853     reg40_853     1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
+rt6_1628     reg6_1628     1.10000  0.90000  1.10000  0.00625     16      2      Forward      False
