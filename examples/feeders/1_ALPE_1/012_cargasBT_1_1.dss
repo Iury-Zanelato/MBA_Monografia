@@ -1,6 +1,6 @@
 New Load.BT_2519178_M1 bus1=UC2519178.1.4 phases=1 conn=Wye model=2 kv=13.8 kw=0.157969 pf=0.92 daily=RU1_DU status=variable vmaxpu=1.5 vminpu=0.92
 New Load.BT_2519178_M2 bus1=UC2519178.1.4 phases=1 conn=Wye model=3 kv=13.8 kw=0.157969 pf=0.92 daily=RU1_DU status=variable vmaxpu=1.5 vminpu=0.92
-New Load.BT_2533903_M1 bus1=UC2533903.1.4 phases=1 conn=Wye model=2 kv=0.22 kw=0 pf=0.92 daily=RU3_DU status=variable vmaxpu=1.5 vminpu=0.92
+New Load.BT_2533903_M1 bus1=UC2533903.1.4 phases=1 conn=Wye model=2 kv=13.8 kw=0 pf=0.92 daily=RU3_DU status=variable vmaxpu=1.5 vminpu=0.92
 New Load.BT_2533903_M2 bus1=UC2533903.1.4 phases=1 conn=Wye model=3 kv=0.22 kw=0 pf=0.92 daily=RU3_DU status=variable vmaxpu=1.5 vminpu=0.92
 New Load.BT_2534183_M1 bus1=UC2534183.1.2.3.4 phases=3 conn=Delta model=2 kv=0.22 kw=1.59486 pf=0.92 daily=PP2_DU status=variable vmaxpu=1.5 vminpu=0.92
 New Load.BT_2534183_M2 bus1=UC2534183.1.2.3.4 phases=3 conn=Delta model=3 kv=0.22 kw=1.59486 pf=0.92 daily=PP2_DU status=variable vmaxpu=1.5 vminpu=0.92

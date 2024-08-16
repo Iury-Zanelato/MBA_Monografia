@@ -1,4 +1,4 @@
-New Line.SMT_1 phases=2 bus1=183771.2.3 bus2= 183751.2.3 linecode=18_2 length=0.18687 units=km
+New Line.SMT_1 phases=2 bus1=183771 bus2= 183751.2.3 linecode=18_2 length=0.18687 units=km
 New Line.SMT_1000 phases=2 bus1=87881.3.1 bus2= 87891.3.1 linecode=18_2 length=0.10511 units=km
 New Line.SMT_1005 phases=1 bus1=138561.2 bus2= 138571.2 linecode=1_1 length=0.13885 units=km
 New Line.SMT_1006 phases=3 bus1=82191.1.2.3 bus2= 82181.1.2.3 linecode=10_3 length=0.08836 units=km
@@ -201,7 +201,7 @@ New Line.SMT_1263 phases=3 bus1=122611.1.2.3 bus2= 122601.1.2.3 linecode=10_3 le
 New Line.SMT_1267 phases=2 bus1=116431.2.3 bus2= 116511.2.3 linecode=18_2 length=0.11021 units=km
 New Line.SMT_1268 phases=3 bus1=176141.1.2.3 bus2= 348741.1.2.3 linecode=10_3 length=0.00316 units=km
 New Line.SMT_127 phases=3 bus1=127131.1.2.3 bus2= 127141.1.2.3 linecode=11_3 length=0.077 units=km
-New Line.SMT_1270 phases=2 bus1=221701.2.3 bus2= 183771.2.3 linecode=18_2 length=0.07603 units=km
+New Line.SMT_1270 phases=2 bus1=221701.2.3 bus2= 183771.2 linecode=18_2 length=0.07603 units=km
 New Line.SMT_1272 phases=3 bus1=717531.1.2.3 bus2= 139351.1.2.3 linecode=10_3 length=0.05189 units=km
 New Line.SMT_1273 phases=1 bus1=119131.2 bus2= 119141.2 linecode=1_1 length=0.10959 units=km
 New Line.SMT_1274 phases=3 bus1=80841.1.2.3 bus2= 80781.1.2.3 linecode=10_3 length=0.05215 units=km
@@ -2642,7 +2642,7 @@ New Line.SMT_34056 phases=3 bus1=141611.1.2.3 bus2= 96591.1.2.3 linecode=11_3 le
 New Line.SMT_34057 phases=3 bus1=310761.1.2.3 bus2= 141611.1.2.3 linecode=11_3 length=0.01581 units=km
 New Line.SMT_34058 phases=3 bus1=775331.1.2.3 bus2= 809171.1.2.3 linecode=11_3 length=0.00185 units=km
 New Line.SMT_34059 phases=3 bus1=329991.1.2.3 bus2= 775321.1.2.3 linecode=11_3 length=0.01598 units=km
-New Line.SMT_34060 phases=3 bus1=775351.1.2.3 bus2= 775331.1.2.3 linecode=11_3 length=0.02511 units=km
+New Line.SMT_ phases=3 bus1=775351.1.2.3 bus2= 775331.1.2.3 linecode=11_3 length=0.02511 units=km
 New Line.SMT_34061 phases=3 bus1=775321.1.2.3 bus2= 775341.1.2.3 linecode=11_3 length=0.00127 units=km
 New Line.SMT_34062 phases=3 bus1=8RL813.1.2.3 bus2= 775351.1.2.3 linecode=11_3 length=0.00105 units=km
 New Line.SMT_3407 phases=2 bus1=143241.3.1 bus2= 143251.3.1 linecode=18_2 length=0.08078 units=km
